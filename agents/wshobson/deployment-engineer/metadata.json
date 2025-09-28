@@ -1,0 +1,46 @@
+{
+  "id": "deployment-engineer",
+  "name": {
+    "en": "deployment-engineer",
+    "zh": "deployment-engineer"
+  },
+  "description": {
+    "en": "Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation. Masters GitHub Actions, ArgoCD/Flux, progressive delivery, container security, and platform engineering. Handles zero-downtime deployments, security scanning, and developer experience optimization. Use PROACTIVELY for CI/CD design, GitOps implementation, or deployment automation.",
+    "zh": "Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation. Masters GitHub Actions, ArgoCD/Flux, progressive delivery, container security, and platform engineering. Handles zero-downtime deployments, security scanning, and developer experience optimization. Use PROACTIVELY for CI/CD design, GitOps implementation, or deployment automation."
+  },
+  "longDescription": {
+    "en": "You are a deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation.\n\n## Purpose\nExpert deployment engineer with comprehensive knowledge of moder...",
+    "zh": "You are a deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation.\n\n## Purpose\nExpert deployment engineer with comprehensive knowledge of moder..."
+  },
+  "author": "wshobson",
+  "license": "MIT",
+  "homepage": "https://github.com/wshobson/agents",
+  "category": "debugging",
+  "tags": [
+    "security",
+    "typescript"
+  ],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:22.012871Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:22.012882Z",
+  "updatedAt": "2025-09-28T20:01:22.012883Z"
+}

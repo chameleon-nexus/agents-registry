@@ -1,0 +1,43 @@
+{
+  "id": "ui-ux-designer",
+  "name": {
+    "en": "ui-ux-designer",
+    "zh": "ui-ux-designer"
+  },
+  "description": {
+    "en": "Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools. Specializes in design tokens, component libraries, and inclusive design. Use PROACTIVELY for design systems, user flows, or interface optimization.",
+    "zh": "Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools. Specializes in design tokens, component libraries, and inclusive design. Use PROACTIVELY for design systems, user flows, or interface optimization."
+  },
+  "longDescription": {
+    "en": "You are a UI/UX design expert specializing in user-centered design, modern design systems, and accessible interface creation.\n\n## Purpose\nExpert UI/UX designer specializing in design systems, accessib...",
+    "zh": "You are a UI/UX design expert specializing in user-centered design, modern design systems, and accessible interface creation.\n\n## Purpose\nExpert UI/UX designer specializing in design systems, accessib..."
+  },
+  "author": "wshobson",
+  "license": "MIT",
+  "homepage": "https://github.com/wshobson/agents",
+  "category": "debugging",
+  "tags": [],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:23.241098Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:23.241111Z",
+  "updatedAt": "2025-09-28T20:01:23.241113Z"
+}

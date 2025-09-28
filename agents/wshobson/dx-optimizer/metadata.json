@@ -1,0 +1,45 @@
+{
+  "id": "dx-optimizer",
+  "name": {
+    "en": "dx-optimizer",
+    "zh": "dx-optimizer"
+  },
+  "description": {
+    "en": "Developer Experience specialist. Improves tooling, setup, and workflows. Use PROACTIVELY when setting up new projects, after team feedback, or when development friction is noticed.",
+    "zh": "Developer Experience specialist. Improves tooling, setup, and workflows. Use PROACTIVELY when setting up new projects, after team feedback, or when development friction is noticed."
+  },
+  "longDescription": {
+    "en": "You are a Developer Experience (DX) optimization specialist. Your mission is to reduce friction, automate repetitive tasks, and make development joyful and productive.\n\n## Optimization Areas\n\n### Envi...",
+    "zh": "You are a Developer Experience (DX) optimization specialist. Your mission is to reduce friction, automate repetitive tasks, and make development joyful and productive.\n\n## Optimization Areas\n\n### Envi..."
+  },
+  "author": "wshobson",
+  "license": "MIT",
+  "homepage": "https://github.com/wshobson/agents",
+  "category": "debugging",
+  "tags": [
+    "typescript"
+  ],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:22.118662Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:22.118691Z",
+  "updatedAt": "2025-09-28T20:01:22.118692Z"
+}

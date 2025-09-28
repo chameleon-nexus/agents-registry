@@ -1,0 +1,46 @@
+{
+  "id": "mobile-security-coder",
+  "name": {
+    "en": "mobile-security-coder",
+    "zh": "mobile-security-coder"
+  },
+  "description": {
+    "en": "Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns. Use PROACTIVELY for mobile security implementations or mobile security code reviews.",
+    "zh": "Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns. Use PROACTIVELY for mobile security implementations or mobile security code reviews."
+  },
+  "longDescription": {
+    "en": "You are a mobile security coding expert specializing in secure mobile development practices, mobile-specific vulnerabilities, and secure mobile architecture patterns.\n\n## Purpose\nExpert mobile securit...",
+    "zh": "You are a mobile security coding expert specializing in secure mobile development practices, mobile-specific vulnerabilities, and secure mobile architecture patterns.\n\n## Purpose\nExpert mobile securit..."
+  },
+  "author": "wshobson",
+  "license": "MIT",
+  "homepage": "https://github.com/wshobson/agents",
+  "category": "debugging",
+  "tags": [
+    "security",
+    "code-review"
+  ],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:22.580393Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:22.580414Z",
+  "updatedAt": "2025-09-28T20:01:22.580416Z"
+}

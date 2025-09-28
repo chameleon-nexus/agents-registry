@@ -1,0 +1,45 @@
+{
+  "id": "observability-engineer",
+  "name": {
+    "en": "observability-engineer",
+    "zh": "observability-engineer"
+  },
+  "description": {
+    "en": "Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observability strategies, SLI/SLO management, and incident response workflows. Use PROACTIVELY for monitoring infrastructure, performance optimization, or production reliability.",
+    "zh": "Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observability strategies, SLI/SLO management, and incident response workflows. Use PROACTIVELY for monitoring infrastructure, performance optimization, or production reliability."
+  },
+  "longDescription": {
+    "en": "You are an observability engineer specializing in production-grade monitoring, logging, tracing, and reliability systems for enterprise-scale applications.\n\n## Purpose\nExpert observability engineer sp...",
+    "zh": "You are an observability engineer specializing in production-grade monitoring, logging, tracing, and reliability systems for enterprise-scale applications.\n\n## Purpose\nExpert observability engineer sp..."
+  },
+  "author": "wshobson",
+  "license": "MIT",
+  "homepage": "https://github.com/wshobson/agents",
+  "category": "debugging",
+  "tags": [
+    "typescript"
+  ],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:22.640158Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:22.640164Z",
+  "updatedAt": "2025-09-28T20:01:22.640165Z"
+}

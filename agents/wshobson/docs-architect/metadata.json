@@ -1,0 +1,43 @@
+{
+  "id": "docs-architect",
+  "name": {
+    "en": "docs-architect",
+    "zh": "docs-architect"
+  },
+  "description": {
+    "en": "Creates comprehensive technical documentation from existing codebases. Analyzes architecture, design patterns, and implementation details to produce long-form technical manuals and ebooks. Use PROACTIVELY for system documentation, architecture guides, or technical deep-dives.",
+    "zh": "Creates comprehensive technical documentation from existing codebases. Analyzes architecture, design patterns, and implementation details to produce long-form technical manuals and ebooks. Use PROACTIVELY for system documentation, architecture guides, or technical deep-dives."
+  },
+  "longDescription": {
+    "en": "You are a technical documentation architect specializing in creating comprehensive, long-form documentation that captures both the what and the why of complex systems.\n\n## Core Competencies\n\n1. **Code...",
+    "zh": "You are a technical documentation architect specializing in creating comprehensive, long-form documentation that captures both the what and the why of complex systems.\n\n## Core Competencies\n\n1. **Code..."
+  },
+  "author": "wshobson",
+  "license": "MIT",
+  "homepage": "https://github.com/wshobson/agents",
+  "category": "debugging",
+  "tags": [],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:22.092765Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:22.092778Z",
+  "updatedAt": "2025-09-28T20:01:22.092779Z"
+}

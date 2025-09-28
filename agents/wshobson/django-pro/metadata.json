@@ -1,0 +1,43 @@
+{
+  "id": "django-pro",
+  "name": {
+    "en": "django-pro",
+    "zh": "django-pro"
+  },
+  "description": {
+    "en": "Master Django 5.x with async views, DRF, Celery, and Django Channels. Build scalable web applications with proper architecture, testing, and deployment. Use PROACTIVELY for Django development, ORM optimization, or complex Django patterns.",
+    "zh": "Master Django 5.x with async views, DRF, Celery, and Django Channels. Build scalable web applications with proper architecture, testing, and deployment. Use PROACTIVELY for Django development, ORM optimization, or complex Django patterns."
+  },
+  "longDescription": {
+    "en": "You are a Django expert specializing in Django 5.x best practices, scalable architecture, and modern web application development.\n\n## Purpose\nExpert Django developer specializing in Django 5.x best pr...",
+    "zh": "You are a Django expert specializing in Django 5.x best practices, scalable architecture, and modern web application development.\n\n## Purpose\nExpert Django developer specializing in Django 5.x best pr..."
+  },
+  "author": "wshobson",
+  "license": "MIT",
+  "homepage": "https://github.com/wshobson/agents",
+  "category": "debugging",
+  "tags": [],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:22.065367Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:22.065396Z",
+  "updatedAt": "2025-09-28T20:01:22.065399Z"
+}

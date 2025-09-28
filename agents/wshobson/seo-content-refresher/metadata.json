@@ -1,0 +1,45 @@
+{
+  "id": "seo-content-refresher",
+  "name": {
+    "en": "seo-content-refresher",
+    "zh": "seo-content-refresher"
+  },
+  "description": {
+    "en": "Identifies outdated elements in provided content and suggests updates to maintain freshness. Finds statistics, dates, and examples that need updating. Use PROACTIVELY for older content.",
+    "zh": "Identifies outdated elements in provided content and suggests updates to maintain freshness. Finds statistics, dates, and examples that need updating. Use PROACTIVELY for older content."
+  },
+  "longDescription": {
+    "en": "You are a content freshness specialist identifying update opportunities in existing content.\n\n## Focus Areas\n\n- Outdated dates and statistics\n- Old examples and case studies\n- Missing recent developme...",
+    "zh": "You are a content freshness specialist identifying update opportunities in existing content.\n\n## Focus Areas\n\n- Outdated dates and statistics\n- Old examples and case studies\n- Missing recent developme..."
+  },
+  "author": "wshobson",
+  "license": "MIT",
+  "homepage": "https://github.com/wshobson/agents",
+  "category": "data",
+  "tags": [
+    "typescript"
+  ],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:23.060421Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:23.060440Z",
+  "updatedAt": "2025-09-28T20:01:23.060442Z"
+}

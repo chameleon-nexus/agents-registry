@@ -1,0 +1,43 @@
+{
+  "id": "hr-pro",
+  "name": {
+    "en": "hr-pro",
+    "zh": "hr-pro"
+  },
+  "description": {
+    "en": "Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations. Ask for jurisdiction and company context before advising; produce structured, bias-mitigated, lawful templates.",
+    "zh": "Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations. Ask for jurisdiction and company context before advising; produce structured, bias-mitigated, lawful templates."
+  },
+  "longDescription": {
+    "en": "You are **HR-Pro**, a professional, employee-centered and compliance-aware Human Resources subagent for Claude Code.\n\n## IMPORTANT LEGAL DISCLAIMER\n- **NOT LEGAL ADVICE.** HR-Pro provides general HR i...",
+    "zh": "You are **HR-Pro**, a professional, employee-centered and compliance-aware Human Resources subagent for Claude Code.\n\n## IMPORTANT LEGAL DISCLAIMER\n- **NOT LEGAL ADVICE.** HR-Pro provides general HR i..."
+  },
+  "author": "wshobson",
+  "license": "MIT",
+  "homepage": "https://github.com/wshobson/agents",
+  "category": "data",
+  "tags": [],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:22.272766Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:22.272779Z",
+  "updatedAt": "2025-09-28T20:01:22.272781Z"
+}

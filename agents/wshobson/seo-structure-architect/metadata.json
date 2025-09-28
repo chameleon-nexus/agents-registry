@@ -1,0 +1,45 @@
+{
+  "id": "seo-structure-architect",
+  "name": {
+    "en": "seo-structure-architect",
+    "zh": "seo-structure-architect"
+  },
+  "description": {
+    "en": "Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities. Creates search-friendly content organization. Use PROACTIVELY for content structuring.",
+    "zh": "Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities. Creates search-friendly content organization. Use PROACTIVELY for content structuring."
+  },
+  "longDescription": {
+    "en": "You are a content structure specialist analyzing and improving information architecture.\n\n## Focus Areas\n\n- Header tag hierarchy (H1-H6) analysis\n- Content organization and flow\n- Schema markup sugges...",
+    "zh": "You are a content structure specialist analyzing and improving information architecture.\n\n## Focus Areas\n\n- Header tag hierarchy (H1-H6) analysis\n- Content organization and flow\n- Schema markup sugges..."
+  },
+  "author": "wshobson",
+  "license": "MIT",
+  "homepage": "https://github.com/wshobson/agents",
+  "category": "data",
+  "tags": [
+    "typescript"
+  ],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:23.092804Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:23.092811Z",
+  "updatedAt": "2025-09-28T20:01:23.092812Z"
+}

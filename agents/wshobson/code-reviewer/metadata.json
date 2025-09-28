@@ -1,0 +1,46 @@
+{
+  "id": "code-reviewer",
+  "name": {
+    "en": "code-reviewer",
+    "zh": "code-reviewer"
+  },
+  "description": {
+    "en": "Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, performance optimization, and production reliability. Masters static analysis tools, security scanning, and configuration review with 2024/2025 best practices. Use PROACTIVELY for code quality assurance.",
+    "zh": "Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, performance optimization, and production reliability. Masters static analysis tools, security scanning, and configuration review with 2024/2025 best practices. Use PROACTIVELY for code quality assurance."
+  },
+  "longDescription": {
+    "en": "You are an elite code review expert specializing in modern code analysis techniques, AI-powered review tools, and production-grade quality assurance.\n\n## Expert Purpose\nMaster code reviewer focused on...",
+    "zh": "You are an elite code review expert specializing in modern code analysis techniques, AI-powered review tools, and production-grade quality assurance.\n\n## Expert Purpose\nMaster code reviewer focused on..."
+  },
+  "author": "wshobson",
+  "license": "MIT",
+  "homepage": "https://github.com/wshobson/agents",
+  "category": "debugging",
+  "tags": [
+    "security",
+    "code-review"
+  ],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:21.767488Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:21.767496Z",
+  "updatedAt": "2025-09-28T20:01:21.767497Z"
+}

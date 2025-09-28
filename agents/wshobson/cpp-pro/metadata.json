@@ -1,0 +1,43 @@
+{
+  "id": "cpp-pro",
+  "name": {
+    "en": "cpp-pro",
+    "zh": "cpp-pro"
+  },
+  "description": {
+    "en": "Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles templates, move semantics, and performance optimization. Use PROACTIVELY for C++ refactoring, memory safety, or complex C++ patterns.",
+    "zh": "Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles templates, move semantics, and performance optimization. Use PROACTIVELY for C++ refactoring, memory safety, or complex C++ patterns."
+  },
+  "longDescription": {
+    "en": "You are a C++ programming expert specializing in modern C++ and high-performance software.\n\n## Focus Areas\n\n- Modern C++ (C++11/14/17/20/23) features\n- RAII and smart pointers (unique_ptr, shared_ptr)...",
+    "zh": "You are a C++ programming expert specializing in modern C++ and high-performance software.\n\n## Focus Areas\n\n- Modern C++ (C++11/14/17/20/23) features\n- RAII and smart pointers (unique_ptr, shared_ptr)..."
+  },
+  "author": "wshobson",
+  "license": "MIT",
+  "homepage": "https://github.com/wshobson/agents",
+  "category": "debugging",
+  "tags": [],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:21.853705Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:21.853716Z",
+  "updatedAt": "2025-09-28T20:01:21.853717Z"
+}

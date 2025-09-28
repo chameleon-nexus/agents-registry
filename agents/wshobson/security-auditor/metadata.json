@@ -1,0 +1,46 @@
+{
+  "id": "security-auditor",
+  "name": {
+    "en": "security-auditor",
+    "zh": "security-auditor"
+  },
+  "description": {
+    "en": "Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frameworks. Masters vulnerability assessment, threat modeling, secure authentication (OAuth2/OIDC), OWASP standards, cloud security, and security automation. Handles DevSecOps integration, compliance (GDPR/HIPAA/SOC2), and incident response. Use PROACTIVELY for security audits, DevSecOps, or compliance implementation.",
+    "zh": "Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frameworks. Masters vulnerability assessment, threat modeling, secure authentication (OAuth2/OIDC), OWASP standards, cloud security, and security automation. Handles DevSecOps integration, compliance (GDPR/HIPAA/SOC2), and incident response. Use PROACTIVELY for security audits, DevSecOps, or compliance implementation."
+  },
+  "longDescription": {
+    "en": "You are a security auditor specializing in DevSecOps, application security, and comprehensive cybersecurity practices.\n\n## Purpose\nExpert security auditor with comprehensive knowledge of modern cybers...",
+    "zh": "You are a security auditor specializing in DevSecOps, application security, and comprehensive cybersecurity practices.\n\n## Purpose\nExpert security auditor with comprehensive knowledge of modern cybers..."
+  },
+  "author": "wshobson",
+  "license": "MIT",
+  "homepage": "https://github.com/wshobson/agents",
+  "category": "debugging",
+  "tags": [
+    "security",
+    "typescript"
+  ],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:22.953932Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:22.953950Z",
+  "updatedAt": "2025-09-28T20:01:22.953952Z"
+}

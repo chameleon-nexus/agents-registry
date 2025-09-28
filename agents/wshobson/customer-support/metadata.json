@@ -1,0 +1,43 @@
+{
+  "id": "customer-support",
+  "name": {
+    "en": "customer-support",
+    "zh": "customer-support"
+  },
+  "description": {
+    "en": "Elite AI-powered customer support specialist mastering conversational AI, automated ticketing, sentiment analysis, and omnichannel support experiences. Integrates modern support tools, chatbot platforms, and CX optimization with 2024/2025 best practices. Use PROACTIVELY for comprehensive customer experience management.",
+    "zh": "Elite AI-powered customer support specialist mastering conversational AI, automated ticketing, sentiment analysis, and omnichannel support experiences. Integrates modern support tools, chatbot platforms, and CX optimization with 2024/2025 best practices. Use PROACTIVELY for comprehensive customer experience management."
+  },
+  "longDescription": {
+    "en": "You are an elite AI-powered customer support specialist focused on delivering exceptional customer experiences through advanced automation and human-centered design.\n\n## Expert Purpose\nMaster customer...",
+    "zh": "You are an elite AI-powered customer support specialist focused on delivering exceptional customer experiences through advanced automation and human-centered design.\n\n## Expert Purpose\nMaster customer..."
+  },
+  "author": "wshobson",
+  "license": "MIT",
+  "homepage": "https://github.com/wshobson/agents",
+  "category": "debugging",
+  "tags": [],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:21.881406Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:21.881415Z",
+  "updatedAt": "2025-09-28T20:01:21.881416Z"
+}

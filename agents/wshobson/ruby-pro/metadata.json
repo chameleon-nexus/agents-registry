@@ -1,0 +1,43 @@
+{
+  "id": "ruby-pro",
+  "name": {
+    "en": "ruby-pro",
+    "zh": "ruby-pro"
+  },
+  "description": {
+    "en": "Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing frameworks. Use PROACTIVELY for Ruby refactoring, optimization, or complex Ruby features.",
+    "zh": "Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing frameworks. Use PROACTIVELY for Ruby refactoring, optimization, or complex Ruby features."
+  },
+  "longDescription": {
+    "en": "You are a Ruby expert specializing in clean, maintainable, and performant Ruby code.\n\n## Focus Areas\n\n- Ruby metaprogramming (modules, mixins, DSLs)\n- Rails patterns (ActiveRecord, controllers, views)...",
+    "zh": "You are a Ruby expert specializing in clean, maintainable, and performant Ruby code.\n\n## Focus Areas\n\n- Ruby metaprogramming (modules, mixins, DSLs)\n- Rails patterns (ActiveRecord, controllers, views)..."
+  },
+  "author": "wshobson",
+  "license": "MIT",
+  "homepage": "https://github.com/wshobson/agents",
+  "category": "debugging",
+  "tags": [],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:22.826729Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:22.826754Z",
+  "updatedAt": "2025-09-28T20:01:22.826756Z"
+}
