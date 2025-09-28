@@ -31,9 +31,9 @@ agents-registry/
 
 All files are accessible via GitHub Raw API:
 
-- **Registry Index**: `https://raw.githubusercontent.com/chameleon-nexus/agents-registry/main/registry.json`
-- **Agent Metadata**: `https://raw.githubusercontent.com/chameleon-nexus/agents-registry/main/agents/{author}/{agent-name}/metadata.json`
-- **Agent File**: `https://raw.githubusercontent.com/chameleon-nexus/agents-registry/main/agents/{author}/{agent-name}/agent.md`
+- **Registry Index**: `https://raw.githubusercontent.com/chameleon-nexus/agents-registry/master/registry.json`
+- **Agent Metadata**: `https://raw.githubusercontent.com/chameleon-nexus/agents-registry/master/agents/{author}/{agent-name}/metadata.json`
+- **Agent File**: `https://raw.githubusercontent.com/chameleon-nexus/agents-registry/master/agents/{author}/{agent-name}/agent.md`
 
 ## Usage
 
