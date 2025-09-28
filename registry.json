@@ -1,0 +1,66 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2024-01-15T10:30:00Z",
+  "totalAgents": 3,
+  "agents": {
+    "code-reviewer": {
+      "name": {
+        "en": "Code Reviewer",
+        "zh": "代码审查专家"
+      },
+      "description": {
+        "en": "Professional code quality inspection and security audit",
+        "zh": "专业的代码质量检查和安全审核"
+      },
+      "author": "Chameleon Team",
+      "category": "development",
+      "tags": ["code-review", "security", "quality", "typescript", "javascript"],
+      "latest": "1.0.0",
+      "versions": ["1.0.0"],
+      "downloads": 0,
+      "rating": 0,
+      "ratingCount": 0,
+      "license": "MIT",
+      "compatibility": {
+        "claudeCode": ">=1.0.0"
+      },
+      "createdAt": "2024-01-15T00:00:00Z",
+      "updatedAt": "2024-01-15T00:00:00Z"
+    }
+  },
+  "categories": {
+    "development": {
+      "en": "Code Development",
+      "zh": "代码开发",
+      "description": {
+        "en": "Agents for coding, refactoring, and code quality",
+        "zh": "用于编码、重构和代码质量的代理"
+      },
+      "icon": "💻"
+    },
+    "debugging": {
+      "en": "Problem Solving", 
+      "zh": "问题排查",
+      "description": {
+        "en": "Agents for debugging and troubleshooting",
+        "zh": "用于调试和故障排除的代理"
+      },
+      "icon": "🐛"
+    },
+    "data": {
+      "en": "Data & Analytics",
+      "zh": "数据分析", 
+      "description": {
+        "en": "Agents for data analysis and processing",
+        "zh": "用于数据分析和处理的代理"
+      },
+      "icon": "📊"
+    }
+  },
+  "stats": {
+    "totalDownloads": 0,
+    "activeUsers": 0,
+    "topAgents": [],
+    "recentUpdates": []
+  }
+}
