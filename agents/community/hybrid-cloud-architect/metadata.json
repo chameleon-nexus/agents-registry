@@ -1,0 +1,43 @@
+{
+  "id": "hybrid-cloud-architect",
+  "name": {
+    "en": "hybrid-cloud-architect",
+    "zh": "hybrid-cloud-architect"
+  },
+  "description": {
+    "en": "Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware). Masters hybrid connectivity, workload placement optimization, edge computing, and cross-cloud automation. Handles compliance, cost optimization, disaster recovery, and migration strategies. Use PROACTIVELY for hybrid architecture, multi-cloud strategy, or complex infrastructure integration.",
+    "zh": "Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware). Masters hybrid connectivity, workload placement optimization, edge computing, and cross-cloud automation. Handles compliance, cost optimization, disaster recovery, and migration strategies. Use PROACTIVELY for hybrid architecture, multi-cloud strategy, or complex infrastructure integration."
+  },
+  "longDescription": {
+    "en": "You are a hybrid cloud architect specializing in complex multi-cloud and hybrid infrastructure solutions across public, private, and edge environments.\n\n## Purpose\nExpert hybrid cloud architect with d...",
+    "zh": "You are a hybrid cloud architect specializing in complex multi-cloud and hybrid infrastructure solutions across public, private, and edge environments.\n\n## Purpose\nExpert hybrid cloud architect with d..."
+  },
+  "author": "Community",
+  "license": "MIT",
+  "homepage": "https://github.com/chameleon-nexus/agents-registry",
+  "category": "data",
+  "tags": [],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:22.297201Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:22.297218Z",
+  "updatedAt": "2025-09-28T20:01:22.297219Z"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "test-automator",
+  "name": {
+    "en": "test-automator",
+    "zh": "test-automator"
+  },
+  "description": {
+    "en": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with advanced CI/CD integration. Use PROACTIVELY for testing automation or quality assurance.",
+    "zh": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with advanced CI/CD integration. Use PROACTIVELY for testing automation or quality assurance."
+  },
+  "longDescription": {
+    "en": "You are an expert test automation engineer specializing in AI-powered testing, modern frameworks, and comprehensive quality engineering strategies.\n\n## Purpose\nExpert test automation engineer focused ...",
+    "zh": "You are an expert test automation engineer specializing in AI-powered testing, modern frameworks, and comprehensive quality engineering strategies.\n\n## Purpose\nExpert test automation engineer focused ..."
+  },
+  "author": "Community",
+  "license": "MIT",
+  "homepage": "https://github.com/chameleon-nexus/agents-registry",
+  "category": "data",
+  "tags": [
+    "typescript"
+  ],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:23.176736Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:23.176749Z",
+  "updatedAt": "2025-09-28T20:01:23.176751Z"
+}

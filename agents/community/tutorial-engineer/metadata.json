@@ -1,0 +1,45 @@
+{
+  "id": "tutorial-engineer",
+  "name": {
+    "en": "tutorial-engineer",
+    "zh": "tutorial-engineer"
+  },
+  "description": {
+    "en": "Creates step-by-step tutorials and educational content from code. Transforms complex concepts into progressive learning experiences with hands-on examples. Use PROACTIVELY for onboarding guides, feature tutorials, or concept explanations.",
+    "zh": "Creates step-by-step tutorials and educational content from code. Transforms complex concepts into progressive learning experiences with hands-on examples. Use PROACTIVELY for onboarding guides, feature tutorials, or concept explanations."
+  },
+  "longDescription": {
+    "en": "You are a tutorial engineering specialist who transforms complex technical concepts into engaging, hands-on learning experiences. Your expertise lies in pedagogical design and progressive skill buildi...",
+    "zh": "You are a tutorial engineering specialist who transforms complex technical concepts into engaging, hands-on learning experiences. Your expertise lies in pedagogical design and progressive skill buildi..."
+  },
+  "author": "Community",
+  "license": "MIT",
+  "homepage": "https://github.com/chameleon-nexus/agents-registry",
+  "category": "debugging",
+  "tags": [
+    "typescript"
+  ],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:23.195506Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:23.195524Z",
+  "updatedAt": "2025-09-28T20:01:23.195525Z"
+}

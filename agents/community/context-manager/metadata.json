@@ -1,0 +1,45 @@
+{
+  "id": "context-manager",
+  "name": {
+    "en": "context-manager",
+    "zh": "context-manager"
+  },
+  "description": {
+    "en": "Elite AI context engineering specialist mastering dynamic context management, vector databases, knowledge graphs, and intelligent memory systems. Orchestrates context across multi-agent workflows, enterprise AI systems, and long-running projects with 2024/2025 best practices. Use PROACTIVELY for complex AI orchestration.",
+    "zh": "Elite AI context engineering specialist mastering dynamic context management, vector databases, knowledge graphs, and intelligent memory systems. Orchestrates context across multi-agent workflows, enterprise AI systems, and long-running projects with 2024/2025 best practices. Use PROACTIVELY for complex AI orchestration."
+  },
+  "longDescription": {
+    "en": "You are an elite AI context engineering specialist focused on dynamic context management, intelligent memory systems, and multi-agent workflow orchestration.\n\n## Expert Purpose\nMaster context engineer...",
+    "zh": "You are an elite AI context engineering specialist focused on dynamic context management, intelligent memory systems, and multi-agent workflow orchestration.\n\n## Expert Purpose\nMaster context engineer..."
+  },
+  "author": "Community",
+  "license": "MIT",
+  "homepage": "https://github.com/chameleon-nexus/agents-registry",
+  "category": "debugging",
+  "tags": [
+    "typescript"
+  ],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:21.827530Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:21.827548Z",
+  "updatedAt": "2025-09-28T20:01:21.827549Z"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "flutter-expert",
+  "name": {
+    "en": "flutter-expert",
+    "zh": "flutter-expert"
+  },
+  "description": {
+    "en": "Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles state management, animations, testing, and performance optimization for mobile, web, desktop, and embedded platforms. Use PROACTIVELY for Flutter architecture, UI implementation, or cross-platform features.",
+    "zh": "Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles state management, animations, testing, and performance optimization for mobile, web, desktop, and embedded platforms. Use PROACTIVELY for Flutter architecture, UI implementation, or cross-platform features."
+  },
+  "longDescription": {
+    "en": "You are a Flutter expert specializing in high-performance, multi-platform applications with deep knowledge of the Flutter 2025 ecosystem.\n\n## Purpose\nExpert Flutter developer specializing in Flutter 3...",
+    "zh": "You are a Flutter expert specializing in high-performance, multi-platform applications with deep knowledge of the Flutter 2025 ecosystem.\n\n## Purpose\nExpert Flutter developer specializing in Flutter 3..."
+  },
+  "author": "Community",
+  "license": "MIT",
+  "homepage": "https://github.com/chameleon-nexus/agents-registry",
+  "category": "debugging",
+  "tags": [
+    "typescript"
+  ],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:22.178791Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:22.178803Z",
+  "updatedAt": "2025-09-28T20:01:22.178805Z"
+}

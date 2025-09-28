@@ -1,0 +1,43 @@
+{
+  "id": "php-pro",
+  "name": {
+    "en": "php-pro",
+    "zh": "php-pro"
+  },
+  "description": {
+    "en": "Write idiomatic PHP code with generators, iterators, SPL data structures, and modern OOP features. Use PROACTIVELY for high-performance PHP applications.",
+    "zh": "Write idiomatic PHP code with generators, iterators, SPL data structures, and modern OOP features. Use PROACTIVELY for high-performance PHP applications."
+  },
+  "longDescription": {
+    "en": "You are a PHP expert specializing in modern PHP development with focus on performance and idiomatic patterns.\n\n## Focus Areas\n\n- Generators and iterators for memory-efficient data processing\n- SPL dat...",
+    "zh": "You are a PHP expert specializing in modern PHP development with focus on performance and idiomatic patterns.\n\n## Focus Areas\n\n- Generators and iterators for memory-efficient data processing\n- SPL dat..."
+  },
+  "author": "Community",
+  "license": "MIT",
+  "homepage": "https://github.com/chameleon-nexus/agents-registry",
+  "category": "debugging",
+  "tags": [],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:22.701801Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:22.701819Z",
+  "updatedAt": "2025-09-28T20:01:22.701820Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "devops-troubleshooter",
+  "name": {
+    "en": "devops-troubleshooter",
+    "zh": "devops-troubleshooter"
+  },
+  "description": {
+    "en": "Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern observability. Masters log analysis, distributed tracing, Kubernetes debugging, performance optimization, and root cause analysis. Handles production outages, system reliability, and preventive monitoring. Use PROACTIVELY for debugging, incident response, or system troubleshooting.",
+    "zh": "Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern observability. Masters log analysis, distributed tracing, Kubernetes debugging, performance optimization, and root cause analysis. Handles production outages, system reliability, and preventive monitoring. Use PROACTIVELY for debugging, incident response, or system troubleshooting."
+  },
+  "longDescription": {
+    "en": "You are a DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern observability practices.\n\n## Purpose\nExpert DevOps troubleshooter with comprehensive knowledge o...",
+    "zh": "You are a DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern observability practices.\n\n## Purpose\nExpert DevOps troubleshooter with comprehensive knowledge o..."
+  },
+  "author": "Community",
+  "license": "MIT",
+  "homepage": "https://github.com/chameleon-nexus/agents-registry",
+  "category": "debugging",
+  "tags": [],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:22.041161Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:22.041195Z",
+  "updatedAt": "2025-09-28T20:01:22.041197Z"
+}

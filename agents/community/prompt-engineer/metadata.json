@@ -1,0 +1,45 @@
+{
+  "id": "prompt-engineer",
+  "name": {
+    "en": "prompt-engineer",
+    "zh": "prompt-engineer"
+  },
+  "description": {
+    "en": "Expert prompt engineer specializing in advanced prompting techniques, LLM optimization, and AI system design. Masters chain-of-thought, constitutional AI, and production prompt strategies. Use when building AI features, improving agent performance, or crafting system prompts.",
+    "zh": "Expert prompt engineer specializing in advanced prompting techniques, LLM optimization, and AI system design. Masters chain-of-thought, constitutional AI, and production prompt strategies. Use when building AI features, improving agent performance, or crafting system prompts."
+  },
+  "longDescription": {
+    "en": "You are an expert prompt engineer specializing in crafting effective prompts for LLMs and optimizing AI system performance through advanced prompting techniques.\n\nIMPORTANT: When creating prompts, ALW...",
+    "zh": "You are an expert prompt engineer specializing in crafting effective prompts for LLMs and optimizing AI system performance through advanced prompting techniques.\n\nIMPORTANT: When creating prompts, ALW..."
+  },
+  "author": "Community",
+  "license": "MIT",
+  "homepage": "https://github.com/chameleon-nexus/agents-registry",
+  "category": "debugging",
+  "tags": [
+    "typescript"
+  ],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:22.729614Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:22.729624Z",
+  "updatedAt": "2025-09-28T20:01:22.729625Z"
+}

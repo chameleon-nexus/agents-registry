@@ -1,0 +1,43 @@
+{
+  "id": "ui-visual-validator",
+  "name": {
+    "en": "ui-visual-validator",
+    "zh": "ui-visual-validator"
+  },
+  "description": {
+    "en": "Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification. Masters screenshot analysis, visual regression testing, and component validation. Use PROACTIVELY to verify UI modifications have achieved their intended goals through comprehensive visual analysis.",
+    "zh": "Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification. Masters screenshot analysis, visual regression testing, and component validation. Use PROACTIVELY to verify UI modifications have achieved their intended goals through comprehensive visual analysis."
+  },
+  "longDescription": {
+    "en": "You are an experienced UI visual validation expert specializing in comprehensive visual testing and design verification through rigorous analysis methodologies.\n\n## Purpose\nExpert visual validation sp...",
+    "zh": "You are an experienced UI visual validation expert specializing in comprehensive visual testing and design verification through rigorous analysis methodologies.\n\n## Purpose\nExpert visual validation sp..."
+  },
+  "author": "Community",
+  "license": "MIT",
+  "homepage": "https://github.com/chameleon-nexus/agents-registry",
+  "category": "debugging",
+  "tags": [],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:23.263606Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:23.263614Z",
+  "updatedAt": "2025-09-28T20:01:23.263615Z"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "seo-snippet-hunter",
+  "name": {
+    "en": "seo-snippet-hunter",
+    "zh": "seo-snippet-hunter"
+  },
+  "description": {
+    "en": "Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content.",
+    "zh": "Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content."
+  },
+  "longDescription": {
+    "en": "You are a featured snippet optimization specialist formatting content for position zero potential.\n\n## Focus Areas\n\n- Featured snippet content formatting\n- Question-answer structure\n- Definition optim...",
+    "zh": "You are a featured snippet optimization specialist formatting content for position zero potential.\n\n## Focus Areas\n\n- Featured snippet content formatting\n- Question-answer structure\n- Definition optim..."
+  },
+  "author": "Community",
+  "license": "MIT",
+  "homepage": "https://github.com/chameleon-nexus/agents-registry",
+  "category": "data",
+  "tags": [
+    "typescript"
+  ],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:23.090157Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:23.090172Z",
+  "updatedAt": "2025-09-28T20:01:23.090174Z"
+}

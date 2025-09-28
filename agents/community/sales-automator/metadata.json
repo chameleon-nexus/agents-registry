@@ -1,0 +1,45 @@
+{
+  "id": "sales-automator",
+  "name": {
+    "en": "sales-automator",
+    "zh": "sales-automator"
+  },
+  "description": {
+    "en": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing.",
+    "zh": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing."
+  },
+  "longDescription": {
+    "en": "You are a sales automation specialist focused on conversions and relationships.\n\n## Focus Areas\n\n- Cold email sequences with personalization\n- Follow-up campaigns and cadences\n- Proposal and quote tem...",
+    "zh": "You are a sales automation specialist focused on conversions and relationships.\n\n## Focus Areas\n\n- Cold email sequences with personalization\n- Follow-up campaigns and cadences\n- Proposal and quote tem..."
+  },
+  "author": "Community",
+  "license": "MIT",
+  "homepage": "https://github.com/chameleon-nexus/agents-registry",
+  "category": "development",
+  "tags": [
+    "typescript"
+  ],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:22.861570Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:22.861580Z",
+  "updatedAt": "2025-09-28T20:01:22.861582Z"
+}

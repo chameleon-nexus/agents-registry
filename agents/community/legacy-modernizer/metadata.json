@@ -1,0 +1,43 @@
+{
+  "id": "legacy-modernizer",
+  "name": {
+    "en": "legacy-modernizer",
+    "zh": "legacy-modernizer"
+  },
+  "description": {
+    "en": "Refactor legacy codebases, migrate outdated frameworks, and implement gradual modernization. Handles technical debt, dependency updates, and backward compatibility. Use PROACTIVELY for legacy system updates, framework migrations, or technical debt reduction.",
+    "zh": "Refactor legacy codebases, migrate outdated frameworks, and implement gradual modernization. Handles technical debt, dependency updates, and backward compatibility. Use PROACTIVELY for legacy system updates, framework migrations, or technical debt reduction."
+  },
+  "longDescription": {
+    "en": "You are a legacy modernization specialist focused on safe, incremental upgrades.\n\n## Focus Areas\n- Framework migrations (jQuery→React, Java 8→17, Python 2→3)\n- Database modernization (stored procs→ORM...",
+    "zh": "You are a legacy modernization specialist focused on safe, incremental upgrades.\n\n## Focus Areas\n- Framework migrations (jQuery→React, Java 8→17, Python 2→3)\n- Database modernization (stored procs→ORM..."
+  },
+  "author": "Community",
+  "license": "MIT",
+  "homepage": "https://github.com/chameleon-nexus/agents-registry",
+  "category": "data",
+  "tags": [],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:22.422340Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:22.422349Z",
+  "updatedAt": "2025-09-28T20:01:22.422350Z"
+}

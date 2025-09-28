@@ -1,0 +1,45 @@
+{
+  "id": "ml-engineer",
+  "name": {
+    "en": "ml-engineer",
+    "zh": "ml-engineer"
+  },
+  "description": {
+    "en": "Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks. Implements model serving, feature engineering, A/B testing, and monitoring. Use PROACTIVELY for ML model deployment, inference optimization, or production ML infrastructure.",
+    "zh": "Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks. Implements model serving, feature engineering, A/B testing, and monitoring. Use PROACTIVELY for ML model deployment, inference optimization, or production ML infrastructure."
+  },
+  "longDescription": {
+    "en": "You are an ML engineer specializing in production machine learning systems, model serving, and ML infrastructure.\n\n## Purpose\nExpert ML engineer specializing in production-ready machine learning syste...",
+    "zh": "You are an ML engineer specializing in production machine learning systems, model serving, and ML infrastructure.\n\n## Purpose\nExpert ML engineer specializing in production-ready machine learning syste..."
+  },
+  "author": "Community",
+  "license": "MIT",
+  "homepage": "https://github.com/chameleon-nexus/agents-registry",
+  "category": "debugging",
+  "tags": [
+    "typescript"
+  ],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:22.514147Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:22.514157Z",
+  "updatedAt": "2025-09-28T20:01:22.514158Z"
+}

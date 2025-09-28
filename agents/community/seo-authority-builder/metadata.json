@@ -1,0 +1,45 @@
+{
+  "id": "seo-authority-builder",
+  "name": {
+    "en": "seo-authority-builder",
+    "zh": "seo-authority-builder"
+  },
+  "description": {
+    "en": "Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust. Identifies missing credibility elements. Use PROACTIVELY for YMYL topics.",
+    "zh": "Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust. Identifies missing credibility elements. Use PROACTIVELY for YMYL topics."
+  },
+  "longDescription": {
+    "en": "You are an E-E-A-T specialist analyzing content for authority and trust signals.\n\n## Focus Areas\n\n- E-E-A-T signal optimization (Experience, Expertise, Authority, Trust)\n- Author bio and credentials\n-...",
+    "zh": "You are an E-E-A-T specialist analyzing content for authority and trust signals.\n\n## Focus Areas\n\n- E-E-A-T signal optimization (Experience, Expertise, Authority, Trust)\n- Author bio and credentials\n-..."
+  },
+  "author": "Community",
+  "license": "MIT",
+  "homepage": "https://github.com/chameleon-nexus/agents-registry",
+  "category": "data",
+  "tags": [
+    "typescript"
+  ],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:22.978898Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:22.978913Z",
+  "updatedAt": "2025-09-28T20:01:22.978916Z"
+}

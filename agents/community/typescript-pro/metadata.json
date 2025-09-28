@@ -1,0 +1,45 @@
+{
+  "id": "typescript-pro",
+  "name": {
+    "en": "typescript-pro",
+    "zh": "typescript-pro"
+  },
+  "description": {
+    "en": "Master TypeScript with advanced types, generics, and strict type safety. Handles complex type systems, decorators, and enterprise-grade patterns. Use PROACTIVELY for TypeScript architecture, type inference optimization, or advanced typing patterns.",
+    "zh": "Master TypeScript with advanced types, generics, and strict type safety. Handles complex type systems, decorators, and enterprise-grade patterns. Use PROACTIVELY for TypeScript architecture, type inference optimization, or advanced typing patterns."
+  },
+  "longDescription": {
+    "en": "You are a TypeScript expert specializing in advanced typing and enterprise-grade development.\n\n## Focus Areas\n- Advanced type systems (generics, conditional types, mapped types)\n- Strict TypeScript co...",
+    "zh": "You are a TypeScript expert specializing in advanced typing and enterprise-grade development.\n\n## Focus Areas\n- Advanced type systems (generics, conditional types, mapped types)\n- Strict TypeScript co..."
+  },
+  "author": "Community",
+  "license": "MIT",
+  "homepage": "https://github.com/chameleon-nexus/agents-registry",
+  "category": "debugging",
+  "tags": [
+    "typescript"
+  ],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:23.218357Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:23.218370Z",
+  "updatedAt": "2025-09-28T20:01:23.218371Z"
+}

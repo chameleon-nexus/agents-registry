@@ -1,0 +1,43 @@
+{
+  "id": "database-optimizer",
+  "name": {
+    "en": "database-optimizer",
+    "zh": "database-optimizer"
+  },
+  "description": {
+    "en": "Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures. Masters advanced indexing, N+1 resolution, multi-tier caching, partitioning strategies, and cloud database optimization. Handles complex query analysis, migration strategies, and performance monitoring. Use PROACTIVELY for database optimization, performance issues, or scalability challenges.",
+    "zh": "Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures. Masters advanced indexing, N+1 resolution, multi-tier caching, partitioning strategies, and cloud database optimization. Handles complex query analysis, migration strategies, and performance monitoring. Use PROACTIVELY for database optimization, performance issues, or scalability challenges."
+  },
+  "longDescription": {
+    "en": "You are a database optimization expert specializing in modern performance tuning, query optimization, and scalable database architectures.\n\n## Purpose\nExpert database optimizer with comprehensive know...",
+    "zh": "You are a database optimization expert specializing in modern performance tuning, query optimization, and scalable database architectures.\n\n## Purpose\nExpert database optimizer with comprehensive know..."
+  },
+  "author": "Community",
+  "license": "MIT",
+  "homepage": "https://github.com/chameleon-nexus/agents-registry",
+  "category": "data",
+  "tags": [],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:21.983101Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:21.983110Z",
+  "updatedAt": "2025-09-28T20:01:21.983111Z"
+}

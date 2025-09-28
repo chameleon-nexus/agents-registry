@@ -1,0 +1,43 @@
+{
+  "id": "seo-content-planner",
+  "name": {
+    "en": "seo-content-planner",
+    "zh": "seo-content-planner"
+  },
+  "description": {
+    "en": "Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and identifies topic gaps. Use PROACTIVELY for content strategy and planning.",
+    "zh": "Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and identifies topic gaps. Use PROACTIVELY for content strategy and planning."
+  },
+  "longDescription": {
+    "en": "You are an SEO content strategist creating comprehensive content plans and outlines.\n\n## Focus Areas\n\n- Topic cluster planning\n- Content gap identification\n- Comprehensive outline creation\n- Content c...",
+    "zh": "You are an SEO content strategist creating comprehensive content plans and outlines.\n\n## Focus Areas\n\n- Topic cluster planning\n- Content gap identification\n- Comprehensive outline creation\n- Content c..."
+  },
+  "author": "Community",
+  "license": "MIT",
+  "homepage": "https://github.com/chameleon-nexus/agents-registry",
+  "category": "data",
+  "tags": [],
+  "compatibility": {
+    "claudeCode": {
+      "minVersion": "1.0.0",
+      "tested": [
+        "1.0.0"
+      ]
+    }
+  },
+  "versions": {
+    "1.0.0": {
+      "releaseDate": "2025-09-28T20:01:23.057253Z",
+      "changes": "Imported from agents-main project",
+      "files": {
+        "agent": "agent.md"
+      }
+    }
+  },
+  "latest": "1.0.0",
+  "downloads": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-09-28T20:01:23.057265Z",
+  "updatedAt": "2025-09-28T20:01:23.057266Z"
+}
