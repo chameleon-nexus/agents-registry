@@ -10,9 +10,50 @@
     "zh": "代码审查、安全审计和最佳实践执行",
     "ja": "コードレビュー、セキュリティ監査、ベストプラクティス実施"
   },
-  "lastUpdated": "2025-09-29T03:10:00Z",
-  "totalAgents": 5,
+  "lastUpdated": "2025-09-29T07:45:00Z",
+  "totalAgents": 6,
   "agents": [
+    {
+      "id": "code-reviewer",
+      "author": "chameleon-team",
+      "name": {
+        "en": "Code Reviewer",
+        "zh": "代码审查专家",
+        "ja": "コードレビューア"
+      },
+      "description": {
+        "en": "Professional code quality inspection and security audit",
+        "zh": "专业的代码质量检查和安全审核",
+        "ja": "プロフェッショナルなコード品質検査とセキュリティ監査"
+      },
+      "category": "code-quality",
+      "tags": ["code-review", "security", "quality"],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": ["1.0.0"]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-29T07:00:00Z",
+          "changes": "Added from featured.json to resolve installation issues",
+          "files": {
+            "agent": "code-reviewer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.6,
+      "downloads": 1654,
+      "createdAt": "2025-09-29T07:00:00Z",
+      "updatedAt": "2025-09-29T07:00:00Z",
+      "license": "MIT",
+      "homepage": "https://github.com/chameleon-team/agents",
+      "files": {
+        "latest": "code-reviewer_v1.0.0.md"
+      }
+    },
     {
       "id": "backend-security-coder",
       "author": "wshobson",
