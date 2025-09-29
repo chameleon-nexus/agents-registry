@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "ui-ux-designer",
-        "zh": "ui-ux-designer",
-        "ja": "ui-ux-designer"
+        "zh": "UI/UX设计师",
+        "ja": "UI/UXデザイナー"
       },
       "description": {
         "en": "Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools. Specializes in design tokens, component libraries, and inclusive design. Use PROACTIVELY for design systems, user flows, or interface optimization.",
-        "zh": "Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools. Specializes in design tokens, component libraries, and inclusive design. Use PROACTIVELY for design systems, user flows, or interface optimization.",
-        "ja": "Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools. Specializes in design tokens, component libraries, and inclusive design. Use PROACTIVELY for design systems, user flows, or interface optimization."
+        "zh": "创建界面设计、线框图和设计系统。精通用户研究、可访问性标准和现代设计工具。专注于设计令牌、组件库和包容性设计。主动用于设计系统、用户流程或界面优化。",
+        "ja": "インターフェースデザイン、ワイヤーフレーム、デザインシステムを作成します。ユーザーリサーチ、アクセシビリティ基準、最新のデザインツールを習得しています。デザイントークン、コンポーネントライブラリ、インクルーシブデザインを専門としています。デザインシステム、ユーザーフロー、またはインターフェースの最適化に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],
@@ -61,13 +61,13 @@
       "author": "wshobson",
       "name": {
         "en": "ios-developer",
-        "zh": "ios-developer",
-        "ja": "ios-developer"
+        "zh": "iOS开发者",
+        "ja": "iOS開発者"
       },
       "description": {
         "en": "Develop native iOS applications with Swift/SwiftUI. Masters iOS 18, SwiftUI, UIKit integration, Core Data, networking, and App Store optimization. Use PROACTIVELY for iOS-specific features, App Store optimization, or native iOS development.",
-        "zh": "Develop native iOS applications with Swift/SwiftUI. Masters iOS 18, SwiftUI, UIKit integration, Core Data, networking, and App Store optimization. Use PROACTIVELY for iOS-specific features, App Store optimization, or native iOS development.",
-        "ja": "Develop native iOS applications with Swift/SwiftUI. Masters iOS 18, SwiftUI, UIKit integration, Core Data, networking, and App Store optimization. Use PROACTIVELY for iOS-specific features, App Store optimization, or native iOS development."
+        "zh": "使用Swift/SwiftUI开发原生iOS应用程序。精通iOS 18、SwiftUI、UIKit集成、Core Data、网络和App Store优化。主动用于iOS特定功能、App Store优化或原生iOS开发。",
+        "ja": "Swift/SwiftUIを使用してネイティブiOSアプリケーションを開発します。iOS 18、SwiftUI、UIKit統合、Core Data、ネットワーキング、App Storeの最適化を習得しています。iOS固有の機能、App Storeの最適化、またはネイティブiOS開発に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],
@@ -104,13 +104,13 @@
       "author": "wshobson",
       "name": {
         "en": "flutter-expert",
-        "zh": "flutter-expert",
-        "ja": "flutter-expert"
+        "zh": "Flutter专家",
+        "ja": "Flutterエキスパート"
       },
       "description": {
         "en": "Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles state management, animations, testing, and performance optimization for mobile, web, desktop, and embedded platforms. Use PROACTIVELY for Flutter architecture, UI implementation, or cross-platform features.",
-        "zh": "Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles state management, animations, testing, and performance optimization for mobile, web, desktop, and embedded platforms. Use PROACTIVELY for Flutter architecture, UI implementation, or cross-platform features.",
-        "ja": "Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles state management, animations, testing, and performance optimization for mobile, web, desktop, and embedded platforms. Use PROACTIVELY for Flutter architecture, UI implementation, or cross-platform features."
+        "zh": "使用Dart 3、高级小部件和多平台部署来精通Flutter开发。处理移动、Web、桌面和嵌入式平台的状态管理、动画、测试和性能优化。主动用于Flutter架构、UI实现或跨平台功能。",
+        "ja": "Dart 3、高度なウィジェット、マルチプラットフォーム展開でFlutter開発を習得します。モバイル、ウェブ、デスクトップ、および組み込みプラットフォームの状態管理、アニメーション、テスト、およびパフォーマンスの最適化を処理します。Flutterアーキテクチャ、UI実装、またはクロスプラットフォーム機能に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [
@@ -149,13 +149,13 @@
       "author": "wshobson",
       "name": {
         "en": "mobile-developer",
-        "zh": "mobile-developer",
-        "ja": "mobile-developer"
+        "zh": "移动开发者",
+        "ja": "モバイル開発者"
       },
       "description": {
         "en": "Develop React Native, Flutter, or native mobile apps with modern architecture patterns. Masters cross-platform development, native integrations, offline sync, and app store optimization. Use PROACTIVELY for mobile features, cross-platform code, or app optimization.",
-        "zh": "Develop React Native, Flutter, or native mobile apps with modern architecture patterns. Masters cross-platform development, native integrations, offline sync, and app store optimization. Use PROACTIVELY for mobile features, cross-platform code, or app optimization.",
-        "ja": "Develop React Native, Flutter, or native mobile apps with modern architecture patterns. Masters cross-platform development, native integrations, offline sync, and app store optimization. Use PROACTIVELY for mobile features, cross-platform code, or app optimization."
+        "zh": "使用现代架构模式开发React Native、Flutter或原生移动应用。精通跨平台开发、原生集成、离线同步和应用商店优化。主动用于移动功能、跨平台代码或应用优化。",
+        "ja": "最新のアーキテクチャパターンでReact Native、Flutter、またはネイティブモバイルアプリを開発します。クロスプラットフォーム開発、ネイティブ統合、オフライン同期、およびアプリストアの最適化を習得しています。モバイル機能、クロスプラットフォームコード、またはアプリの最適化に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],
@@ -192,13 +192,13 @@
       "author": "wshobson",
       "name": {
         "en": "ui-visual-validator",
-        "zh": "ui-visual-validator",
-        "ja": "ui-visual-validator"
+        "zh": "UI视觉验证器",
+        "ja": "UIビジュアルバリデーター"
       },
       "description": {
         "en": "Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification. Masters screenshot analysis, visual regression testing, and component validation. Use PROACTIVELY to verify UI modifications have achieved their intended goals through comprehensive visual analysis.",
-        "zh": "Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification. Masters screenshot analysis, visual regression testing, and component validation. Use PROACTIVELY to verify UI modifications have achieved their intended goals through comprehensive visual analysis.",
-        "ja": "Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification. Masters screenshot analysis, visual regression testing, and component validation. Use PROACTIVELY to verify UI modifications have achieved their intended goals through comprehensive visual analysis."
+        "zh": "严谨的视觉验证专家，专注于UI测试、设计系统合规性和可访问性验证。精通屏幕截图分析、视觉回归测试和组件验证。主动用于通过全面的视觉分析来验证UI修改是否已达到其预期目标。",
+        "ja": "UIテスト、デザインシステムのコンプライアンス、アクセシビリティ検証を専門とする厳格なビジュアル検証エキスパート。スクリーンショット分析、ビジュアルリグレッションテスト、コンポーネント検証を習得しています。包括的なビジュアル分析を通じてUIの変更が意図した目標を達成したことを確認するために積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],

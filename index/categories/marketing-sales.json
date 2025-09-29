@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "sales-automator",
-        "zh": "sales-automator",
-        "ja": "sales-automator"
+        "zh": "销售自动化工具",
+        "ja": "セールスオートメーター"
       },
       "description": {
         "en": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing.",
-        "zh": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing.",
-        "ja": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing."
+        "zh": "起草陌生邮件、后续跟进和提案模板。创建定价页面、案例研究和销售脚本。主动用于销售拓展或潜在客户培育。",
+        "ja": "コールドメール、フォローアップ、提案テンプレートを作成します。価格設定ページ、ケーススタディ、セールススクリプトを作成します。セールスアウトリーチやリード育成に積極的に使用してください。"
       },
       "category": "development",
       "tags": [
@@ -63,13 +63,13 @@
       "author": "wshobson",
       "name": {
         "en": "content-marketer",
-        "zh": "content-marketer",
-        "ja": "content-marketer"
+        "zh": "内容营销师",
+        "ja": "コンテンツマーケター"
       },
       "description": {
         "en": "Elite content marketing strategist specializing in AI-powered content creation, omnichannel distribution, SEO optimization, and data-driven performance marketing. Masters modern content tools, social media automation, and conversion optimization with 2024/2025 best practices. Use PROACTIVELY for comprehensive content marketing.",
-        "zh": "Elite content marketing strategist specializing in AI-powered content creation, omnichannel distribution, SEO optimization, and data-driven performance marketing. Masters modern content tools, social media automation, and conversion optimization with 2024/2025 best practices. Use PROACTIVELY for comprehensive content marketing.",
-        "ja": "Elite content marketing strategist specializing in AI-powered content creation, omnichannel distribution, SEO optimization, and data-driven performance marketing. Masters modern content tools, social media automation, and conversion optimization with 2024/2025 best practices. Use PROACTIVELY for comprehensive content marketing."
+        "zh": "精英内容营销策略师，专注于人工智能内容创作、全渠道分发、SEO优化和数据驱动的效果营销。精通2024/2025年最佳实践的现代内容工具、社交媒体自动化和转化率优化。主动用于全面的内容营销。",
+        "ja": "AIを活用したコンテンツ作成、オムニチャネル配信、SEO最適化、データ駆動型のパフォーマンスマーケティングを専門とするエリートコンテンツマーケティングストラテジスト。2024/2025年のベストプラクティスを用いて、最新のコンテンツツール、ソーシャルメディア自動化、コンバージョン最適化を習得しています。包括的なコンテンツマーケティングに積極的に使用してください。"
       },
       "category": "data",
       "tags": [],

@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "java-pro",
-        "zh": "java-pro",
-        "ja": "java-pro"
+        "zh": "Java专家",
+        "ja": "Javaプロ"
       },
       "description": {
         "en": "Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Expert in the latest Java ecosystem including GraalVM, Project Loom, and cloud-native patterns. Use PROACTIVELY for Java development, microservices architecture, or performance optimization.",
-        "zh": "Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Expert in the latest Java ecosystem including GraalVM, Project Loom, and cloud-native patterns. Use PROACTIVELY for Java development, microservices architecture, or performance optimization.",
-        "ja": "Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Expert in the latest Java ecosystem including GraalVM, Project Loom, and cloud-native patterns. Use PROACTIVELY for Java development, microservices architecture, or performance optimization."
+        "zh": "精通Java 21+，掌握虚拟线程、模式匹配和Spring Boot 3.x等现代特性。精通最新的Java生态系统，包括GraalVM、Project Loom和云原生模式。主动用于Java开发、微服务架构或性能优化。",
+        "ja": "仮想スレッド、パターンマッチング、Spring Boot 3.xなどの最新機能を備えたJava 21+を習得。GraalVM、Project Loom、クラウドネイティブパターンなど、最新のJavaエコシステムのエキスパート。Java開発、マイクロサービスアーキテクチャ、またはパフォーマンス最適化に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],
@@ -61,13 +61,13 @@
       "author": "wshobson",
       "name": {
         "en": "csharp-pro",
-        "zh": "csharp-pro",
-        "ja": "csharp-pro"
+        "zh": "C#专家",
+        "ja": "C#プロ"
       },
       "description": {
         "en": "Write modern C# code with advanced features like records, pattern matching, and async/await. Optimizes .NET applications, implements enterprise patterns, and ensures comprehensive testing. Use PROACTIVELY for C# refactoring, performance optimization, or complex .NET solutions.",
-        "zh": "Write modern C# code with advanced features like records, pattern matching, and async/await. Optimizes .NET applications, implements enterprise patterns, and ensures comprehensive testing. Use PROACTIVELY for C# refactoring, performance optimization, or complex .NET solutions.",
-        "ja": "Write modern C# code with advanced features like records, pattern matching, and async/await. Optimizes .NET applications, implements enterprise patterns, and ensures comprehensive testing. Use PROACTIVELY for C# refactoring, performance optimization, or complex .NET solutions."
+        "zh": "使用记录、模式匹配和async/await等高级功能编写现代C#代码。优化.NET应用程序，实施企业模式，并确保全面的测试。主动用于C#重构、性能优化或复杂的.NET解决方案。",
+        "ja": "レコード、パターンマッチング、async/awaitなどの高度な機能を備えた最新のC#コードを作成します。.NETアプリケーションを最適化し、エンタープライズパターンを実装し、包括的なテストを保証します。C#のリファクタリング、パフォーマンスの最適化、または複雑な.NETソリューションに積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [
@@ -106,13 +106,13 @@
       "author": "wshobson",
       "name": {
         "en": "scala-pro",
-        "zh": "scala-pro",
-        "ja": "scala-pro"
+        "zh": "Scala专家",
+        "ja": "Scalaプロ"
       },
       "description": {
         "en": "Master enterprise-grade Scala development with functional programming, distributed systems, and big data processing. Expert in Apache Pekko, Akka, Spark, ZIO/Cats Effect, and reactive architectures. Use PROACTIVELY for Scala system design, performance optimization, or enterprise integration.",
-        "zh": "Master enterprise-grade Scala development with functional programming, distributed systems, and big data processing. Expert in Apache Pekko, Akka, Spark, ZIO/Cats Effect, and reactive architectures. Use PROACTIVELY for Scala system design, performance optimization, or enterprise integration.",
-        "ja": "Master enterprise-grade Scala development with functional programming, distributed systems, and big data processing. Expert in Apache Pekko, Akka, Spark, ZIO/Cats Effect, and reactive architectures. Use PROACTIVELY for Scala system design, performance optimization, or enterprise integration."
+        "zh": "精通企业级Scala开发，掌握函数式编程、分布式系统和大数据处理。精通Apache Pekko、Akka、Spark、ZIO/Cats Effect和反应式架构。主动用于Scala系统设计、性能优化或企业集成。",
+        "ja": "関数型プログラミング、分散システム、ビッグデータ処理によるエンタープライズグレードのScala開発を習得。Apache Pekko、Akka、Spark、ZIO/Cats Effect、リアクティブアーキテクチャのエキスパート。Scalaシステム設計、パフォーマンス最適化、またはエンタープライズ統合に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [

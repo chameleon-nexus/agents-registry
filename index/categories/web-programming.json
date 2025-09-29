@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "typescript-pro",
-        "zh": "typescript-pro",
-        "ja": "typescript-pro"
+        "zh": "TypeScript专家",
+        "ja": "TypeScriptプロ"
       },
       "description": {
         "en": "Master TypeScript with advanced types, generics, and strict type safety. Handles complex type systems, decorators, and enterprise-grade patterns. Use PROACTIVELY for TypeScript architecture, type inference optimization, or advanced typing patterns.",
-        "zh": "Master TypeScript with advanced types, generics, and strict type safety. Handles complex type systems, decorators, and enterprise-grade patterns. Use PROACTIVELY for TypeScript architecture, type inference optimization, or advanced typing patterns.",
-        "ja": "Master TypeScript with advanced types, generics, and strict type safety. Handles complex type systems, decorators, and enterprise-grade patterns. Use PROACTIVELY for TypeScript architecture, type inference optimization, or advanced typing patterns."
+        "zh": "精通TypeScript，掌握高级类型、泛型和严格的类型安全。处理复杂的类型系统、装饰器和企业级模式。主动用于TypeScript架构、类型推断优化或高级类型模式。",
+        "ja": "高度な型、ジェネリクス、厳密な型安全性を備えたTypeScriptを習得します。複雑な型システム、デコレータ、およびエンタープライズグレードのパターンを扱います。TypeScriptアーキテクチャ、型推論の最適化、または高度な型付けパターンに積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [
@@ -108,13 +108,13 @@
       "author": "wshobson",
       "name": {
         "en": "ruby-pro",
-        "zh": "ruby-pro",
-        "ja": "ruby-pro"
+        "zh": "Ruby专家",
+        "ja": "Rubyプロ"
       },
       "description": {
         "en": "Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing frameworks. Use PROACTIVELY for Ruby refactoring, optimization, or complex Ruby features.",
-        "zh": "Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing frameworks. Use PROACTIVELY for Ruby refactoring, optimization, or complex Ruby features.",
-        "ja": "Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing frameworks. Use PROACTIVELY for Ruby refactoring, optimization, or complex Ruby features."
+        "zh": "使用元编程、Rails模式和性能优化编写地道的Ruby代码。专注于Ruby on Rails、gem开发和测试框架。主动用于Ruby重构、优化或复杂的Ruby功能。",
+        "ja": "メタプログラミング、Railsパターン、パフォーマンス最適化を備えた慣用的なRubyコードを作成します。Ruby on Rails、gem開発、テストフレームワークを専門としています。Rubyのリファクタリング、最適化、または複雑なRuby機能に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],
@@ -151,13 +151,13 @@
       "author": "wshobson",
       "name": {
         "en": "php-pro",
-        "zh": "php-pro",
-        "ja": "php-pro"
+        "zh": "PHP专家",
+        "ja": "PHPプロ"
       },
       "description": {
         "en": "Write idiomatic PHP code with generators, iterators, SPL data structures, and modern OOP features. Use PROACTIVELY for high-performance PHP applications.",
-        "zh": "Write idiomatic PHP code with generators, iterators, SPL data structures, and modern OOP features. Use PROACTIVELY for high-performance PHP applications.",
-        "ja": "Write idiomatic PHP code with generators, iterators, SPL data structures, and modern OOP features. Use PROACTIVELY for high-performance PHP applications."
+        "zh": "使用生成器、迭代器、SPL数据结构和现代OOP特性编写地道的PHP代码。主动用于高性能PHP应用程序。",
+        "ja": "ジェネレータ、イテレータ、SPLデータ構造、および最新のOOP機能を使用して、慣用的なPHPコードを作成します。高性能なPHPアプリケーションに積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],
@@ -194,8 +194,8 @@
       "author": "wshobson",
       "name": {
         "en": "javascript-pro",
-        "zh": "javascript-pro",
-        "ja": "javascript-pro"
+        "zh": "JavaScript专家",
+        "ja": "JavaScriptプロ"
       },
       "description": {
         "en": "Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops, and browser/Node compatibility. Use PROACTIVELY for JavaScript optimization, async debugging, or complex JS patterns.",

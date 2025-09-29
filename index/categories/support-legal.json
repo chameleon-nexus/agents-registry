@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "customer-support",
-        "zh": "customer-support",
-        "ja": "customer-support"
+        "zh": "客户支持",
+        "ja": "カスタマーサポート"
       },
       "description": {
         "en": "Elite AI-powered customer support specialist mastering conversational AI, automated ticketing, sentiment analysis, and omnichannel support experiences. Integrates modern support tools, chatbot platforms, and CX optimization with 2024/2025 best practices. Use PROACTIVELY for comprehensive customer experience management.",
-        "zh": "Elite AI-powered customer support specialist mastering conversational AI, automated ticketing, sentiment analysis, and omnichannel support experiences. Integrates modern support tools, chatbot platforms, and CX optimization with 2024/2025 best practices. Use PROACTIVELY for comprehensive customer experience management.",
-        "ja": "Elite AI-powered customer support specialist mastering conversational AI, automated ticketing, sentiment analysis, and omnichannel support experiences. Integrates modern support tools, chatbot platforms, and CX optimization with 2024/2025 best practices. Use PROACTIVELY for comprehensive customer experience management."
+        "zh": "精英级人工智能客户支持专家，精通对话式AI、自动化票务、情感分析和全渠道支持体验。集成了现代支持工具、聊天机器人平台，并采用2024/2025年最佳实践进行客户体验优化。主动用于全面的客户体验管理。",
+        "ja": "会話型AI、自動チケット発行、感情分析、オムニチャネルサポート体験を習得したエリートAI搭載カスタマーサポートスペシャリスト。2024/2025年のベストプラクティスを用いて、最新のサポートツール、チャットボットプラットフォーム、CX最適化を統合します。包括的なカスタマーエクスペリエンス管理に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],
@@ -61,13 +61,13 @@
       "author": "wshobson",
       "name": {
         "en": "hr-pro",
-        "zh": "hr-pro",
-        "ja": "hr-pro"
+        "zh": "人力资源专员",
+        "ja": "人事プロ"
       },
       "description": {
         "en": "Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations. Ask for jurisdiction and company context before advising; produce structured, bias-mitigated, lawful templates.",
-        "zh": "Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations. Ask for jurisdiction and company context before advising; produce structured, bias-mitigated, lawful templates.",
-        "ja": "Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations. Ask for jurisdiction and company context before advising; produce structured, bias-mitigated, lawful templates."
+        "zh": "专业的、有道德的人力资源合作伙伴，负责招聘、入职/离职、带薪休假和请假、绩效、合规政策以及员工关系。在提供建议前，会询问司法管辖区和公司背景；生成结构化的、减少偏见的、合法的模板。",
+        "ja": "採用、オンボーディング/オフボーディング、PTOと休暇、パフォーマンス、コンプライアンスポリシー、および従業員関係のためのプロフェッショナルで倫理的な人事パートナー。助言する前に管轄区域と会社の状況を尋ね、構造化され、偏見を軽減した合法的なテンプレートを作成します。"
       },
       "category": "data",
       "tags": [],
@@ -104,13 +104,13 @@
       "author": "wshobson",
       "name": {
         "en": "legal-advisor",
-        "zh": "legal-advisor",
-        "ja": "legal-advisor"
+        "zh": "法律顾问",
+        "ja": "リーガルアドバイザー"
       },
       "description": {
         "en": "Draft privacy policies, terms of service, disclaimers, and legal notices. Creates GDPR-compliant texts, cookie policies, and data processing agreements. Use PROACTIVELY for legal documentation, compliance texts, or regulatory requirements.",
-        "zh": "Draft privacy policies, terms of service, disclaimers, and legal notices. Creates GDPR-compliant texts, cookie policies, and data processing agreements. Use PROACTIVELY for legal documentation, compliance texts, or regulatory requirements.",
-        "ja": "Draft privacy policies, terms of service, disclaimers, and legal notices. Creates GDPR-compliant texts, cookie policies, and data processing agreements. Use PROACTIVELY for legal documentation, compliance texts, or regulatory requirements."
+        "zh": "起草隐私政策、服务条款、免责声明和法律声明。创建符合GDPR的文本、Cookie政策和数据处理协议。主动用于法律文件、合规文本或法规要求。",
+        "ja": "プライバシーポリシー、利用規約、免責事項、および法的通知を作成します。GDPRに準拠したテキスト、Cookieポリシー、およびデータ処理契約を作成します。法的文書、コンプライアンステキスト、または規制要件に積極的に使用してください。"
       },
       "category": "data",
       "tags": [

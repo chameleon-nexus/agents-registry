@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "risk-manager",
-        "zh": "risk-manager",
-        "ja": "risk-manager"
+        "zh": "风险经理",
+        "ja": "リスクマネージャー"
       },
       "description": {
         "en": "Monitor portfolio risk, R-multiples, and position limits. Creates hedging strategies, calculates expectancy, and implements stop-losses. Use PROACTIVELY for risk assessment, trade tracking, or portfolio protection.",
-        "zh": "Monitor portfolio risk, R-multiples, and position limits. Creates hedging strategies, calculates expectancy, and implements stop-losses. Use PROACTIVELY for risk assessment, trade tracking, or portfolio protection.",
-        "ja": "Monitor portfolio risk, R-multiples, and position limits. Creates hedging strategies, calculates expectancy, and implements stop-losses. Use PROACTIVELY for risk assessment, trade tracking, or portfolio protection."
+        "zh": "监控投资组合风险、R倍数和头寸限制。创建对冲策略，计算期望值，并实施止损。主动用于风险评估、交易跟踪或投资组合保护。",
+        "ja": "ポートフォリオのリスク、Rマルチプル、ポジションリミットを監視します。ヘッジ戦略を作成し、期待値を計算し、ストップロスを実行します。リスク評価、取引追跡、またはポートフォリオ保護のために積極的に使用してください。"
       },
       "category": "data",
       "tags": [
@@ -63,13 +63,13 @@
       "author": "wshobson",
       "name": {
         "en": "quant-analyst",
-        "zh": "quant-analyst",
-        "ja": "quant-analyst"
+        "zh": "量化分析师",
+        "ja": "クオンツアナリスト"
       },
       "description": {
         "en": "Build financial models, backtest trading strategies, and analyze market data. Implements risk metrics, portfolio optimization, and statistical arbitrage. Use PROACTIVELY for quantitative finance, trading algorithms, or risk analysis.",
-        "zh": "Build financial models, backtest trading strategies, and analyze market data. Implements risk metrics, portfolio optimization, and statistical arbitrage. Use PROACTIVELY for quantitative finance, trading algorithms, or risk analysis.",
-        "ja": "Build financial models, backtest trading strategies, and analyze market data. Implements risk metrics, portfolio optimization, and statistical arbitrage. Use PROACTIVELY for quantitative finance, trading algorithms, or risk analysis."
+        "zh": "建立金融模型，回测交易策略，并分析市场数据。实施风险指标，投资组合优化和统计套利。主动用于量化金融、交易算法或风险分析。",
+        "ja": "金融モデルを構築し、取引戦略をバックテストし、市場データを分析します。リスクメトリクス、ポートフォリオの最適化、統計的裁定取引を実装します。定量的金融、取引アルゴリズム、またはリスク分析のために積極的に使用してください。"
       },
       "category": "data",
       "tags": [
@@ -108,13 +108,13 @@
       "author": "wshobson",
       "name": {
         "en": "business-analyst",
-        "zh": "business-analyst",
-        "ja": "business-analyst"
+        "zh": "业务分析师",
+        "ja": "ビジネスアナリスト"
       },
       "description": {
         "en": "Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven insights. Build comprehensive KPI frameworks, predictive models, and strategic recommendations. Use PROACTIVELY for business intelligence or strategic analysis.",
-        "zh": "Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven insights. Build comprehensive KPI frameworks, predictive models, and strategic recommendations. Use PROACTIVELY for business intelligence or strategic analysis.",
-        "ja": "Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven insights. Build comprehensive KPI frameworks, predictive models, and strategic recommendations. Use PROACTIVELY for business intelligence or strategic analysis."
+        "zh": "掌握由人工智能驱动的分析、实时仪表板和数据驱动的洞察力所支持的现代商业分析。构建全面的KPI框架、预测模型和战略建议。主动用于商业智能或战略分析。",
+        "ja": "AIを活用した分析、リアルタイムダッシュボード、データ駆動型の洞察を用いて、最新のビジネス分析を習得します。包括的なKPIフレームワーク、予測モデル、戦略的提言を構築します。ビジネスインテリジェンスや戦略分析のために積極的に使用してください。"
       },
       "category": "data",
       "tags": [

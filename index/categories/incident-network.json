@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "incident-responder",
-        "zh": "incident-responder",
-        "ja": "incident-responder"
+        "zh": "事件响应员",
+        "ja": "インシデントレスポンダー"
       },
       "description": {
         "en": "Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management. Masters incident command, blameless post-mortems, error budget management, and system reliability patterns. Handles critical outages, communication strategies, and continuous improvement. Use IMMEDIATELY for production incidents or SRE practices.",
-        "zh": "Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management. Masters incident command, blameless post-mortems, error budget management, and system reliability patterns. Handles critical outages, communication strategies, and continuous improvement. Use IMMEDIATELY for production incidents or SRE practices.",
-        "ja": "Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management. Masters incident command, blameless post-mortems, error budget management, and system reliability patterns. Handles critical outages, communication strategies, and continuous improvement. Use IMMEDIATELY for production incidents or SRE practices."
+        "zh": "专家级SRE事件响应员，专注于快速问题解决、现代可观察性和全面的事件管理。精通事件指挥、无指责事后分析、错误预算管理和系统可靠性模式。处理严重中断、沟通策略和持续改进。立即用于生产事件或SRE实践。",
+        "ja": "迅速な問題解決、最新のオブザーバビリティ、包括的なインシデント管理を専門とするエキスパートSREインシデントレスポンダー。インシデントコマンド、非難のない事後検証、エラーバジェット管理、およびシステムの信頼性パターンを習得しています。重大な停止、コミュニケーション戦略、および継続的な改善を処理します。本番環境のインシデントまたはSREプラクティスに直ちに使用してください。"
       },
       "category": "debugging",
       "tags": [
@@ -63,13 +63,13 @@
       "author": "wshobson",
       "name": {
         "en": "network-engineer",
-        "zh": "network-engineer",
-        "ja": "network-engineer"
+        "zh": "网络工程师",
+        "ja": "ネットワークエンジニア"
       },
       "description": {
         "en": "Expert network engineer specializing in modern cloud networking, security architectures, and performance optimization. Masters multi-cloud connectivity, service mesh, zero-trust networking, SSL/TLS, global load balancing, and advanced troubleshooting. Handles CDN optimization, network automation, and compliance. Use PROACTIVELY for network design, connectivity issues, or performance optimization.",
-        "zh": "Expert network engineer specializing in modern cloud networking, security architectures, and performance optimization. Masters multi-cloud connectivity, service mesh, zero-trust networking, SSL/TLS, global load balancing, and advanced troubleshooting. Handles CDN optimization, network automation, and compliance. Use PROACTIVELY for network design, connectivity issues, or performance optimization.",
-        "ja": "Expert network engineer specializing in modern cloud networking, security architectures, and performance optimization. Masters multi-cloud connectivity, service mesh, zero-trust networking, SSL/TLS, global load balancing, and advanced troubleshooting. Handles CDN optimization, network automation, and compliance. Use PROACTIVELY for network design, connectivity issues, or performance optimization."
+        "zh": "专家级网络工程师，专注于现代云网络、安全架构和性能优化。精通多云连接、服务网格、零信任网络、SSL/TLS、全局负载均衡和高级故障排除。处理CDN优化、网络自动化和合规性。主动用于网络设计、连接问题或性能优化。",
+        "ja": "最新のクラウドネットワーキング、セキュリティアーキテクチャ、およびパフォーマンス最適化を専門とするエキスパートネットワークエンジニア。マルチクラウド接続、サービスメッシュ、ゼロトラストネットワーキング、SSL/TLS、グローバル負荷分散、および高度なトラブルシューティングを習得しています。CDNの最適化、ネットワーク自動化、およびコンプライアンスを処理します。ネットワーク設計、接続性の問題、またはパフォーマンスの最適化に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [

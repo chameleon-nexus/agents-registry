@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "error-detective",
-        "zh": "error-detective",
-        "ja": "error-detective"
+        "zh": "错误侦探",
+        "ja": "エラー探偵"
       },
       "description": {
         "en": "Search logs and codebases for error patterns, stack traces, and anomalies. Correlates errors across systems and identifies root causes. Use PROACTIVELY when debugging issues, analyzing logs, or investigating production errors.",
-        "zh": "Search logs and codebases for error patterns, stack traces, and anomalies. Correlates errors across systems and identifies root causes. Use PROACTIVELY when debugging issues, analyzing logs, or investigating production errors.",
-        "ja": "Search logs and codebases for error patterns, stack traces, and anomalies. Correlates errors across systems and identifies root causes. Use PROACTIVELY when debugging issues, analyzing logs, or investigating production errors."
+        "zh": "在日志和代码库中搜索错误模式、堆栈跟踪和异常。关联跨系统的错误并识别根本原因。在调试问题、分析日志或调查生产错误时主动使用。",
+        "ja": "ログとコードベースでエラーパターン、スタックトレース、異常を検索します。システム全体のエラーを関連付け、根本原因を特定します。問題のデバッグ、ログの分析、または本番エラーの調査時に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],
@@ -61,13 +61,13 @@
       "author": "wshobson",
       "name": {
         "en": "debugger",
-        "zh": "debugger",
-        "ja": "debugger"
+        "zh": "调试器",
+        "ja": "デバッガー"
       },
       "description": {
         "en": "Debugging specialist for errors, test failures, and unexpected behavior. Use proactively when encountering any issues.",
-        "zh": "Debugging specialist for errors, test failures, and unexpected behavior. Use proactively when encountering any issues.",
-        "ja": "Debugging specialist for errors, test failures, and unexpected behavior. Use proactively when encountering any issues."
+        "zh": "专门处理错误、测试失败和意外行为的调试专家。在遇到任何问题时主动使用。",
+        "ja": "エラー、テストの失敗、予期しない動作を専門とするデバッグスペシャリスト。問題が発生した場合は積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],
@@ -104,13 +104,13 @@
       "author": "wshobson",
       "name": {
         "en": "test-automator",
-        "zh": "test-automator",
-        "ja": "test-automator"
+        "zh": "测试自动化工具",
+        "ja": "テストオートメーター"
       },
       "description": {
         "en": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with advanced CI/CD integration. Use PROACTIVELY for testing automation or quality assurance.",
-        "zh": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with advanced CI/CD integration. Use PROACTIVELY for testing automation or quality assurance.",
-        "ja": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with advanced CI/CD integration. Use PROACTIVELY for testing automation or quality assurance."
+        "zh": "掌握由人工智能驱动的现代框架测试自动化、自我修复测试和全面的质量工程。利用先进的CI/CD集成构建可扩展的测试策略。主动用于测试自动化或质量保证。",
+        "ja": "最新のフレームワーク、自己修復テスト、および包括的な品質工学を備えたAI搭載のテスト自動化をマスターします。高度なCI/CD統合を備えたスケーラブルなテスト戦略を構築します。テストの自動化または品質保証に積極的に使用してください。"
       },
       "category": "data",
       "tags": [
@@ -149,13 +149,13 @@
       "author": "wshobson",
       "name": {
         "en": "tdd-orchestrator",
-        "zh": "tdd-orchestrator",
-        "ja": "tdd-orchestrator"
+        "zh": "TDD协调器",
+        "ja": "TDDオーケストレーター"
       },
       "description": {
         "en": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices. Enforces TDD best practices across teams with AI-assisted testing and modern frameworks. Use PROACTIVELY for TDD implementation and governance.",
-        "zh": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices. Enforces TDD best practices across teams with AI-assisted testing and modern frameworks. Use PROACTIVELY for TDD implementation and governance.",
-        "ja": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices. Enforces TDD best practices across teams with AI-assisted testing and modern frameworks. Use PROACTIVELY for TDD implementation and governance."
+        "zh": "TDD协调大师，专注于红-绿-重构纪律、多代理工作流协调和全面的测试驱动开发实践。通过AI辅助测试和现代框架在团队中强制执行TDD最佳实践。主动用于TDD实施和治理。",
+        "ja": "レッドグリーンリファクターの規律、マルチエージェントワークフローの調整、および包括的なテスト駆動開発プラクティスを専門とするマスターTDDオーケストレーター。AI支援テストと最新のフレームワークを使用して、チーム全体でTDDのベストプラクティスを徹底します。TDDの実装とガバナンスに積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],

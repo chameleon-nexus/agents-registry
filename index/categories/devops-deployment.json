@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "dx-optimizer",
-        "zh": "dx-optimizer",
-        "ja": "dx-optimizer"
+        "zh": "开发者体验优化师",
+        "ja": "DXオプティマイザー"
       },
       "description": {
         "en": "Developer Experience specialist. Improves tooling, setup, and workflows. Use PROACTIVELY when setting up new projects, after team feedback, or when development friction is noticed.",
-        "zh": "Developer Experience specialist. Improves tooling, setup, and workflows. Use PROACTIVELY when setting up new projects, after team feedback, or when development friction is noticed.",
-        "ja": "Developer Experience specialist. Improves tooling, setup, and workflows. Use PROACTIVELY when setting up new projects, after team feedback, or when development friction is noticed."
+        "zh": "开发者体验专家。改进工具、设置和工作流程。在建立新项目、收到团队反馈或发现开发阻力时主动使用。",
+        "ja": "開発者エクスペリエンスのスペシャリスト。ツール、セットアップ、ワークフローを改善します。新しいプロジェクトのセットアップ時、チームからのフィードバック後、または開発の摩擦に気づいたときに積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [
@@ -63,13 +63,13 @@
       "author": "wshobson",
       "name": {
         "en": "devops-troubleshooter",
-        "zh": "devops-troubleshooter",
-        "ja": "devops-troubleshooter"
+        "zh": "DevOps故障排查员",
+        "ja": "DevOpsトラブルシューター"
       },
       "description": {
         "en": "Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern observability. Masters log analysis, distributed tracing, Kubernetes debugging, performance optimization, and root cause analysis. Handles production outages, system reliability, and preventive monitoring. Use PROACTIVELY for debugging, incident response, or system troubleshooting.",
-        "zh": "Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern observability. Masters log analysis, distributed tracing, Kubernetes debugging, performance optimization, and root cause analysis. Handles production outages, system reliability, and preventive monitoring. Use PROACTIVELY for debugging, incident response, or system troubleshooting.",
-        "ja": "Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern observability. Masters log analysis, distributed tracing, Kubernetes debugging, performance optimization, and root cause analysis. Handles production outages, system reliability, and preventive monitoring. Use PROACTIVELY for debugging, incident response, or system troubleshooting."
+        "zh": "专家级DevOps故障排查员，专注于快速事件响应、高级调试和现代可观察性。精通日志分析、分布式追踪、Kubernetes调试、性能优化和根本原因分析。处理生产中断、系统可靠性和预防性监控。主动用于调试、事件响应或系统故障排除。",
+        "ja": "迅速なインシデント対応、高度なデバッグ、最新のオブザーバビリティを専門とするエキスパートDevOpsトラブルシューター。ログ分析、分散トレーシング、Kubernetesデバッグ、パフォーマンス最適化、根本原因分析を習得しています。本番環境の停止、システムの信頼性、予防的監視を処理します。デバッグ、インシデント対応、またはシステムのトラブルシューティングに積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],
@@ -106,13 +106,13 @@
       "author": "wshobson",
       "name": {
         "en": "deployment-engineer",
-        "zh": "deployment-engineer",
-        "ja": "deployment-engineer"
+        "zh": "部署工程师",
+        "ja": "デプロイメントエンジニア"
       },
       "description": {
         "en": "Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation. Masters GitHub Actions, ArgoCD/Flux, progressive delivery, container security, and platform engineering. Handles zero-downtime deployments, security scanning, and developer experience optimization. Use PROACTIVELY for CI/CD design, GitOps implementation, or deployment automation.",
-        "zh": "Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation. Masters GitHub Actions, ArgoCD/Flux, progressive delivery, container security, and platform engineering. Handles zero-downtime deployments, security scanning, and developer experience optimization. Use PROACTIVELY for CI/CD design, GitOps implementation, or deployment automation.",
-        "ja": "Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation. Masters GitHub Actions, ArgoCD/Flux, progressive delivery, container security, and platform engineering. Handles zero-downtime deployments, security scanning, and developer experience optimization. Use PROACTIVELY for CI/CD design, GitOps implementation, or deployment automation."
+        "zh": "专家级部署工程师，专注于现代CI/CD管道、GitOps工作流和高级部署自动化。精通GitHub Actions、ArgoCD/Flux、渐进式交付、容器安全和平台工程。处理零停机部署、安全扫描和开发者体验优化。主动用于CI/CD设计、GitOps实施或部署自动化。",
+        "ja": "最新のCI/CDパイプライン、GitOpsワークフロー、および高度なデプロイメント自動化を専門とするエキスパートデプロイメントエンジニア。GitHub Actions、ArgoCD/Flux、プログレッシブデリバリー、コンテナセキュリティ、およびプラットフォームエンジニアリングを習得しています。ゼロダウンタイムデプロイメント、セキュリティスキャン、および開発者エクスペリエンスの最適化を処理します。CI/CD設計、GitOps実装、またはデプロイメント自動化に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [
@@ -152,13 +152,13 @@
       "author": "wshobson",
       "name": {
         "en": "terraform-specialist",
-        "zh": "terraform-specialist",
-        "ja": "terraform-specialist"
+        "zh": "Terraform专家",
+        "ja": "Terraformスペシャリスト"
       },
       "description": {
         "en": "Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns. Handles complex module design, multi-cloud deployments, GitOps workflows, policy as code, and CI/CD integration. Covers migration strategies, security best practices, and modern IaC ecosystems. Use PROACTIVELY for advanced IaC, state management, or infrastructure automation.",
-        "zh": "Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns. Handles complex module design, multi-cloud deployments, GitOps workflows, policy as code, and CI/CD integration. Covers migration strategies, security best practices, and modern IaC ecosystems. Use PROACTIVELY for advanced IaC, state management, or infrastructure automation.",
-        "ja": "Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns. Handles complex module design, multi-cloud deployments, GitOps workflows, policy as code, and CI/CD integration. Covers migration strategies, security best practices, and modern IaC ecosystems. Use PROACTIVELY for advanced IaC, state management, or infrastructure automation."
+        "zh": "精通高级IaC自动化、状态管理和企业基础设施模式的Terraform/OpenTofu专家。处理复杂的模块设计、多云部署、GitOps工作流、策略即代码和CI/CD集成。涵盖迁移策略、安全最佳实践和现代IaC生态系统。主动用于高级IaC、状态管理或基础设施自动化。",
+        "ja": "高度なIaC自動化、状態管理、およびエンタープライズインフラストラクチャパターンを習得したエキスパートTerraform/OpenTofuスペシャリスト。複雑なモジュール設計、マルチクラウド展開、GitOpsワークフロー、ポリシー・アズ・コード、およびCI/CD統合を処理します。移行戦略、セキュリティのベストプラクティス、および最新のIaCエコシステムをカバーします。高度なIaC、状態管理、またはインフラストラクチャの自動化に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [

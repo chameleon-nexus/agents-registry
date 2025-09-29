@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "database-optimizer",
-        "zh": "database-optimizer",
-        "ja": "database-optimizer"
+        "zh": "数据库优化器",
+        "ja": "データベースオプティマイザ"
       },
       "description": {
         "en": "Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures. Masters advanced indexing, N+1 resolution, multi-tier caching, partitioning strategies, and cloud database optimization. Handles complex query analysis, migration strategies, and performance monitoring. Use PROACTIVELY for database optimization, performance issues, or scalability challenges.",
-        "zh": "Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures. Masters advanced indexing, N+1 resolution, multi-tier caching, partitioning strategies, and cloud database optimization. Handles complex query analysis, migration strategies, and performance monitoring. Use PROACTIVELY for database optimization, performance issues, or scalability challenges.",
-        "ja": "Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures. Masters advanced indexing, N+1 resolution, multi-tier caching, partitioning strategies, and cloud database optimization. Handles complex query analysis, migration strategies, and performance monitoring. Use PROACTIVELY for database optimization, performance issues, or scalability challenges."
+        "zh": "专家级数据库优化器，专注于现代性能调优、查询优化和可扩展架构。精通高级索引、N+1问题解决、多层缓存、分区策略和云数据库优化。处理复杂的查询分析、迁移策略和性能监控。主动用于数据库优化、性能问题或可扩展性挑战。",
+        "ja": "最新のパフォーマンステューニング、クエリ最適化、スケーラブルなアーキテクチャを専門とするエキスパートデータベースオプティマイザ。高度なインデックス作成、N+1解決、多層キャッシング、パーティショニング戦略、およびクラウドデータベースの最適化を習得しています。複雑なクエリ分析、移行戦略、およびパフォーマンス監視を処理します。データベースの最適化、パフォーマンスの問題、またはスケーラビリティの課題に積極的に使用してください。"
       },
       "category": "data",
       "tags": [],
@@ -61,13 +61,13 @@
       "author": "wshobson",
       "name": {
         "en": "database-admin",
-        "zh": "database-admin",
-        "ja": "database-admin"
+        "zh": "数据库管理员",
+        "ja": "データベース管理者"
       },
       "description": {
         "en": "Expert database administrator specializing in modern cloud databases, automation, and reliability engineering. Masters AWS/Azure/GCP database services, Infrastructure as Code, high availability, disaster recovery, performance optimization, and compliance. Handles multi-cloud strategies, container databases, and cost optimization. Use PROACTIVELY for database architecture, operations, or reliability engineering.",
-        "zh": "Expert database administrator specializing in modern cloud databases, automation, and reliability engineering. Masters AWS/Azure/GCP database services, Infrastructure as Code, high availability, disaster recovery, performance optimization, and compliance. Handles multi-cloud strategies, container databases, and cost optimization. Use PROACTIVELY for database architecture, operations, or reliability engineering.",
-        "ja": "Expert database administrator specializing in modern cloud databases, automation, and reliability engineering. Masters AWS/Azure/GCP database services, Infrastructure as Code, high availability, disaster recovery, performance optimization, and compliance. Handles multi-cloud strategies, container databases, and cost optimization. Use PROACTIVELY for database architecture, operations, or reliability engineering."
+        "zh": "专家级数据库管理员，专注于现代云数据库、自动化和可靠性工程。精通AWS/Azure/GCP数据库服务、基础设施即代码、高可用性、灾难恢复、性能优化和合规性。处理多云战略、容器数据库和成本优化。主动用于数据库架构、运营或可靠性工程。",
+        "ja": "最新のクラウドデータベース、自動化、信頼性エンジニアリングを専門とするエキスパートデータベース管理者。AWS/Azure/GCPデータベースサービス、Infrastructure as Code、高可用性、災害復旧、パフォーマンス最適化、およびコンプライアンスを習得しています。マルチクラウド戦略、コンテナデータベース、およびコスト最適化を処理します。データベースアーキテクチャ、運用、または信頼性エンジニアリングに積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],

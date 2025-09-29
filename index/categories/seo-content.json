@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "seo-content-refresher",
-        "zh": "seo-content-refresher",
-        "ja": "seo-content-refresher"
+        "zh": "SEO内容更新器",
+        "ja": "SEOコンテンツリフレッシャー"
       },
       "description": {
         "en": "Identifies outdated elements in provided content and suggests updates to maintain freshness. Finds statistics, dates, and examples that need updating. Use PROACTIVELY for older content.",
-        "zh": "Identifies outdated elements in provided content and suggests updates to maintain freshness. Finds statistics, dates, and examples that need updating. Use PROACTIVELY for older content.",
-        "ja": "Identifies outdated elements in provided content and suggests updates to maintain freshness. Finds statistics, dates, and examples that need updating. Use PROACTIVELY for older content."
+        "zh": "识别所提供内容中的过时元素，并建议更新以保持新鲜度。查找需要更新的统计数据、日期和示例。主动用于较旧的内容。",
+        "ja": "提供されたコンテンツ内の古い要素を特定し、鮮度を維持するための更新を提案します。更新が必要な統計、日付、および例を見つけます。古いコンテンツに積極的に使用してください。"
       },
       "category": "data",
       "tags": [
@@ -63,13 +63,13 @@
       "author": "wshobson",
       "name": {
         "en": "seo-authority-builder",
-        "zh": "seo-authority-builder",
-        "ja": "seo-authority-builder"
+        "zh": "SEO权威构建器",
+        "ja": "SEOオーソリティビルダー"
       },
       "description": {
         "en": "Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust. Identifies missing credibility elements. Use PROACTIVELY for YMYL topics.",
-        "zh": "Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust. Identifies missing credibility elements. Use PROACTIVELY for YMYL topics.",
-        "ja": "Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust. Identifies missing credibility elements. Use PROACTIVELY for YMYL topics."
+        "zh": "分析内容的E-E-A-T信号，并提出改进建议以建立权威和信任。识别缺失的可信度元素。主动用于YMYL主题。",
+        "ja": "コンテンツのE-E-A-Tシグナルを分析し、権威と信頼を構築するための改善を提案します。不足している信頼性要素を特定します。YMYLトピックに積極的に使用してください。"
       },
       "category": "data",
       "tags": [
@@ -108,13 +108,13 @@
       "author": "wshobson",
       "name": {
         "en": "seo-keyword-strategist",
-        "zh": "seo-keyword-strategist",
-        "ja": "seo-keyword-strategist"
+        "zh": "SEO关键词策略师",
+        "ja": "SEOキーワードストラテジスト"
       },
       "description": {
         "en": "Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic. Prevents over-optimization. Use PROACTIVELY for content optimization.",
-        "zh": "Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic. Prevents over-optimization. Use PROACTIVELY for content optimization.",
-        "ja": "Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic. Prevents over-optimization. Use PROACTIVELY for content optimization."
+        "zh": "分析所提供内容中的关键词使用情况，计算密度，根据主题建议语义变体和LSI关键词。防止过度优化。主动用于内容优化。",
+        "ja": "提供されたコンテンツのキーワード使用状況を分析し、密度を計算し、トピックに基づいて意味的なバリエーションとLSIキーワードを提案します。過剰な最適化を防ぎます。コンテンツの最適化に積極的に使用してください。"
       },
       "category": "data",
       "tags": [
@@ -153,13 +153,13 @@
       "author": "wshobson",
       "name": {
         "en": "seo-content-auditor",
-        "zh": "seo-content-auditor",
-        "ja": "seo-content-auditor"
+        "zh": "SEO内容审计员",
+        "ja": "SEOコンテンツ監査人"
       },
       "description": {
         "en": "Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations based on established guidelines. Use PROACTIVELY for content review.",
-        "zh": "Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations based on established guidelines. Use PROACTIVELY for content review.",
-        "ja": "Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations based on established guidelines. Use PROACTIVELY for content review."
+        "zh": "分析所提供内容的质量、E-E-A-T信号和SEO最佳实践。根据既定指南对内容进行评分并提供改进建议。主动用于内容审查。",
+        "ja": "提供されたコンテンツの品質、E-E-A-Tシグナル、およびSEOのベストプラクティスを分析します。確立されたガイドラインに基づいてコンテンツを評価し、改善の推奨事項を提供します。コンテンツレビューに積極的に使用してください。"
       },
       "category": "data",
       "tags": [
@@ -198,13 +198,13 @@
       "author": "wshobson",
       "name": {
         "en": "seo-content-planner",
-        "zh": "seo-content-planner",
-        "ja": "seo-content-planner"
+        "zh": "SEO内容规划师",
+        "ja": "SEOコンテンツプランナー"
       },
       "description": {
         "en": "Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and identifies topic gaps. Use PROACTIVELY for content strategy and planning.",
-        "zh": "Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and identifies topic gaps. Use PROACTIVELY for content strategy and planning.",
-        "ja": "Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and identifies topic gaps. Use PROACTIVELY for content strategy and planning."
+        "zh": "为SEO创建全面的内容大纲和主题集群。规划内容日历并识别主题差距。主动用于内容策略和规划。",
+        "ja": "SEOのための包括的なコンテンツアウトラインとトピッククラスターを作成します。コンテンツカレンダーを計画し、トピックのギャップを特定します。コンテンツ戦略と計画に積極的に使用してください。"
       },
       "category": "data",
       "tags": [],
@@ -241,13 +241,13 @@
       "author": "wshobson",
       "name": {
         "en": "seo-snippet-hunter",
-        "zh": "seo-snippet-hunter",
-        "ja": "seo-snippet-hunter"
+        "zh": "SEO代码片段猎手",
+        "ja": "SEOスニペットハンター"
       },
       "description": {
         "en": "Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content.",
-        "zh": "Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content.",
-        "ja": "Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content."
+        "zh": "格式化内容，使其有资格获得特色代码片段和SERP功能。根据最佳实践创建经过代码片段优化的内容块。主动用于基于问题的内容。",
+        "ja": "強調スニペットとSERP機能の対象となるようにコンテンツをフォーマットします。ベストプラクティスに基づいてスニペットに最適化されたコンテンツブロックを作成します。質問ベースのコンテンツに積極的に使用してください。"
       },
       "category": "data",
       "tags": [
@@ -286,13 +286,13 @@
       "author": "wshobson",
       "name": {
         "en": "seo-meta-optimizer",
-        "zh": "seo-meta-optimizer",
-        "ja": "seo-meta-optimizer"
+        "zh": "SEO元数据优化器",
+        "ja": "SEOメタオプティマイザー"
       },
       "description": {
         "en": "Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Generates compelling, keyword-rich metadata. Use PROACTIVELY for new content.",
-        "zh": "Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Generates compelling, keyword-rich metadata. Use PROACTIVELY for new content.",
-        "ja": "Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Generates compelling, keyword-rich metadata. Use PROACTIVELY for new content."
+        "zh": "根据字符限制和最佳实践创建优化的元标题、描述和URL建议。生成引人注目的、富含关键词的元数据。主动用于新内容。",
+        "ja": "文字数制限とベストプラクティスに基づいて、最適化されたメタタイトル、ディスクリプション、およびURLの提案を作成します。魅力的でキーワードが豊富なメタデータを生成します。新しいコンテンツに積極的に使用してください。"
       },
       "category": "data",
       "tags": [
@@ -331,13 +331,13 @@
       "author": "wshobson",
       "name": {
         "en": "seo-structure-architect",
-        "zh": "seo-structure-architect",
-        "ja": "seo-structure-architect"
+        "zh": "SEO结构架构师",
+        "ja": "SEO構造アーキテクト"
       },
       "description": {
         "en": "Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities. Creates search-friendly content organization. Use PROACTIVELY for content structuring.",
-        "zh": "Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities. Creates search-friendly content organization. Use PROACTIVELY for content structuring.",
-        "ja": "Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities. Creates search-friendly content organization. Use PROACTIVELY for content structuring."
+        "zh": "分析和优化内容结构，包括标题层次结构，建议模式标记和内部链接机会。创建适合搜索的内容组织。主动用于内容结构化。",
+        "ja": "見出し階層を含むコンテンツ構造を分析および最適化し、スキーママークアップと内部リンクの機会を提案します。検索に適したコンテンツ構成を作成します。コンテンツの構造化に積極的に使用してください。"
       },
       "category": "data",
       "tags": [
@@ -376,13 +376,13 @@
       "author": "wshobson",
       "name": {
         "en": "seo-cannibalization-detector",
-        "zh": "seo-cannibalization-detector",
-        "ja": "seo-cannibalization-detector"
+        "zh": "SEO同类相食检测器",
+        "ja": "SEOカニバリゼーション検出器"
       },
       "description": {
         "en": "Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. Suggests differentiation strategies. Use PROACTIVELY when reviewing similar content.",
-        "zh": "Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. Suggests differentiation strategies. Use PROACTIVELY when reviewing similar content.",
-        "ja": "Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. Suggests differentiation strategies. Use PROACTIVELY when reviewing similar content."
+        "zh": "分析多个提供的页面，以识别关键词重叠和潜在的同类相食问题。建议差异化策略。在审查相似内容时主动使用。",
+        "ja": "複数の提供されたページを分析して、キーワードの重複と潜在的なカニバリゼーションの問題を特定します。差別化戦略を提案します。類似のコンテンツをレビューする際に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [
@@ -422,13 +422,13 @@
       "author": "wshobson",
       "name": {
         "en": "seo-content-writer",
-        "zh": "seo-content-writer",
-        "ja": "seo-content-writer"
+        "zh": "SEO内容作者",
+        "ja": "SEOコンテンツライター"
       },
       "description": {
         "en": "Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks.",
-        "zh": "Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks.",
-        "ja": "Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks."
+        "zh": "根据提供的关键词和主题简介撰写SEO优化的内容。遵循最佳实践创建引人入胜、全面的内容。主动用于内容创作任务。",
+        "ja": "提供されたキーワードとトピックの概要に基づいて、SEOに最適化されたコンテンツを作成します。ベストプラクティスに従って、魅力的で包括的なコンテンツを作成します。コンテンツ作成タスクに積極的に使用してください。"
       },
       "category": "data",
       "tags": [],

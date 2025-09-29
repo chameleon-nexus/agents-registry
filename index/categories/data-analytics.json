@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "data-engineer",
-        "zh": "data-engineer",
-        "ja": "data-engineer"
+        "zh": "数据工程师",
+        "ja": "データエンジニア"
       },
       "description": {
         "en": "Build scalable data pipelines, modern data warehouses, and real-time streaming architectures. Implements Apache Spark, dbt, Airflow, and cloud-native data platforms. Use PROACTIVELY for data pipeline design, analytics infrastructure, or modern data stack implementation.",
-        "zh": "Build scalable data pipelines, modern data warehouses, and real-time streaming architectures. Implements Apache Spark, dbt, Airflow, and cloud-native data platforms. Use PROACTIVELY for data pipeline design, analytics infrastructure, or modern data stack implementation.",
-        "ja": "Build scalable data pipelines, modern data warehouses, and real-time streaming architectures. Implements Apache Spark, dbt, Airflow, and cloud-native data platforms. Use PROACTIVELY for data pipeline design, analytics infrastructure, or modern data stack implementation."
+        "zh": "构建可扩展的数据管道、现代数据仓库和实时流式架构。实施Apache Spark、dbt、Airflow和云原生数据平台。主动用于数据管道设计、分析基础设施或现代数据栈实施。",
+        "ja": "スケーラブルなデータパイプライン、最新のデータウェアハウス、リアルタイムのストリーミングアーキテクチャを構築します。Apache Spark、dbt、Airflow、およびクラウドネイティブのデータプラットフォームを実装します。データパイプラインの設計、分析インフラストラクチャ、または最新のデータスタックの実装に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [
@@ -63,13 +63,13 @@
       "author": "wshobson",
       "name": {
         "en": "data-scientist",
-        "zh": "data-scientist",
-        "ja": "data-scientist"
+        "zh": "数据科学家",
+        "ja": "データサイエンティスト"
       },
       "description": {
         "en": "Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles complex data analysis, predictive modeling, and business intelligence. Use PROACTIVELY for data analysis tasks, ML modeling, statistical analysis, and data-driven insights.",
-        "zh": "Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles complex data analysis, predictive modeling, and business intelligence. Use PROACTIVELY for data analysis tasks, ML modeling, statistical analysis, and data-driven insights.",
-        "ja": "Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles complex data analysis, predictive modeling, and business intelligence. Use PROACTIVELY for data analysis tasks, ML modeling, statistical analysis, and data-driven insights."
+        "zh": "专家级数据科学家，负责高级分析、机器学习和统计建模。处理复杂的数据分析、预测建模和商业智能。主动用于数据分析任务、机器学习建模、统计分析和数据驱动的洞察。",
+        "ja": "高度な分析、機械学習、統計モデリングを専門とするエキスパートデータサイエンティスト。複雑なデータ分析、予測モデリング、ビジネスインテリジェンスを扱います。データ分析タスク、MLモデリング、統計分析、データ駆動型の洞察に積極的に使用してください。"
       },
       "category": "data",
       "tags": [

@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "performance-engineer",
-        "zh": "performance-engineer",
-        "ja": "performance-engineer"
+        "zh": "性能工程师",
+        "ja": "パフォーマンスエンジニア"
       },
       "description": {
         "en": "Expert performance engineer specializing in modern observability, application optimization, and scalable system performance. Masters OpenTelemetry, distributed tracing, load testing, multi-tier caching, Core Web Vitals, and performance monitoring. Handles end-to-end optimization, real user monitoring, and scalability patterns. Use PROACTIVELY for performance optimization, observability, or scalability challenges.",
-        "zh": "Expert performance engineer specializing in modern observability, application optimization, and scalable system performance. Masters OpenTelemetry, distributed tracing, load testing, multi-tier caching, Core Web Vitals, and performance monitoring. Handles end-to-end optimization, real user monitoring, and scalability patterns. Use PROACTIVELY for performance optimization, observability, or scalability challenges.",
-        "ja": "Expert performance engineer specializing in modern observability, application optimization, and scalable system performance. Masters OpenTelemetry, distributed tracing, load testing, multi-tier caching, Core Web Vitals, and performance monitoring. Handles end-to-end optimization, real user monitoring, and scalability patterns. Use PROACTIVELY for performance optimization, observability, or scalability challenges."
+        "zh": "专家级性能工程师，专注于现代可观测性、应用优化和可扩展的系统性能。精通OpenTelemetry、分布式追踪、负载测试、多层缓存、Core Web Vitals和性能监控。处理端到端优化、真实用户监控和可扩展性模式。主动用于性能优化、可观测性或可扩展性挑战。",
+        "ja": "最新のオブザーバビリティ、アプリケーション最適化、スケーラブルなシステムパフォーマンスを専門とするエキスパートパフォーマンスエンジニア。OpenTelemetry、分散トレーシング、負荷テスト、多層キャッシング、Core Web Vitals、およびパフォーマンス監視を習得しています。エンドツーエンドの最適化、リアルユーザー監視、およびスケーラビリティパターンを処理します。パフォーマンスの最適化、オブザーバビリティ、またはスケーラビリティの課題に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],
@@ -61,13 +61,13 @@
       "author": "wshobson",
       "name": {
         "en": "observability-engineer",
-        "zh": "observability-engineer",
-        "ja": "observability-engineer"
+        "zh": "可观测性工程师",
+        "ja": "オブザーバビリティエンジニア"
       },
       "description": {
         "en": "Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observability strategies, SLI/SLO management, and incident response workflows. Use PROACTIVELY for monitoring infrastructure, performance optimization, or production reliability.",
-        "zh": "Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observability strategies, SLI/SLO management, and incident response workflows. Use PROACTIVELY for monitoring infrastructure, performance optimization, or production reliability.",
-        "ja": "Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observability strategies, SLI/SLO management, and incident response workflows. Use PROACTIVELY for monitoring infrastructure, performance optimization, or production reliability."
+        "zh": "构建生产就绪的监控、日志记录和追踪系统。实施全面的可观测性策略、SLI/SLO管理和事件响应工作流。主动用于监控基础设施、性能优化或生产可靠性。",
+        "ja": "本番環境に対応した監視、ロギング、およびトレースシステムを構築します。包括的なオブザーバビリティ戦略、SLI/SLO管理、およびインシデント対応ワークフローを実装します。監視インフラストラクチャ、パフォーマンスの最適化、または本番環境の信頼性のために積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [
@@ -106,13 +106,13 @@
       "author": "wshobson",
       "name": {
         "en": "search-specialist",
-        "zh": "search-specialist",
-        "ja": "search-specialist"
+        "zh": "搜索专家",
+        "ja": "検索スペシャリスト"
       },
       "description": {
         "en": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles competitive analysis and fact-checking. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
-        "zh": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles competitive analysis and fact-checking. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
-        "ja": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles competitive analysis and fact-checking. Use PROACTIVELY for deep research, information gathering, or trend analysis."
+        "zh": "使用高级搜索技术和综合分析的专家级网络研究员。精通搜索运算符、结果筛选和多源验证。处理竞争分析和事实核查。主动用于深度研究、信息收集或趋势分析。",
+        "ja": "高度な検索技術と統合を駆使するエキスパートウェブ研究者。検索演算子、結果のフィルタリング、および複数ソースの検証を習得しています。競合分析と事実確認を処理します。詳細な調査、情報収集、またはトレンド分析に積極的に使用してください。"
       },
       "category": "data",
       "tags": [],

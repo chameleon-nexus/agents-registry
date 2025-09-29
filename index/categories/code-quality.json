@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "backend-security-coder",
-        "zh": "backend-security-coder",
-        "ja": "backend-security-coder"
+        "zh": "后端安全编码器",
+        "ja": "バックエンドセキュリティコーダー"
       },
       "description": {
         "en": "Expert in secure backend coding practices specializing in input validation, authentication, and API security. Use PROACTIVELY for backend security implementations or security code reviews.",
-        "zh": "Expert in secure backend coding practices specializing in input validation, authentication, and API security. Use PROACTIVELY for backend security implementations or security code reviews.",
-        "ja": "Expert in secure backend coding practices specializing in input validation, authentication, and API security. Use PROACTIVELY for backend security implementations or security code reviews."
+        "zh": "精通安全后端编码实践的专家，专注于输入验证、身份验证和API安全。主动用于后端安全实施或安全代码审查。",
+        "ja": "入力検証、認証、APIセキュリティを専門とする、セキュアなバックエンドコーディングプラクティスのエキスパート。バックエンドのセキュリティ実装やセキュリティコードレビューに積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [
@@ -64,13 +64,13 @@
       "author": "wshobson",
       "name": {
         "en": "security-auditor",
-        "zh": "security-auditor",
-        "ja": "security-auditor"
+        "zh": "安全审计员",
+        "ja": "セキュリティ監査人"
       },
       "description": {
         "en": "Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frameworks. Masters vulnerability assessment, threat modeling, secure authentication (OAuth2/OIDC), OWASP standards, cloud security, and security automation. Handles DevSecOps integration, compliance (GDPR/HIPAA/SOC2), and incident response. Use PROACTIVELY for security audits, DevSecOps, or compliance implementation.",
-        "zh": "Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frameworks. Masters vulnerability assessment, threat modeling, secure authentication (OAuth2/OIDC), OWASP standards, cloud security, and security automation. Handles DevSecOps integration, compliance (GDPR/HIPAA/SOC2), and incident response. Use PROACTIVELY for security audits, DevSecOps, or compliance implementation.",
-        "ja": "Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frameworks. Masters vulnerability assessment, threat modeling, secure authentication (OAuth2/OIDC), OWASP standards, cloud security, and security automation. Handles DevSecOps integration, compliance (GDPR/HIPAA/SOC2), and incident response. Use PROACTIVELY for security audits, DevSecOps, or compliance implementation."
+        "zh": "专注于DevSecOps、全面网络安全和合规框架的专家级安全审计员。精通漏洞评估、威胁建模、安全身份验证（OAuth2/OIDC）、OWASP标准、云安全和安全自动化。处理DevSecOps集成、合规性（GDPR/HIPAA/SOC2）和事件响应。主动用于安全审计、DevSecOps或合规性实施。",
+        "ja": "DevSecOps、包括的なサイバーセキュリティ、コンプライアンスフレームワークを専門とするエキスパートセキュリティ監査人。脆弱性評価、脅威モデリング、セキュア認証（OAuth2/OIDC）、OWASP標準、クラウドセキュリティ、セキュリティ自動化を習得しています。DevSecOps統合、コンプライアンス（GDPR/HIPAA/SOC2）、インシデント対応を処理します。セキュリティ監査、DevSecOps、またはコンプライアンス実装に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [
@@ -110,13 +110,13 @@
       "author": "wshobson",
       "name": {
         "en": "code-reviewer",
-        "zh": "code-reviewer",
-        "ja": "code-reviewer"
+        "zh": "代码审查员",
+        "ja": "コードレビュアー"
       },
       "description": {
         "en": "Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, performance optimization, and production reliability. Masters static analysis tools, security scanning, and configuration review with 2024/2025 best practices. Use PROACTIVELY for code quality assurance.",
-        "zh": "Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, performance optimization, and production reliability. Masters static analysis tools, security scanning, and configuration review with 2024/2025 best practices. Use PROACTIVELY for code quality assurance.",
-        "ja": "Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, performance optimization, and production reliability. Masters static analysis tools, security scanning, and configuration review with 2024/2025 best practices. Use PROACTIVELY for code quality assurance."
+        "zh": "专注于现代人工智能代码分析、安全漏洞、性能优化和生产可靠性的精英代码审查专家。掌握静态分析工具、安全扫描和配置审查，并采用2024/2025年最佳实践。主动用于代码质量保证。",
+        "ja": "最新のAIを活用したコード分析、セキュリティ脆弱性、パフォーマンス最適化、および本番環境の信頼性を専門とするエリートコードレビューエキスパート。2024/2025年のベストプラクティスを用いて、静的分析ツール、セキュリティスキャン、および構成レビューを習得しています。コード品質保証のために積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [
@@ -156,13 +156,13 @@
       "author": "wshobson",
       "name": {
         "en": "frontend-security-coder",
-        "zh": "frontend-security-coder",
-        "ja": "frontend-security-coder"
+        "zh": "前端安全编码器",
+        "ja": "フロントエンドセキュリティコーダー"
       },
       "description": {
         "en": "Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns. Use PROACTIVELY for frontend security implementations or client-side security code reviews.",
-        "zh": "Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns. Use PROACTIVELY for frontend security implementations or client-side security code reviews.",
-        "ja": "Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns. Use PROACTIVELY for frontend security implementations or client-side security code reviews."
+        "zh": "精通安全前端编码实践的专家，专注于XSS预防、输出清理和客户端安全模式。主动用于前端安全实施或客户端安全代码审查。",
+        "ja": "XSS防止、出力サニタイゼーション、クライアントサイドのセキュリティパターンを専門とする、セキュアなフロントエンドコーディングプラクティスのエキスパート。フロントエンドのセキュリティ実装やクライアントサイドのセキュリティコードレビューに積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [
@@ -202,13 +202,13 @@
       "author": "wshobson",
       "name": {
         "en": "mobile-security-coder",
-        "zh": "mobile-security-coder",
-        "ja": "mobile-security-coder"
+        "zh": "移动安全编码器",
+        "ja": "モバイルセキュリティコーダー"
       },
       "description": {
         "en": "Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns. Use PROACTIVELY for mobile security implementations or mobile security code reviews.",
-        "zh": "Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns. Use PROACTIVELY for mobile security implementations or mobile security code reviews.",
-        "ja": "Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns. Use PROACTIVELY for mobile security implementations or mobile security code reviews."
+        "zh": "精通安全移动编码实践的专家，专注于输入验证、WebView安全和移动端特定的安全模式。主动用于移动安全实施或移动安全代码审查。",
+        "ja": "入力検証、WebViewセキュリティ、モバイル固有のセキュリティパターンを専門とする、セキュアなモバイルコーディングプラクティスのエキスパート。モバイルセキュリティの実装やモバイルセキュリティコードレビューに積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [

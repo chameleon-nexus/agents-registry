@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "cpp-pro",
-        "zh": "cpp-pro",
-        "ja": "cpp-pro"
+        "zh": "C++专家",
+        "ja": "C++プロ"
       },
       "description": {
         "en": "Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles templates, move semantics, and performance optimization. Use PROACTIVELY for C++ refactoring, memory safety, or complex C++ patterns.",
-        "zh": "Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles templates, move semantics, and performance optimization. Use PROACTIVELY for C++ refactoring, memory safety, or complex C++ patterns.",
-        "ja": "Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles templates, move semantics, and performance optimization. Use PROACTIVELY for C++ refactoring, memory safety, or complex C++ patterns."
+        "zh": "使用现代特性、RAII、智能指针和STL算法编写地道的C++代码。处理模板、移动语义和性能优化。主动用于C++重构、内存安全或复杂的C++模式。",
+        "ja": "最新の機能、RAII、スマートポインタ、STLアルゴリズムを使用して、慣用的なC++コードを作成します。テンプレート、ムーブセマンティクス、およびパフォーマンスの最適化を扱います。C++のリファクタリング、メモリ安全性、または複雑なC++パターンに積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],
@@ -61,13 +61,13 @@
       "author": "wshobson",
       "name": {
         "en": "golang-pro",
-        "zh": "golang-pro",
-        "ja": "golang-pro"
+        "zh": "Go专家",
+        "ja": "Goプロ"
       },
       "description": {
         "en": "Master Go 1.21+ with modern patterns, advanced concurrency, performance optimization, and production-ready microservices. Expert in the latest Go ecosystem including generics, workspaces, and cutting-edge frameworks. Use PROACTIVELY for Go development, architecture design, or performance optimization.",
-        "zh": "Master Go 1.21+ with modern patterns, advanced concurrency, performance optimization, and production-ready microservices. Expert in the latest Go ecosystem including generics, workspaces, and cutting-edge frameworks. Use PROACTIVELY for Go development, architecture design, or performance optimization.",
-        "ja": "Master Go 1.21+ with modern patterns, advanced concurrency, performance optimization, and production-ready microservices. Expert in the latest Go ecosystem including generics, workspaces, and cutting-edge frameworks. Use PROACTIVELY for Go development, architecture design, or performance optimization."
+        "zh": "精通Go 1.21+，掌握现代模式、高级并发、性能优化和生产就绪的微服务。精通最新的Go生态系统，包括泛型、工作区和前沿框架。主动用于Go开发、架构设计或性能优化。",
+        "ja": "最新のパターン、高度な並行性、パフォーマンスの最適化、本番環境に対応したマイクロサービスを備えたGo 1.21+を習得します。ジェネリクス、ワークスペース、最先端のフレームワークなど、最新のGoエコシステムのエキスパート。Go開発、アーキテクチャ設計、またはパフォーマンスの最適化に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],
@@ -104,13 +104,13 @@
       "author": "wshobson",
       "name": {
         "en": "rust-pro",
-        "zh": "rust-pro",
-        "ja": "rust-pro"
+        "zh": "Rust专家",
+        "ja": "Rustプロ"
       },
       "description": {
         "en": "Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming. Expert in the latest Rust ecosystem including Tokio, axum, and cutting-edge crates. Use PROACTIVELY for Rust development, performance optimization, or systems programming.",
-        "zh": "Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming. Expert in the latest Rust ecosystem including Tokio, axum, and cutting-edge crates. Use PROACTIVELY for Rust development, performance optimization, or systems programming.",
-        "ja": "Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming. Expert in the latest Rust ecosystem including Tokio, axum, and cutting-edge crates. Use PROACTIVELY for Rust development, performance optimization, or systems programming."
+        "zh": "精通Rust 1.75+，掌握现代异步模式、高级类型系统功能和生产就绪的系统编程。精通最新的Rust生态系统，包括Tokio、axum和前沿的crates。主动用于Rust开发、性能优化或系统编程。",
+        "ja": "最新の非同期パターン、高度な型システム機能、本番環境に対応したシステムプログラミングを備えたRust 1.75+を習得します。Tokio、axum、最先端のクレートなど、最新のRustエコシステムのエキスパート。Rust開発、パフォーマンスの最適化、またはシステムプログラミングに積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],
@@ -147,13 +147,13 @@
       "author": "wshobson",
       "name": {
         "en": "c-pro",
-        "zh": "c-pro",
-        "ja": "c-pro"
+        "zh": "C专家",
+        "ja": "Cプロ"
       },
       "description": {
         "en": "Write efficient C code with proper memory management, pointer arithmetic, and system calls. Handles embedded systems, kernel modules, and performance-critical code. Use PROACTIVELY for C optimization, memory issues, or system programming.",
-        "zh": "Write efficient C code with proper memory management, pointer arithmetic, and system calls. Handles embedded systems, kernel modules, and performance-critical code. Use PROACTIVELY for C optimization, memory issues, or system programming.",
-        "ja": "Write efficient C code with proper memory management, pointer arithmetic, and system calls. Handles embedded systems, kernel modules, and performance-critical code. Use PROACTIVELY for C optimization, memory issues, or system programming."
+        "zh": "使用适当的内存管理、指针运算和系统调用编写高效的C代码。处理嵌入式系统、内核模块和性能关键代码。主动用于C语言优化、内存问题或系统编程。",
+        "ja": "適切なメモリ管理、ポインタ演算、およびシステムコールを使用して効率的なCコードを作成します。組み込みシステム、カーネルモジュール、およびパフォーマンスが重要なコードを扱います。Cの最適化、メモリの問題、またはシステムプログラミングに積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],

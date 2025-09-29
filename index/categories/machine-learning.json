@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "prompt-engineer",
-        "zh": "prompt-engineer",
-        "ja": "prompt-engineer"
+        "zh": "提示工程师",
+        "ja": "プロンプトエンジニア"
       },
       "description": {
         "en": "Expert prompt engineer specializing in advanced prompting techniques, LLM optimization, and AI system design. Masters chain-of-thought, constitutional AI, and production prompt strategies. Use when building AI features, improving agent performance, or crafting system prompts.",
-        "zh": "Expert prompt engineer specializing in advanced prompting techniques, LLM optimization, and AI system design. Masters chain-of-thought, constitutional AI, and production prompt strategies. Use when building AI features, improving agent performance, or crafting system prompts.",
-        "ja": "Expert prompt engineer specializing in advanced prompting techniques, LLM optimization, and AI system design. Masters chain-of-thought, constitutional AI, and production prompt strategies. Use when building AI features, improving agent performance, or crafting system prompts."
+        "zh": "专家级提示工程师，专注于高级提示技术、LLM优化和AI系统设计。精通思维链、宪法AI和生产级提示策略。在构建AI功能、提高代理性能或制作系统提示时使用。",
+        "ja": "高度なプロンプティング技術、LLMの最適化、AIシステム設計を専門とするエキスパートプロンプトエンジニア。思考の連鎖、憲法AI、本番用のプロンプト戦略を習得。AI機能の構築、エージェントのパフォーマンス向上、またはシステムプロンプトの作成時に使用します。"
       },
       "category": "debugging",
       "tags": [
@@ -63,13 +63,13 @@
       "author": "wshobson",
       "name": {
         "en": "ml-engineer",
-        "zh": "ml-engineer",
-        "ja": "ml-engineer"
+        "zh": "机器学习工程师",
+        "ja": "機械学習エンジニア"
       },
       "description": {
         "en": "Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks. Implements model serving, feature engineering, A/B testing, and monitoring. Use PROACTIVELY for ML model deployment, inference optimization, or production ML infrastructure.",
-        "zh": "Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks. Implements model serving, feature engineering, A/B testing, and monitoring. Use PROACTIVELY for ML model deployment, inference optimization, or production ML infrastructure.",
-        "ja": "Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks. Implements model serving, feature engineering, A/B testing, and monitoring. Use PROACTIVELY for ML model deployment, inference optimization, or production ML infrastructure."
+        "zh": "使用PyTorch 2.x、TensorFlow和现代ML框架构建生产级ML系统。实施模型服务、特征工程、A/B测试和监控。主动用于ML模型部署、推理优化或生产ML基础设施。",
+        "ja": "PyTorch 2.x、TensorFlow、および最新のMLフレームワークを使用して本番MLシステムを構築します。モデルサービング、フィーチャーエンジニアリング、A/Bテスト、および監視を実装します。MLモデルの展開、推論の最適化、または本番MLインフラストラクチャに積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [
@@ -108,13 +108,13 @@
       "author": "wshobson",
       "name": {
         "en": "mlops-engineer",
-        "zh": "mlops-engineer",
-        "ja": "mlops-engineer"
+        "zh": "MLOps工程师",
+        "ja": "MLOpsエンジニア"
       },
       "description": {
         "en": "Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, and modern MLOps tools. Implements automated training, deployment, and monitoring across cloud platforms. Use PROACTIVELY for ML infrastructure, experiment management, or pipeline automation.",
-        "zh": "Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, and modern MLOps tools. Implements automated training, deployment, and monitoring across cloud platforms. Use PROACTIVELY for ML infrastructure, experiment management, or pipeline automation.",
-        "ja": "Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, and modern MLOps tools. Implements automated training, deployment, and monitoring across cloud platforms. Use PROACTIVELY for ML infrastructure, experiment management, or pipeline automation."
+        "zh": "使用MLflow、Kubeflow和现代MLOps工具构建全面的ML管道、实验跟踪和模型注册表。跨云平台实施自动化训练、部署和监控。主动用于ML基础设施、实验管理或管道自动化。",
+        "ja": "MLflow、Kubeflow、および最新のMLOpsツールを使用して、包括的なMLパイプライン、実験追跡、およびモデルレジストリを構築します。クラウドプラットフォーム全体で自動化されたトレーニング、展開、および監視を実装します。MLインフラストラクチャ、実験管理、またはパイプラインの自動化に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [

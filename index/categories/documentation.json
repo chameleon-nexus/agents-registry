@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "api-documenter",
-        "zh": "api-documenter",
-        "ja": "api-documenter"
+        "zh": "API文档编写员",
+        "ja": "APIドキュメンター"
       },
       "description": {
         "en": "Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practices. Create interactive docs, generate SDKs, and build comprehensive developer portals. Use PROACTIVELY for API documentation or developer portal creation.",
-        "zh": "Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practices. Create interactive docs, generate SDKs, and build comprehensive developer portals. Use PROACTIVELY for API documentation or developer portal creation.",
-        "ja": "Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practices. Create interactive docs, generate SDKs, and build comprehensive developer portals. Use PROACTIVELY for API documentation or developer portal creation."
+        "zh": "使用OpenAPI 3.1、AI驱动的工具和现代开发者体验实践来掌握API文档。创建交互式文档，生成SDK，并构建全面的开发者门户。主动用于API文档或开发者门户的创建。",
+        "ja": "OpenAPI 3.1、AI搭載ツール、最新の開発者エクスペリエンスプラクティスを駆使してAPIドキュメントをマスターします。インタラクティブなドキュメントを作成し、SDKを生成し、包括的な開発者ポータルを構築します。APIドキュメントや開発者ポータルの作成に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],
@@ -61,13 +61,13 @@
       "author": "wshobson",
       "name": {
         "en": "tutorial-engineer",
-        "zh": "tutorial-engineer",
-        "ja": "tutorial-engineer"
+        "zh": "教程工程师",
+        "ja": "チュートリアルエンジニア"
       },
       "description": {
         "en": "Creates step-by-step tutorials and educational content from code. Transforms complex concepts into progressive learning experiences with hands-on examples. Use PROACTIVELY for onboarding guides, feature tutorials, or concept explanations.",
-        "zh": "Creates step-by-step tutorials and educational content from code. Transforms complex concepts into progressive learning experiences with hands-on examples. Use PROACTIVELY for onboarding guides, feature tutorials, or concept explanations.",
-        "ja": "Creates step-by-step tutorials and educational content from code. Transforms complex concepts into progressive learning experiences with hands-on examples. Use PROACTIVELY for onboarding guides, feature tutorials, or concept explanations."
+        "zh": "从代码中创建分步教程和教育内容。将复杂的概念转化为带有动手示例的渐进式学习体验。主动用于入职指南、功能教程或概念解释。",
+        "ja": "コードからステップバイステップのチュートリアルと教育コンテンツを作成します。複雑な概念を、実践的な例を用いて段階的な学習体験に変換します。オンボーディングガイド、機能チュートリアル、または概念説明に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [
@@ -106,13 +106,13 @@
       "author": "wshobson",
       "name": {
         "en": "docs-architect",
-        "zh": "docs-architect",
-        "ja": "docs-architect"
+        "zh": "文档架构师",
+        "ja": "ドキュメントアーキテクト"
       },
       "description": {
         "en": "Creates comprehensive technical documentation from existing codebases. Analyzes architecture, design patterns, and implementation details to produce long-form technical manuals and ebooks. Use PROACTIVELY for system documentation, architecture guides, or technical deep-dives.",
-        "zh": "Creates comprehensive technical documentation from existing codebases. Analyzes architecture, design patterns, and implementation details to produce long-form technical manuals and ebooks. Use PROACTIVELY for system documentation, architecture guides, or technical deep-dives.",
-        "ja": "Creates comprehensive technical documentation from existing codebases. Analyzes architecture, design patterns, and implementation details to produce long-form technical manuals and ebooks. Use PROACTIVELY for system documentation, architecture guides, or technical deep-dives."
+        "zh": "从现有代码库创建全面的技术文档。分析架构、设计模式和实施细节，以生成长篇技术手册和电子书。主动用于系统文档、架构指南或技术深度剖析。",
+        "ja": "既存のコードベースから包括的な技術ドキュメントを作成します。アーキテクチャ、設計パターン、および実装の詳細を分析して、長文の技術マニュアルや電子書籍を作成します。システムドキュメント、アーキテクチャガイド、または技術的な詳細解説に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],
@@ -149,13 +149,13 @@
       "author": "wshobson",
       "name": {
         "en": "mermaid-expert",
-        "zh": "mermaid-expert",
-        "ja": "mermaid-expert"
+        "zh": "Mermaid专家",
+        "ja": "Mermaidエキスパート"
       },
       "description": {
         "en": "Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling. Use PROACTIVELY for visual documentation, system diagrams, or process flows.",
-        "zh": "Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling. Use PROACTIVELY for visual documentation, system diagrams, or process flows.",
-        "ja": "Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling. Use PROACTIVELY for visual documentation, system diagrams, or process flows."
+        "zh": "为流程图、序列图、ERD和架构创建Mermaid图。掌握所有图表类型和样式的语法。主动用于可视化文档、系统图或流程图。",
+        "ja": "フローチャート、シーケンス図、ERD、アーキテクチャ用のMermaid図を作成します。すべての図の種類とスタイリングの構文を習得しています。視覚的なドキュメント、システム図、またはプロセスフローに積極的に使用してください。"
       },
       "category": "data",
       "tags": [
@@ -194,13 +194,13 @@
       "author": "wshobson",
       "name": {
         "en": "reference-builder",
-        "zh": "reference-builder",
-        "ja": "reference-builder"
+        "zh": "参考资料构建器",
+        "ja": "リファレンスビルダー"
       },
       "description": {
         "en": "Creates exhaustive technical references and API documentation. Generates comprehensive parameter listings, configuration guides, and searchable reference materials. Use PROACTIVELY for API docs, configuration references, or complete technical specifications.",
-        "zh": "Creates exhaustive technical references and API documentation. Generates comprehensive parameter listings, configuration guides, and searchable reference materials. Use PROACTIVELY for API docs, configuration references, or complete technical specifications.",
-        "ja": "Creates exhaustive technical references and API documentation. Generates comprehensive parameter listings, configuration guides, and searchable reference materials. Use PROACTIVELY for API docs, configuration references, or complete technical specifications."
+        "zh": "创建详尽的技术参考和API文档。生成全面的参数列表、配置指南和可搜索的参考资料。主动用于API文档、配置参考或完整的技术规范。",
+        "ja": "詳細な技術リファレンスとAPIドキュメントを作成します。包括的なパラメータリスト、設定ガイド、検索可能なリファレンス資料を生成します。APIドキュメント、設定リファレンス、または完全な技術仕様に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],

@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "blockchain-developer",
-        "zh": "blockchain-developer",
-        "ja": "blockchain-developer"
+        "zh": "区块链开发者",
+        "ja": "ブロックチェーン開発者"
       },
       "description": {
         "en": "Build production-ready Web3 applications, smart contracts, and decentralized systems. Implements DeFi protocols, NFT platforms, DAOs, and enterprise blockchain integrations. Use PROACTIVELY for smart contracts, Web3 apps, DeFi protocols, or blockchain infrastructure.",
-        "zh": "Build production-ready Web3 applications, smart contracts, and decentralized systems. Implements DeFi protocols, NFT platforms, DAOs, and enterprise blockchain integrations. Use PROACTIVELY for smart contracts, Web3 apps, DeFi protocols, or blockchain infrastructure.",
-        "ja": "Build production-ready Web3 applications, smart contracts, and decentralized systems. Implements DeFi protocols, NFT platforms, DAOs, and enterprise blockchain integrations. Use PROACTIVELY for smart contracts, Web3 apps, DeFi protocols, or blockchain infrastructure."
+        "zh": "构建生产就绪的Web3应用程序、智能合约和去中心化系统。实施DeFi协议、NFT平台、DAO和企业区块链集成。主动用于智能合约、Web3应用、DeFi协议或区块链基础设施。",
+        "ja": "本番環境対応のWeb3アプリケーション、スマートコントラクト、分散型システムを構築します。DeFiプロトコル、NFTプラットフォーム、DAO、およびエンタープライズブロックチェーン統合を実装します。スマートコントラクト、Web3アプリ、DeFiプロトコル、またはブロックチェーンインフラストラクチャに積極的に使用してください。"
       },
       "category": "data",
       "tags": [
@@ -63,13 +63,13 @@
       "author": "wshobson",
       "name": {
         "en": "payment-integration",
-        "zh": "payment-integration",
-        "ja": "payment-integration"
+        "zh": "支付集成",
+        "ja": "決済統合"
       },
       "description": {
         "en": "Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, and PCI compliance. Use PROACTIVELY when implementing payments, billing, or subscription features.",
-        "zh": "Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, and PCI compliance. Use PROACTIVELY when implementing payments, billing, or subscription features.",
-        "ja": "Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, and PCI compliance. Use PROACTIVELY when implementing payments, billing, or subscription features."
+        "zh": "集成Stripe、PayPal和支付处理器。处理结账流程、订阅、webhooks和PCI合规性。在实施支付、计费或订阅功能时主动使用。",
+        "ja": "Stripe、PayPal、および決済プロセッサを統合します。チェックアウトフロー、サブスクリプション、Webhook、およびPCIコンプライアンスを処理します。支払い、請求、またはサブスクリプション機能の実装時に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [
@@ -108,13 +108,13 @@
       "author": "wshobson",
       "name": {
         "en": "context-manager",
-        "zh": "context-manager",
-        "ja": "context-manager"
+        "zh": "上下文管理器",
+        "ja": "コンテキストマネージャー"
       },
       "description": {
         "en": "Elite AI context engineering specialist mastering dynamic context management, vector databases, knowledge graphs, and intelligent memory systems. Orchestrates context across multi-agent workflows, enterprise AI systems, and long-running projects with 2024/2025 best practices. Use PROACTIVELY for complex AI orchestration.",
-        "zh": "Elite AI context engineering specialist mastering dynamic context management, vector databases, knowledge graphs, and intelligent memory systems. Orchestrates context across multi-agent workflows, enterprise AI systems, and long-running projects with 2024/2025 best practices. Use PROACTIVELY for complex AI orchestration.",
-        "ja": "Elite AI context engineering specialist mastering dynamic context management, vector databases, knowledge graphs, and intelligent memory systems. Orchestrates context across multi-agent workflows, enterprise AI systems, and long-running projects with 2024/2025 best practices. Use PROACTIVELY for complex AI orchestration."
+        "zh": "精通动态上下文管理、向量数据库、知识图谱和智能记忆系统的精英AI上下文工程专家。通过2024/2025年的最佳实践，在多代理工作流、企业AI系统和长期项目中协调上下文。主动用于复杂的AI编排。",
+        "ja": "動的コンテキスト管理、ベクトルデータベース、ナレッジグラフ、およびインテリジェントメモリシステムを習得したエリートAIコンテキストエンジニアリングスペシャリスト。2024/2025年のベストプラクティスを用いて、マルチエージェントワークフロー、エンタープライズAIシステム、および長期プロジェクト全体でコンテキストを調整します。複雑なAIオーケストレーションに積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [
@@ -153,13 +153,13 @@
       "author": "wshobson",
       "name": {
         "en": "legacy-modernizer",
-        "zh": "legacy-modernizer",
-        "ja": "legacy-modernizer"
+        "zh": "遗留系统现代化工具",
+        "ja": "レガシーモダナイザー"
       },
       "description": {
         "en": "Refactor legacy codebases, migrate outdated frameworks, and implement gradual modernization. Handles technical debt, dependency updates, and backward compatibility. Use PROACTIVELY for legacy system updates, framework migrations, or technical debt reduction.",
-        "zh": "Refactor legacy codebases, migrate outdated frameworks, and implement gradual modernization. Handles technical debt, dependency updates, and backward compatibility. Use PROACTIVELY for legacy system updates, framework migrations, or technical debt reduction.",
-        "ja": "Refactor legacy codebases, migrate outdated frameworks, and implement gradual modernization. Handles technical debt, dependency updates, and backward compatibility. Use PROACTIVELY for legacy system updates, framework migrations, or technical debt reduction."
+        "zh": "重构遗留代码库，迁移过时的框架，并实施渐进式现代化。处理技术债务、依赖更新和向后兼容性。主动用于遗留系统更新、框架迁移或减少技术债务。",
+        "ja": "レガシーコードベースをリファクタリングし、時代遅れのフレームワークを移行し、段階的な近代化を実施します。技術的負債、依存関係の更新、および下位互換性を処理します。レガシーシステムの更新、フレームワークの移行、または技術的負債の削減に積極的に使用してください。"
       },
       "category": "data",
       "tags": [],

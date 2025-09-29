@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "cloud-architect",
-        "zh": "cloud-architect",
-        "ja": "cloud-architect"
+        "zh": "云架构师",
+        "ja": "クラウドアーキテクト"
       },
       "description": {
         "en": "Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC (Terraform/OpenTofu/CDK), FinOps cost optimization, and modern architectural patterns. Masters serverless, microservices, security, compliance, and disaster recovery. Use PROACTIVELY for cloud architecture, cost optimization, migration planning, or multi-cloud strategies.",
-        "zh": "Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC (Terraform/OpenTofu/CDK), FinOps cost optimization, and modern architectural patterns. Masters serverless, microservices, security, compliance, and disaster recovery. Use PROACTIVELY for cloud architecture, cost optimization, migration planning, or multi-cloud strategies.",
-        "ja": "Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC (Terraform/OpenTofu/CDK), FinOps cost optimization, and modern architectural patterns. Masters serverless, microservices, security, compliance, and disaster recovery. Use PROACTIVELY for cloud architecture, cost optimization, migration planning, or multi-cloud strategies."
+        "zh": "专家级云架构师，专注于AWS/Azure/GCP多云基础设施设计、高级IaC（Terraform/OpenTofu/CDK）、FinOps成本优化和现代架构模式。精通无服务器、微服务、安全、合规和灾难恢复。主动用于云架构、成本优化、迁移规划或多云战略。",
+        "ja": "AWS/Azure/GCPのマルチクラウドインフラ設計、高度なIaC（Terraform/OpenTofu/CDK）、FinOpsコスト最適化、モダンなアーキテクチャパターンを専門とするエキスパートクラウドアーキテクト。サーバーレス、マイクロサービス、セキュリティ、コンプライアンス、災害復旧を習得。クラウドアーキテクチャ、コスト最適化、移行計画、またはマルチクラウド戦略に積極的に使用してください。"
       },
       "category": "data",
       "tags": [
@@ -63,13 +63,13 @@
       "author": "wshobson",
       "name": {
         "en": "kubernetes-architect",
-        "zh": "kubernetes-architect",
-        "ja": "kubernetes-architect"
+        "zh": "Kubernetes架构师",
+        "ja": "Kubernetesアーキテクト"
       },
       "description": {
         "en": "Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (ArgoCD/Flux), and enterprise container orchestration. Masters EKS/AKS/GKE, service mesh (Istio/Linkerd), progressive delivery, multi-tenancy, and platform engineering. Handles security, observability, cost optimization, and developer experience. Use PROACTIVELY for K8s architecture, GitOps implementation, or cloud-native platform design.",
-        "zh": "Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (ArgoCD/Flux), and enterprise container orchestration. Masters EKS/AKS/GKE, service mesh (Istio/Linkerd), progressive delivery, multi-tenancy, and platform engineering. Handles security, observability, cost optimization, and developer experience. Use PROACTIVELY for K8s architecture, GitOps implementation, or cloud-native platform design.",
-        "ja": "Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (ArgoCD/Flux), and enterprise container orchestration. Masters EKS/AKS/GKE, service mesh (Istio/Linkerd), progressive delivery, multi-tenancy, and platform engineering. Handles security, observability, cost optimization, and developer experience. Use PROACTIVELY for K8s architecture, GitOps implementation, or cloud-native platform design."
+        "zh": "专家级Kubernetes架构师，专注于云原生基础设施、高级GitOps工作流（ArgoCD/Flux）和企业级容器编排。精通EKS/AKS/GKE、服务网格（Istio/Linkerd）、渐进式交付、多租户和平台工程。处理安全、可观察性、成本优化和开发者体验。主动用于K8s架构、GitOps实施或云原生平台设计。",
+        "ja": "クラウドネイティブインフラ、高度なGitOpsワークフロー（ArgoCD/Flux）、エンタープライズコンテナオーケストレーションを専門とするエキスパートKubernetesアーキテクト。EKS/AKS/GKE、サービスメッシュ（Istio/Linkerd）、プログレッシブデリバリー、マルチテナンシー、プラットフォームエンジニアリングを習得。セキュリティ、オブザーバビリティ、コスト最適化、開発者エクスペリエンスを処理します。K8sアーキテクチャ、GitOps実装、またはクラウドネイティブプラットフォーム設計に積極的に使用してください。"
       },
       "category": "data",
       "tags": [
@@ -108,8 +108,8 @@
       "author": "wshobson",
       "name": {
         "en": "frontend-developer",
-        "zh": "frontend-developer",
-        "ja": "frontend-developer"
+        "zh": "前端开发者",
+        "ja": "フロントエンド開発者"
       },
       "description": {
         "en": "Build React components, implement responsive layouts, and handle client-side state management. Masters React 19, Next.js 15, and modern frontend architecture. Optimizes performance and ensures accessibility. Use PROACTIVELY when creating UI components or fixing frontend issues.",
@@ -154,13 +154,13 @@
       "author": "wshobson",
       "name": {
         "en": "hybrid-cloud-architect",
-        "zh": "hybrid-cloud-architect",
-        "ja": "hybrid-cloud-architect"
+        "zh": "混合云架构师",
+        "ja": "ハイブリッドクラウドアーキテクト"
       },
       "description": {
         "en": "Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware). Masters hybrid connectivity, workload placement optimization, edge computing, and cross-cloud automation. Handles compliance, cost optimization, disaster recovery, and migration strategies. Use PROACTIVELY for hybrid architecture, multi-cloud strategy, or complex infrastructure integration.",
-        "zh": "Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware). Masters hybrid connectivity, workload placement optimization, edge computing, and cross-cloud automation. Handles compliance, cost optimization, disaster recovery, and migration strategies. Use PROACTIVELY for hybrid architecture, multi-cloud strategy, or complex infrastructure integration.",
-        "ja": "Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware). Masters hybrid connectivity, workload placement optimization, edge computing, and cross-cloud automation. Handles compliance, cost optimization, disaster recovery, and migration strategies. Use PROACTIVELY for hybrid architecture, multi-cloud strategy, or complex infrastructure integration."
+        "zh": "专家级混合云架构师，专注于跨AWS/Azure/GCP和私有云（OpenStack/VMware）的复杂多云解决方案。精通混合连接、工作负载放置优化、边缘计算和跨云自动化。处理合规性、成本优化、灾难恢复和迁移策略。主动用于混合架构、多云战略或复杂基础设施集成。",
+        "ja": "AWS/Azure/GCPおよびプライベートクラウド（OpenStack/VMware）にわたる複雑なマルチクラウドソリューションを専門とするエキスパートハイブリッドクラウドアーキテクト。ハイブリッド接続、ワークロード配置の最適化、エッジコンピューティング、およびクラウド間の自動化を習得。コンプライアンス、コスト最適化、災害復旧、および移行戦略を処理します。ハイブリッドアーキテクチャ、マルチクラウド戦略、または複雑なインフラストラクチャ統合に積極的に使用してください。"
       },
       "category": "data",
       "tags": [],
@@ -197,13 +197,13 @@
       "author": "wshobson",
       "name": {
         "en": "architect-review",
-        "zh": "architect-review",
-        "ja": "architect-review"
+        "zh": "架构审查员",
+        "ja": "アーキテクトレビュアー"
       },
       "description": {
         "en": "Master software architect specializing in modern architecture patterns, clean architecture, microservices, event-driven systems, and DDD. Reviews system designs and code changes for architectural integrity, scalability, and maintainability. Use PROACTIVELY for architectural decisions.",
-        "zh": "Master software architect specializing in modern architecture patterns, clean architecture, microservices, event-driven systems, and DDD. Reviews system designs and code changes for architectural integrity, scalability, and maintainability. Use PROACTIVELY for architectural decisions.",
-        "ja": "Master software architect specializing in modern architecture patterns, clean architecture, microservices, event-driven systems, and DDD. Reviews system designs and code changes for architectural integrity, scalability, and maintainability. Use PROACTIVELY for architectural decisions."
+        "zh": "软件架构大师，专注于现代架构模式、整洁架构、微服务、事件驱动系统和DDD。审查系统设计和代码变更，以确保架构完整性、可扩展性和可维护性。主动用于架构决策。",
+        "ja": "モダンなアーキテクチャパターン、クリーンアーキテクチャ、マイクロサービス、イベント駆動型システム、およびDDDを専門とするマスターソフトウェアアーキテクト。アーキテクチャの完全性、スケーラビリティ、および保守性のためにシステム設計とコード変更をレビューします。アーキテクチャの決定に積極的に使用してください。"
       },
       "category": "data",
       "tags": [
@@ -242,13 +242,13 @@
       "author": "wshobson",
       "name": {
         "en": "graphql-architect",
-        "zh": "graphql-architect",
-        "ja": "graphql-architect"
+        "zh": "GraphQL架构师",
+        "ja": "GraphQLアーキテクト"
       },
       "description": {
         "en": "Master modern GraphQL with federation, performance optimization, and enterprise security. Build scalable schemas, implement advanced caching, and design real-time systems. Use PROACTIVELY for GraphQL architecture or performance optimization.",
-        "zh": "Master modern GraphQL with federation, performance optimization, and enterprise security. Build scalable schemas, implement advanced caching, and design real-time systems. Use PROACTIVELY for GraphQL architecture or performance optimization.",
-        "ja": "Master modern GraphQL with federation, performance optimization, and enterprise security. Build scalable schemas, implement advanced caching, and design real-time systems. Use PROACTIVELY for GraphQL architecture or performance optimization."
+        "zh": "精通现代GraphQL，包括联合、性能优化和企业级安全。构建可扩展的模式，实施高级缓存，并设计实时系统。主动用于GraphQL架构或性能优化。",
+        "ja": "フェデレーション、パフォーマンス最適化、およびエンタープライズセキュリティを備えた最新のGraphQLを習得。スケーラブルなスキーマを構築し、高度なキャッシングを実装し、リアルタイムシステムを設計します。GraphQLアーキテクチャまたはパフォーマンス最適化に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [
@@ -287,8 +287,8 @@
       "author": "wshobson",
       "name": {
         "en": "backend-architect",
-        "zh": "backend-architect",
-        "ja": "backend-architect"
+        "zh": "后端架构师",
+        "ja": "バックエンドアーキテクト"
       },
       "description": {
         "en": "Design RESTful APIs, microservice boundaries, and database schemas. Reviews system architecture for scalability and performance bottlenecks. Use PROACTIVELY when creating new backend services or APIs.",

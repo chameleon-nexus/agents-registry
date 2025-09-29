@@ -18,13 +18,13 @@
       "author": "wshobson",
       "name": {
         "en": "unity-developer",
-        "zh": "unity-developer",
-        "ja": "unity-developer"
+        "zh": "Unity开发者",
+        "ja": "Unity開発者"
       },
       "description": {
         "en": "Build Unity games with optimized C# scripts, efficient rendering, and proper asset management. Masters Unity 6 LTS, URP/HDRP pipelines, and cross-platform deployment. Handles gameplay systems, UI implementation, and platform optimization. Use PROACTIVELY for Unity performance issues, game mechanics, or cross-platform builds.",
-        "zh": "Build Unity games with optimized C# scripts, efficient rendering, and proper asset management. Masters Unity 6 LTS, URP/HDRP pipelines, and cross-platform deployment. Handles gameplay systems, UI implementation, and platform optimization. Use PROACTIVELY for Unity performance issues, game mechanics, or cross-platform builds.",
-        "ja": "Build Unity games with optimized C# scripts, efficient rendering, and proper asset management. Masters Unity 6 LTS, URP/HDRP pipelines, and cross-platform deployment. Handles gameplay systems, UI implementation, and platform optimization. Use PROACTIVELY for Unity performance issues, game mechanics, or cross-platform builds."
+        "zh": "使用优化的C#脚本、高效的渲染和适当的资产管理来构建Unity游戏。精通Unity 6 LTS、URP/HDRP管道和跨平台部署。处理游戏系统、UI实施和平台优化。主动用于解决Unity性能问题、游戏机制或跨平台构建。",
+        "ja": "最適化されたC#スクリプト、効率的なレンダリング、適切なアセット管理でUnityゲームを構築します。Unity 6 LTS、URP/HDRPパイプライン、クロスプラットフォーム展開を習得しています。ゲームプレイシステム、UI実装、プラットフォームの最適化を扱います。Unityのパフォーマンス問題、ゲームの仕組み、またはクロスプラットフォームビルドに積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [
@@ -63,13 +63,13 @@
       "author": "wshobson",
       "name": {
         "en": "elixir-pro",
-        "zh": "elixir-pro",
-        "ja": "elixir-pro"
+        "zh": "Elixir专家",
+        "ja": "Elixirプロ"
       },
       "description": {
         "en": "Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems. Use PROACTIVELY for Elixir refactoring, OTP design, or complex BEAM optimizations.",
-        "zh": "Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems. Use PROACTIVELY for Elixir refactoring, OTP design, or complex BEAM optimizations.",
-        "ja": "Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems. Use PROACTIVELY for Elixir refactoring, OTP design, or complex BEAM optimizations."
+        "zh": "使用OTP模式、监督树和Phoenix LiveView编写地道的Elixir代码。精通并发、容错和分布式系统。主动用于Elixir重构、OTP设计或复杂的BEAM优化。",
+        "ja": "OTPパターン、監督ツリー、Phoenix LiveViewを使用して、慣用的なElixirコードを作成します。並行性、フォールトトレランス、分散システムを習得しています。Elixirのリファクタリング、OTP設計、または複雑なBEAMの最適化に積極的に使用してください。"
       },
       "category": "data",
       "tags": [],
@@ -106,13 +106,13 @@
       "author": "wshobson",
       "name": {
         "en": "sql-pro",
-        "zh": "sql-pro",
-        "ja": "sql-pro"
+        "zh": "SQL专家",
+        "ja": "SQLプロ"
       },
       "description": {
         "en": "Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques. Expert in performance tuning, data modeling, and hybrid analytical systems. Use PROACTIVELY for database optimization or complex analysis.",
-        "zh": "Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques. Expert in performance tuning, data modeling, and hybrid analytical systems. Use PROACTIVELY for database optimization or complex analysis.",
-        "ja": "Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques. Expert in performance tuning, data modeling, and hybrid analytical systems. Use PROACTIVELY for database optimization or complex analysis."
+        "zh": "精通现代SQL，掌握云原生数据库、OLTP/OLAP优化和高级查询技术。擅长性能调优、数据建模和混合分析系统。主动用于数据库优化或复杂分析。",
+        "ja": "クラウドネイティブデータベース、OLTP/OLAP最適化、高度なクエリ技術を備えた最新のSQLを習得します。パフォーマンステューニング、データモデリング、ハイブリッド分析システムの専門家。データベースの最適化や複雑な分析に積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],
@@ -149,13 +149,13 @@
       "author": "wshobson",
       "name": {
         "en": "minecraft-bukkit-pro",
-        "zh": "minecraft-bukkit-pro",
-        "ja": "minecraft-bukkit-pro"
+        "zh": "Minecraft Bukkit专家",
+        "ja": "Minecraft Bukkitプロ"
       },
       "description": {
         "en": "Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. Specializes in event-driven architecture, command systems, world manipulation, player management, and performance optimization. Use PROACTIVELY for plugin architecture, gameplay mechanics, server-side features, or cross-version compatibility.",
-        "zh": "Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. Specializes in event-driven architecture, command systems, world manipulation, player management, and performance optimization. Use PROACTIVELY for plugin architecture, gameplay mechanics, server-side features, or cross-version compatibility.",
-        "ja": "Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. Specializes in event-driven architecture, command systems, world manipulation, player management, and performance optimization. Use PROACTIVELY for plugin architecture, gameplay mechanics, server-side features, or cross-version compatibility."
+        "zh": "精通使用Bukkit、Spigot和Paper API进行Minecraft服务器插件开发。专注于事件驱动架构、命令系统、世界操控、玩家管理和性能优化。主动用于插件架构、游戏机制、服务器端功能或跨版本兼容性。",
+        "ja": "Bukkit、Spigot、およびPaper APIを使用したMinecraftサーバープラグイン開発を習得します。イベント駆動型アーキテクチャ、コマンドシステム、ワールド操作、プレイヤー管理、およびパフォーマンスの最適化を専門としています。プラグインアーキテクチャ、ゲームプレイの仕組み、サーバーサイドの機能、またはクロスバージョンの互換性のために積極的に使用してください。"
       },
       "category": "debugging",
       "tags": [],
