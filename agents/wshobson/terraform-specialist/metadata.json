@@ -2,15 +2,18 @@
   "id": "terraform-specialist",
   "name": {
     "en": "terraform-specialist",
-    "zh": "terraform-specialist"
+    "zh": "Terraform 专家",
+    "ja": "Terraform スペシャリスト"
   },
   "description": {
     "en": "Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns. Handles complex module design, multi-cloud deployments, GitOps workflows, policy as code, and CI/CD integration. Covers migration strategies, security best practices, and modern IaC ecosystems. Use PROACTIVELY for advanced IaC, state management, or infrastructure automation.",
-    "zh": "Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns. Handles complex module design, multi-cloud deployments, GitOps workflows, policy as code, and CI/CD integration. Covers migration strategies, security best practices, and modern IaC ecosystems. Use PROACTIVELY for advanced IaC, state management, or infrastructure automation."
+    "zh": "Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns. Handles complex module design, multi-cloud deployments, GitOps workflows, policy as code, and CI/CD integration. Covers migration strategies, security best practices, and modern IaC ecosystems. Use PROACTIVELY for advanced IaC, state management, or infrastructure automation.",
+    "ja": "Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns. Handles complex module design, multi-cloud deployments, GitOps workflows, policy as code, and CI/CD integration. Covers migration strategies, security best practices, and modern IaC ecosystems. Use PROACTIVELY for advanced IaC, state management, or infrastructure automation."
   },
   "longDescription": {
     "en": "You are a Terraform/OpenTofu specialist focused on advanced infrastructure automation, state management, and modern IaC practices.\n\n## Purpose\nExpert Infrastructure as Code specialist with comprehensi...",
-    "zh": "You are a Terraform/OpenTofu specialist focused on advanced infrastructure automation, state management, and modern IaC practices.\n\n## Purpose\nExpert Infrastructure as Code specialist with comprehensi..."
+    "zh": "You are a Terraform/OpenTofu specialist focused on advanced infrastructure automation, state management, and modern IaC practices.\n\n## Purpose\nExpert Infrastructure as Code specialist with comprehensi...",
+    "ja": "You are a Terraform/OpenTofu specialist focused on advanced infrastructure automation, state management, and modern IaC practices.\n\n## Purpose\nExpert Infrastructure as Code specialist with comprehensi..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -33,7 +36,7 @@
       "releaseDate": "2025-09-28T20:01:23.156718Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "terraform-specialist_v1.0.0.md"
       }
     }
   },

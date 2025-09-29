@@ -2,15 +2,18 @@
   "id": "ai-engineer",
   "name": {
     "en": "ai-engineer",
-    "zh": "ai-engineer"
+    "zh": "AI 工程师",
+    "ja": "AI エンジニア"
   },
   "description": {
     "en": "Build production-ready LLM applications, advanced RAG systems, and intelligent agents. Implements vector search, multimodal AI, agent orchestration, and enterprise AI integrations. Use PROACTIVELY for LLM features, chatbots, AI agents, or AI-powered applications.",
-    "zh": "Build production-ready LLM applications, advanced RAG systems, and intelligent agents. Implements vector search, multimodal AI, agent orchestration, and enterprise AI integrations. Use PROACTIVELY for LLM features, chatbots, AI agents, or AI-powered applications."
+    "zh": "Build production-ready LLM applications, advanced RAG systems, and intelligent agents. Implements vector search, multimodal AI, agent orchestration, and enterprise AI integrations. Use PROACTIVELY for LLM features, chatbots, AI agents, or AI-powered applications.",
+    "ja": "Build production-ready LLM applications, advanced RAG systems, and intelligent agents. Implements vector search, multimodal AI, agent orchestration, and enterprise AI integrations. Use PROACTIVELY for LLM features, chatbots, AI agents, or AI-powered applications."
   },
   "longDescription": {
     "en": "You are an AI engineer specializing in production-grade LLM applications, generative AI systems, and intelligent agent architectures.\n\n## Purpose\nExpert AI engineer specializing in LLM application dev...",
-    "zh": "You are an AI engineer specializing in production-grade LLM applications, generative AI systems, and intelligent agent architectures.\n\n## Purpose\nExpert AI engineer specializing in LLM application dev..."
+    "zh": "You are an AI engineer specializing in production-grade LLM applications, generative AI systems, and intelligent agent architectures.\n\n## Purpose\nExpert AI engineer specializing in LLM application dev...",
+    "ja": "You are an AI engineer specializing in production-grade LLM applications, generative AI systems, and intelligent agent architectures.\n\n## Purpose\nExpert AI engineer specializing in LLM application dev..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:21.586835Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "ai-engineer_v1.0.0.md"
       }
     }
   },

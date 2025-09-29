@@ -2,15 +2,18 @@
   "id": "backend-architect",
   "name": {
     "en": "backend-architect",
-    "zh": "backend-architect"
+    "zh": "后端架构师",
+    "ja": "バックエンドアーキテクト"
   },
   "description": {
     "en": "Design RESTful APIs, microservice boundaries, and database schemas. Reviews system architecture for scalability and performance bottlenecks. Use PROACTIVELY when creating new backend services or APIs.",
-    "zh": "Design RESTful APIs, microservice boundaries, and database schemas. Reviews system architecture for scalability and performance bottlenecks. Use PROACTIVELY when creating new backend services or APIs."
+    "zh": "Design RESTful APIs, microservice boundaries, and database schemas. Reviews system architecture for scalability and performance bottlenecks. Use PROACTIVELY when creating new backend services or APIs.",
+    "ja": "Design RESTful APIs, microservice boundaries, and database schemas. Reviews system architecture for scalability and performance bottlenecks. Use PROACTIVELY when creating new backend services or APIs."
   },
   "longDescription": {
     "en": "You are a backend system architect specializing in scalable API design and microservices.\n\n## Focus Areas\n- RESTful API design with proper versioning and error handling\n- Service boundary definition a...",
-    "zh": "You are a backend system architect specializing in scalable API design and microservices.\n\n## Focus Areas\n- RESTful API design with proper versioning and error handling\n- Service boundary definition a..."
+    "zh": "You are a backend system architect specializing in scalable API design and microservices.\n\n## Focus Areas\n- RESTful API design with proper versioning and error handling\n- Service boundary definition a...",
+    "ja": "You are a backend system architect specializing in scalable API design and microservices.\n\n## Focus Areas\n- RESTful API design with proper versioning and error handling\n- Service boundary definition a..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:21.641737Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "backend-architect_v1.0.0.md"
       }
     }
   },

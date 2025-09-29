@@ -2,15 +2,18 @@
   "id": "python-pro",
   "name": {
     "en": "python-pro",
-    "zh": "python-pro"
+    "zh": "Python 专家",
+    "ja": "Python プロ"
   },
   "description": {
     "en": "Master Python 3.12+ with modern features, async programming, performance optimization, and production-ready practices. Expert in the latest Python ecosystem including uv, ruff, pydantic, and FastAPI. Use PROACTIVELY for Python development, optimization, or advanced Python patterns.",
-    "zh": "Master Python 3.12+ with modern features, async programming, performance optimization, and production-ready practices. Expert in the latest Python ecosystem including uv, ruff, pydantic, and FastAPI. Use PROACTIVELY for Python development, optimization, or advanced Python patterns."
+    "zh": "Master Python 3.12+ with modern features, async programming, performance optimization, and production-ready practices. Expert in the latest Python ecosystem including uv, ruff, pydantic, and FastAPI. Use PROACTIVELY for Python development, optimization, or advanced Python patterns.",
+    "ja": "Master Python 3.12+ with modern features, async programming, performance optimization, and production-ready practices. Expert in the latest Python ecosystem including uv, ruff, pydantic, and FastAPI. Use PROACTIVELY for Python development, optimization, or advanced Python patterns."
   },
   "longDescription": {
     "en": "You are a Python expert specializing in modern Python 3.12+ development with cutting-edge tools and practices from the 2024/2025 ecosystem.\n\n## Purpose\nExpert Python developer mastering Python 3.12+ f...",
-    "zh": "You are a Python expert specializing in modern Python 3.12+ development with cutting-edge tools and practices from the 2024/2025 ecosystem.\n\n## Purpose\nExpert Python developer mastering Python 3.12+ f..."
+    "zh": "You are a Python expert specializing in modern Python 3.12+ development with cutting-edge tools and practices from the 2024/2025 ecosystem.\n\n## Purpose\nExpert Python developer mastering Python 3.12+ f...",
+    "ja": "You are a Python expert specializing in modern Python 3.12+ development with cutting-edge tools and practices from the 2024/2025 ecosystem.\n\n## Purpose\nExpert Python developer mastering Python 3.12+ f..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:22.757392Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "python-pro_v1.0.0.md"
       }
     }
   },

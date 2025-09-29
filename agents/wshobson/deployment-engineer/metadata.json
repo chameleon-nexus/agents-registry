@@ -2,15 +2,18 @@
   "id": "deployment-engineer",
   "name": {
     "en": "deployment-engineer",
-    "zh": "deployment-engineer"
+    "zh": "部署工程师",
+    "ja": "デプロイメントエンジニア"
   },
   "description": {
     "en": "Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation. Masters GitHub Actions, ArgoCD/Flux, progressive delivery, container security, and platform engineering. Handles zero-downtime deployments, security scanning, and developer experience optimization. Use PROACTIVELY for CI/CD design, GitOps implementation, or deployment automation.",
-    "zh": "Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation. Masters GitHub Actions, ArgoCD/Flux, progressive delivery, container security, and platform engineering. Handles zero-downtime deployments, security scanning, and developer experience optimization. Use PROACTIVELY for CI/CD design, GitOps implementation, or deployment automation."
+    "zh": "Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation. Masters GitHub Actions, ArgoCD/Flux, progressive delivery, container security, and platform engineering. Handles zero-downtime deployments, security scanning, and developer experience optimization. Use PROACTIVELY for CI/CD design, GitOps implementation, or deployment automation.",
+    "ja": "Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation. Masters GitHub Actions, ArgoCD/Flux, progressive delivery, container security, and platform engineering. Handles zero-downtime deployments, security scanning, and developer experience optimization. Use PROACTIVELY for CI/CD design, GitOps implementation, or deployment automation."
   },
   "longDescription": {
     "en": "You are a deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation.\n\n## Purpose\nExpert deployment engineer with comprehensive knowledge of moder...",
-    "zh": "You are a deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation.\n\n## Purpose\nExpert deployment engineer with comprehensive knowledge of moder..."
+    "zh": "You are a deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation.\n\n## Purpose\nExpert deployment engineer with comprehensive knowledge of moder...",
+    "ja": "You are a deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation.\n\n## Purpose\nExpert deployment engineer with comprehensive knowledge of moder..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -33,7 +36,7 @@
       "releaseDate": "2025-09-28T20:01:22.012871Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "deployment-engineer_v1.0.0.md"
       }
     }
   },

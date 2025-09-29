@@ -2,15 +2,18 @@
   "id": "minecraft-bukkit-pro",
   "name": {
     "en": "minecraft-bukkit-pro",
-    "zh": "minecraft-bukkit-pro"
+    "zh": "Minecraft Bukkit 专家",
+    "ja": "Minecraft Bukkit プロ"
   },
   "description": {
     "en": "Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. Specializes in event-driven architecture, command systems, world manipulation, player management, and performance optimization. Use PROACTIVELY for plugin architecture, gameplay mechanics, server-side features, or cross-version compatibility.",
-    "zh": "Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. Specializes in event-driven architecture, command systems, world manipulation, player management, and performance optimization. Use PROACTIVELY for plugin architecture, gameplay mechanics, server-side features, or cross-version compatibility."
+    "zh": "Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. Specializes in event-driven architecture, command systems, world manipulation, player management, and performance optimization. Use PROACTIVELY for plugin architecture, gameplay mechanics, server-side features, or cross-version compatibility.",
+    "ja": "Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. Specializes in event-driven architecture, command systems, world manipulation, player management, and performance optimization. Use PROACTIVELY for plugin architecture, gameplay mechanics, server-side features, or cross-version compatibility."
   },
   "longDescription": {
     "en": "You are a Minecraft plugin development master specializing in Bukkit, Spigot, and Paper server APIs with deep knowledge of internal mechanics and modern development patterns.\n\n## Core Expertise\n\n### A...",
-    "zh": "You are a Minecraft plugin development master specializing in Bukkit, Spigot, and Paper server APIs with deep knowledge of internal mechanics and modern development patterns.\n\n## Core Expertise\n\n### A..."
+    "zh": "You are a Minecraft plugin development master specializing in Bukkit, Spigot, and Paper server APIs with deep knowledge of internal mechanics and modern development patterns.\n\n## Core Expertise\n\n### A...",
+    "ja": "You are a Minecraft plugin development master specializing in Bukkit, Spigot, and Paper server APIs with deep knowledge of internal mechanics and modern development patterns.\n\n## Core Expertise\n\n### A..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -30,7 +33,7 @@
       "releaseDate": "2025-09-28T20:01:22.492465Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "minecraft-bukkit-pro_v1.0.0.md"
       }
     }
   },

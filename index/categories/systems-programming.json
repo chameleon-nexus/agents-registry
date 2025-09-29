@@ -1,0 +1,189 @@
+{
+  "category": "systems-programming",
+  "name": {
+    "en": "Systems & Low-Level Programming",
+    "zh": "系统与底层编程",
+    "ja": "システム・低レベルプログラミング"
+  },
+  "description": {
+    "en": "System programming, memory management, and performance-critical applications",
+    "zh": "系统编程、内存管理和性能关键应用",
+    "ja": "システムプログラミング、メモリ管理、パフォーマンス重視アプリケーション"
+  },
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 4,
+  "agents": [
+    {
+      "id": "cpp-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "cpp-pro",
+        "zh": "cpp-pro",
+        "ja": "cpp-pro"
+      },
+      "description": {
+        "en": "Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles templates, move semantics, and performance optimization. Use PROACTIVELY for C++ refactoring, memory safety, or complex C++ patterns.",
+        "zh": "Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles templates, move semantics, and performance optimization. Use PROACTIVELY for C++ refactoring, memory safety, or complex C++ patterns.",
+        "ja": "Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles templates, move semantics, and performance optimization. Use PROACTIVELY for C++ refactoring, memory safety, or complex C++ patterns."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:21.853705Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "cpp-pro_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.1,
+      "downloads": 1970,
+      "createdAt": "2025-09-28T20:01:21.853716Z",
+      "updatedAt": "2025-09-28T20:01:21.853717Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "cpp-pro_v1.0.0.md"
+      }
+    },
+    {
+      "id": "golang-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "golang-pro",
+        "zh": "golang-pro",
+        "ja": "golang-pro"
+      },
+      "description": {
+        "en": "Master Go 1.21+ with modern patterns, advanced concurrency, performance optimization, and production-ready microservices. Expert in the latest Go ecosystem including generics, workspaces, and cutting-edge frameworks. Use PROACTIVELY for Go development, architecture design, or performance optimization.",
+        "zh": "Master Go 1.21+ with modern patterns, advanced concurrency, performance optimization, and production-ready microservices. Expert in the latest Go ecosystem including generics, workspaces, and cutting-edge frameworks. Use PROACTIVELY for Go development, architecture design, or performance optimization.",
+        "ja": "Master Go 1.21+ with modern patterns, advanced concurrency, performance optimization, and production-ready microservices. Expert in the latest Go ecosystem including generics, workspaces, and cutting-edge frameworks. Use PROACTIVELY for Go development, architecture design, or performance optimization."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.265985Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "golang-pro_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.5,
+      "downloads": 1944,
+      "createdAt": "2025-09-28T20:01:22.266002Z",
+      "updatedAt": "2025-09-28T20:01:22.266004Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "golang-pro_v1.0.0.md"
+      }
+    },
+    {
+      "id": "rust-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "rust-pro",
+        "zh": "rust-pro",
+        "ja": "rust-pro"
+      },
+      "description": {
+        "en": "Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming. Expert in the latest Rust ecosystem including Tokio, axum, and cutting-edge crates. Use PROACTIVELY for Rust development, performance optimization, or systems programming.",
+        "zh": "Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming. Expert in the latest Rust ecosystem including Tokio, axum, and cutting-edge crates. Use PROACTIVELY for Rust development, performance optimization, or systems programming.",
+        "ja": "Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming. Expert in the latest Rust ecosystem including Tokio, axum, and cutting-edge crates. Use PROACTIVELY for Rust development, performance optimization, or systems programming."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.858245Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "rust-pro_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.0,
+      "downloads": 1782,
+      "createdAt": "2025-09-28T20:01:22.858254Z",
+      "updatedAt": "2025-09-28T20:01:22.858255Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "rust-pro_v1.0.0.md"
+      }
+    },
+    {
+      "id": "c-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "c-pro",
+        "zh": "c-pro",
+        "ja": "c-pro"
+      },
+      "description": {
+        "en": "Write efficient C code with proper memory management, pointer arithmetic, and system calls. Handles embedded systems, kernel modules, and performance-critical code. Use PROACTIVELY for C optimization, memory issues, or system programming.",
+        "zh": "Write efficient C code with proper memory management, pointer arithmetic, and system calls. Handles embedded systems, kernel modules, and performance-critical code. Use PROACTIVELY for C optimization, memory issues, or system programming.",
+        "ja": "Write efficient C code with proper memory management, pointer arithmetic, and system calls. Handles embedded systems, kernel modules, and performance-critical code. Use PROACTIVELY for C optimization, memory issues, or system programming."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:21.708771Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "c-pro_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.6,
+      "downloads": 1734,
+      "createdAt": "2025-09-28T20:01:21.708785Z",
+      "updatedAt": "2025-09-28T20:01:21.708786Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "c-pro_v1.0.0.md"
+      }
+    }
+  ]
+}

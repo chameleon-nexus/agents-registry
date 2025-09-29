@@ -2,15 +2,18 @@
   "id": "hybrid-cloud-architect",
   "name": {
     "en": "hybrid-cloud-architect",
-    "zh": "hybrid-cloud-architect"
+    "zh": "混合云架构师",
+    "ja": "ハイブリッドクラウドアーキテクト"
   },
   "description": {
     "en": "Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware). Masters hybrid connectivity, workload placement optimization, edge computing, and cross-cloud automation. Handles compliance, cost optimization, disaster recovery, and migration strategies. Use PROACTIVELY for hybrid architecture, multi-cloud strategy, or complex infrastructure integration.",
-    "zh": "Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware). Masters hybrid connectivity, workload placement optimization, edge computing, and cross-cloud automation. Handles compliance, cost optimization, disaster recovery, and migration strategies. Use PROACTIVELY for hybrid architecture, multi-cloud strategy, or complex infrastructure integration."
+    "zh": "Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware). Masters hybrid connectivity, workload placement optimization, edge computing, and cross-cloud automation. Handles compliance, cost optimization, disaster recovery, and migration strategies. Use PROACTIVELY for hybrid architecture, multi-cloud strategy, or complex infrastructure integration.",
+    "ja": "Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware). Masters hybrid connectivity, workload placement optimization, edge computing, and cross-cloud automation. Handles compliance, cost optimization, disaster recovery, and migration strategies. Use PROACTIVELY for hybrid architecture, multi-cloud strategy, or complex infrastructure integration."
   },
   "longDescription": {
     "en": "You are a hybrid cloud architect specializing in complex multi-cloud and hybrid infrastructure solutions across public, private, and edge environments.\n\n## Purpose\nExpert hybrid cloud architect with d...",
-    "zh": "You are a hybrid cloud architect specializing in complex multi-cloud and hybrid infrastructure solutions across public, private, and edge environments.\n\n## Purpose\nExpert hybrid cloud architect with d..."
+    "zh": "You are a hybrid cloud architect specializing in complex multi-cloud and hybrid infrastructure solutions across public, private, and edge environments.\n\n## Purpose\nExpert hybrid cloud architect with d...",
+    "ja": "You are a hybrid cloud architect specializing in complex multi-cloud and hybrid infrastructure solutions across public, private, and edge environments.\n\n## Purpose\nExpert hybrid cloud architect with d..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -30,7 +33,7 @@
       "releaseDate": "2025-09-28T20:01:22.297201Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "hybrid-cloud-architect_v1.0.0.md"
       }
     }
   },

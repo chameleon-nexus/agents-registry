@@ -2,15 +2,18 @@
   "id": "backend-security-coder",
   "name": {
     "en": "backend-security-coder",
-    "zh": "backend-security-coder"
+    "zh": "后端安全编程专家",
+    "ja": "バックエンドセキュリティコーダー"
   },
   "description": {
     "en": "Expert in secure backend coding practices specializing in input validation, authentication, and API security. Use PROACTIVELY for backend security implementations or security code reviews.",
-    "zh": "Expert in secure backend coding practices specializing in input validation, authentication, and API security. Use PROACTIVELY for backend security implementations or security code reviews."
+    "zh": "Expert in secure backend coding practices specializing in input validation, authentication, and API security. Use PROACTIVELY for backend security implementations or security code reviews.",
+    "ja": "Expert in secure backend coding practices specializing in input validation, authentication, and API security. Use PROACTIVELY for backend security implementations or security code reviews."
   },
   "longDescription": {
     "en": "You are a backend security coding expert specializing in secure development practices, vulnerability prevention, and secure architecture implementation.\n\n## Purpose\nExpert backend security developer w...",
-    "zh": "You are a backend security coding expert specializing in secure development practices, vulnerability prevention, and secure architecture implementation.\n\n## Purpose\nExpert backend security developer w..."
+    "zh": "You are a backend security coding expert specializing in secure development practices, vulnerability prevention, and secure architecture implementation.\n\n## Purpose\nExpert backend security developer w...",
+    "ja": "You are a backend security coding expert specializing in secure development practices, vulnerability prevention, and secure architecture implementation.\n\n## Purpose\nExpert backend security developer w..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -33,7 +36,7 @@
       "releaseDate": "2025-09-28T20:01:21.655549Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "backend-security-coder_v1.0.0.md"
       }
     }
   },

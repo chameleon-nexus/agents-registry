@@ -2,15 +2,18 @@
   "id": "data-scientist",
   "name": {
     "en": "data-scientist",
-    "zh": "data-scientist"
+    "zh": "数据科学家",
+    "ja": "データサイエンティスト"
   },
   "description": {
     "en": "Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles complex data analysis, predictive modeling, and business intelligence. Use PROACTIVELY for data analysis tasks, ML modeling, statistical analysis, and data-driven insights.",
-    "zh": "Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles complex data analysis, predictive modeling, and business intelligence. Use PROACTIVELY for data analysis tasks, ML modeling, statistical analysis, and data-driven insights."
+    "zh": "Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles complex data analysis, predictive modeling, and business intelligence. Use PROACTIVELY for data analysis tasks, ML modeling, statistical analysis, and data-driven insights.",
+    "ja": "Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles complex data analysis, predictive modeling, and business intelligence. Use PROACTIVELY for data analysis tasks, ML modeling, statistical analysis, and data-driven insights."
   },
   "longDescription": {
     "en": "You are a data scientist specializing in advanced analytics, machine learning, statistical modeling, and data-driven business insights.\n\n## Purpose\nExpert data scientist combining strong statistical f...",
-    "zh": "You are a data scientist specializing in advanced analytics, machine learning, statistical modeling, and data-driven business insights.\n\n## Purpose\nExpert data scientist combining strong statistical f..."
+    "zh": "You are a data scientist specializing in advanced analytics, machine learning, statistical modeling, and data-driven business insights.\n\n## Purpose\nExpert data scientist combining strong statistical f...",
+    "ja": "You are a data scientist specializing in advanced analytics, machine learning, statistical modeling, and data-driven business insights.\n\n## Purpose\nExpert data scientist combining strong statistical f..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:21.937427Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "data-scientist_v1.0.0.md"
       }
     }
   },

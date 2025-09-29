@@ -1,0 +1,436 @@
+{
+  "name": {
+    "en": "Featured Agents",
+    "zh": "热门代理",
+    "ja": "注目のエージェント"
+  },
+  "description": {
+    "en": "Top 20 most popular agents across all categories",
+    "zh": "各类别中最受欢迎的20个代理", 
+    "ja": "全カテゴリで最も人気の高い20のエージェント"
+  },
+  "lastUpdated": "2025-09-29T02:57:00Z",
+  "totalAgents": 20,
+  "agents": [
+    {
+      "id": "python-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "Python Pro",
+        "zh": "Python 专家",
+        "ja": "Python プロ"
+      },
+      "description": {
+        "en": "Master Python 3.12+ with modern features, async programming, performance optimization, and production-ready practices.",
+        "zh": "精通 Python 3.12+ 现代特性，异步编程，性能优化和生产级实践。",
+        "ja": "Python 3.12+ の最新機能、非同期プログラミング、パフォーマンス最適化、本番対応のプラクティスをマスター。"
+      },
+      "category": "programming",
+      "tags": ["python", "async", "performance"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0",
+      "rating": 4.8,
+      "downloads": 2156,
+      "files": {"latest": "python-pro_v1.0.0.md"}
+    },
+    {
+      "id": "ai-engineer", 
+      "author": "wshobson",
+      "name": {
+        "en": "AI Engineer",
+        "zh": "AI 工程师",
+        "ja": "AI エンジニア"
+      },
+      "description": {
+        "en": "Build production-ready LLM applications, advanced RAG systems, and intelligent agents.",
+        "zh": "构建生产级 LLM 应用程序、高级 RAG 系统和智能代理。",
+        "ja": "本番対応の LLM アプリケーション、高度な RAG システム、インテリジェントエージェントを構築。"
+      },
+      "category": "data",
+      "tags": ["ai", "llm", "rag"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0", 
+      "rating": 4.7,
+      "downloads": 1893,
+      "files": {"latest": "ai-engineer_v1.0.0.md"}
+    },
+    {
+      "id": "code-reviewer",
+      "author": "chameleon-team", 
+      "name": {
+        "en": "Code Reviewer",
+        "zh": "代码审查专家",
+        "ja": "コードレビュアー"
+      },
+      "description": {
+        "en": "Professional code quality inspection and security audit",
+        "zh": "专业的代码质量检查和安全审核",
+        "ja": "プロフェッショナルなコード品質検査とセキュリティ監査"
+      },
+      "category": "quality",
+      "tags": ["code-review", "security", "quality"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0",
+      "rating": 4.6,
+      "downloads": 1654,
+      "files": {"latest": "code-reviewer_v1.0.0.md"}
+    },
+    {
+      "id": "frontend-developer",
+      "author": "wshobson",
+      "name": {
+        "en": "Frontend Developer", 
+        "zh": "前端开发工程师",
+        "ja": "フロントエンド開発者"
+      },
+      "description": {
+        "en": "Build React components, implement responsive layouts, and handle client-side state management.",
+        "zh": "构建 React 组件，实现响应式布局，处理客户端状态管理。",
+        "ja": "React コンポーネントを構築し、レスポンシブレイアウトを実装し、クライアントサイド状態管理を処理。"
+      },
+      "category": "architecture",
+      "tags": ["react", "frontend", "responsive"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0",
+      "rating": 4.5,
+      "downloads": 1432,
+      "files": {"latest": "frontend-developer_v1.0.0.md"}
+    },
+    {
+      "id": "backend-architect",
+      "author": "wshobson",
+      "name": {
+        "en": "Backend Architect",
+        "zh": "后端架构师", 
+        "ja": "バックエンドアーキテクト"
+      },
+      "description": {
+        "en": "Design RESTful APIs, microservice boundaries, and database schemas.",
+        "zh": "设计 RESTful API、微服务边界和数据库模式。",
+        "ja": "RESTful API、マイクロサービス境界、データベーススキーマを設計。"
+      },
+      "category": "architecture",
+      "tags": ["api", "microservices", "database"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0",
+      "rating": 4.4,
+      "downloads": 1298,
+      "files": {"latest": "backend-architect_v1.0.0.md"}
+    },
+    {
+      "id": "javascript-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "JavaScript Pro",
+        "zh": "JavaScript 专家",
+        "ja": "JavaScript プロ"
+      },
+      "description": {
+        "en": "Master modern JavaScript with ES6+, async patterns, and Node.js APIs.",
+        "zh": "精通现代 JavaScript，包括 ES6+、异步模式和 Node.js API。",
+        "ja": "ES6+、非同期パターン、Node.js API を含むモダン JavaScript をマスター。"
+      },
+      "category": "programming",
+      "tags": ["javascript", "nodejs", "es6"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0",
+      "rating": 4.3,
+      "downloads": 1187,
+      "files": {"latest": "javascript-pro_v1.0.0.md"}
+    },
+    {
+      "id": "devops-troubleshooter",
+      "author": "wshobson",
+      "name": {
+        "en": "DevOps Troubleshooter",
+        "zh": "DevOps 故障排除专家",
+        "ja": "DevOps トラブルシューター"
+      },
+      "description": {
+        "en": "Production debugging, log analysis, and deployment troubleshooting.",
+        "zh": "生产环境调试、日志分析和部署故障排除。",
+        "ja": "本番デバッグ、ログ解析、デプロイメントトラブルシューティング。"
+      },
+      "category": "infrastructure",
+      "tags": ["devops", "debugging", "logs"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0",
+      "rating": 4.2,
+      "downloads": 1089,
+      "files": {"latest": "devops-troubleshooter_v1.0.0.md"}
+    },
+    {
+      "id": "security-auditor",
+      "author": "wshobson",
+      "name": {
+        "en": "Security Auditor",
+        "zh": "安全审计专家",
+        "ja": "セキュリティ監査者"
+      },
+      "description": {
+        "en": "Vulnerability assessment and OWASP compliance auditing.",
+        "zh": "漏洞评估和 OWASP 合规性审计。",
+        "ja": "脆弱性評価と OWASP コンプライアンス監査。"
+      },
+      "category": "quality",
+      "tags": ["security", "owasp", "audit"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0",
+      "rating": 4.1,
+      "downloads": 967,
+      "files": {"latest": "security-auditor_v1.0.0.md"}
+    },
+    {
+      "id": "data-scientist",
+      "author": "wshobson",
+      "name": {
+        "en": "Data Scientist",
+        "zh": "数据科学家",
+        "ja": "データサイエンティスト"
+      },
+      "description": {
+        "en": "Data analysis, SQL queries, and statistical modeling.",
+        "zh": "数据分析、SQL 查询和统计建模。",
+        "ja": "データ解析、SQL クエリ、統計モデリング。"
+      },
+      "category": "data",
+      "tags": ["data", "sql", "statistics"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0",
+      "rating": 4.0,
+      "downloads": 843,
+      "files": {"latest": "data-scientist_v1.0.0.md"}
+    },
+    {
+      "id": "typescript-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "TypeScript Pro",
+        "zh": "TypeScript 专家",
+        "ja": "TypeScript プロ"
+      },
+      "description": {
+        "en": "Advanced TypeScript with type systems and generics.",
+        "zh": "高级 TypeScript，包括类型系统和泛型。",
+        "ja": "型システムとジェネリクスを含む高度な TypeScript。"
+      },
+      "category": "programming",
+      "tags": ["typescript", "types", "generics"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0",
+      "rating": 3.9,
+      "downloads": 756,
+      "files": {"latest": "typescript-pro_v1.0.0.md"}
+    },
+    {
+      "id": "cloud-architect",
+      "author": "wshobson",
+      "name": {
+        "en": "Cloud Architect",
+        "zh": "云架构师",
+        "ja": "クラウドアーキテクト"
+      },
+      "description": {
+        "en": "AWS/Azure/GCP infrastructure design and cost optimization.",
+        "zh": "AWS/Azure/GCP 基础设施设计和成本优化。",
+        "ja": "AWS/Azure/GCP インフラ設計とコスト最適化。"
+      },
+      "category": "architecture",
+      "tags": ["cloud", "aws", "infrastructure"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0",
+      "rating": 3.8,
+      "downloads": 692,
+      "files": {"latest": "cloud-architect_v1.0.0.md"}
+    },
+    {
+      "id": "test-automator",
+      "author": "wshobson",
+      "name": {
+        "en": "Test Automator",
+        "zh": "测试自动化专家",
+        "ja": "テスト自動化専門家"
+      },
+      "description": {
+        "en": "Comprehensive test suite creation for unit, integration, and E2E testing.",
+        "zh": "创建全面的测试套件，包括单元、集成和端到端测试。",
+        "ja": "ユニット、統合、E2E テストの包括的なテストスイート作成。"
+      },
+      "category": "quality",
+      "tags": ["testing", "automation", "e2e"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0",
+      "rating": 3.7,
+      "downloads": 618,
+      "files": {"latest": "test-automator_v1.0.0.md"}
+    },
+    {
+      "id": "docs-architect",
+      "author": "wshobson",
+      "name": {
+        "en": "Documentation Architect",
+        "zh": "文档架构师",
+        "ja": "ドキュメントアーキテクト"
+      },
+      "description": {
+        "en": "Comprehensive technical documentation generation and organization.",
+        "zh": "全面的技术文档生成和组织。",
+        "ja": "包括的な技術文書の生成と組織化。"
+      },
+      "category": "documentation",
+      "tags": ["documentation", "technical", "architecture"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0",
+      "rating": 3.6,
+      "downloads": 554,
+      "files": {"latest": "docs-architect_v1.0.0.md"}
+    },
+    {
+      "id": "ml-engineer",
+      "author": "wshobson",
+      "name": {
+        "en": "ML Engineer",
+        "zh": "机器学习工程师",
+        "ja": "機械学習エンジニア"
+      },
+      "description": {
+        "en": "ML pipelines, model serving, and feature engineering.",
+        "zh": "机器学习管道、模型服务和特征工程。",
+        "ja": "ML パイプライン、モデルサービング、特徴量エンジニアリング。"
+      },
+      "category": "data",
+      "tags": ["ml", "pipelines", "features"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0",
+      "rating": 3.5,
+      "downloads": 487,
+      "files": {"latest": "ml-engineer_v1.0.0.md"}
+    },
+    {
+      "id": "database-optimizer",
+      "author": "wshobson",
+      "name": {
+        "en": "Database Optimizer",
+        "zh": "数据库优化专家",
+        "ja": "データベース最適化専門家"
+      },
+      "description": {
+        "en": "Query optimization, index design, and migration strategies.",
+        "zh": "查询优化、索引设计和迁移策略。",
+        "ja": "クエリ最適化、インデックス設計、マイグレーション戦略。"
+      },
+      "category": "infrastructure",
+      "tags": ["database", "optimization", "performance"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0",
+      "rating": 3.4,
+      "downloads": 423,
+      "files": {"latest": "database-optimizer_v1.0.0.md"}
+    },
+    {
+      "id": "performance-engineer",
+      "author": "wshobson",
+      "name": {
+        "en": "Performance Engineer",
+        "zh": "性能工程师",
+        "ja": "パフォーマンスエンジニア"
+      },
+      "description": {
+        "en": "Application profiling and performance optimization.",
+        "zh": "应用程序分析和性能优化。",
+        "ja": "アプリケーションプロファイリングとパフォーマンス最適化。"
+      },
+      "category": "quality",
+      "tags": ["performance", "profiling", "optimization"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0",
+      "rating": 3.3,
+      "downloads": 367,
+      "files": {"latest": "performance-engineer_v1.0.0.md"}
+    },
+    {
+      "id": "business-analyst",
+      "author": "wshobson",
+      "name": {
+        "en": "Business Analyst",
+        "zh": "业务分析师",
+        "ja": "ビジネスアナリスト"
+      },
+      "description": {
+        "en": "Metrics analysis, reporting, and KPI tracking.",
+        "zh": "指标分析、报告和 KPI 跟踪。",
+        "ja": "メトリクス分析、レポート、KPI 追跡。"
+      },
+      "category": "business",
+      "tags": ["business", "metrics", "kpi"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0",
+      "rating": 3.2,
+      "downloads": 298,
+      "files": {"latest": "business-analyst_v1.0.0.md"}
+    },
+    {
+      "id": "seo-content-writer",
+      "author": "wshobson",
+      "name": {
+        "en": "SEO Content Writer",
+        "zh": "SEO 内容撰写专家",
+        "ja": "SEO コンテンツライター"
+      },
+      "description": {
+        "en": "SEO-optimized content creation and keyword strategy.",
+        "zh": "SEO 优化的内容创建和关键词策略。",
+        "ja": "SEO 最適化されたコンテンツ作成とキーワード戦略。"
+      },
+      "category": "seo",
+      "tags": ["seo", "content", "keywords"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0",
+      "rating": 3.1,
+      "downloads": 234,
+      "files": {"latest": "seo-content-writer_v1.0.0.md"}
+    },
+    {
+      "id": "mobile-developer",
+      "author": "wshobson",
+      "name": {
+        "en": "Mobile Developer",
+        "zh": "移动开发工程师",
+        "ja": "モバイル開発者"
+      },
+      "description": {
+        "en": "React Native and Flutter cross-platform mobile development.",
+        "zh": "React Native 和 Flutter 跨平台移动开发。",
+        "ja": "React Native と Flutter のクロスプラットフォームモバイル開発。"
+      },
+      "category": "architecture",
+      "tags": ["mobile", "react-native", "flutter"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0",
+      "rating": 3.0,
+      "downloads": 189,
+      "files": {"latest": "mobile-developer_v1.0.0.md"}
+    },
+    {
+      "id": "golang-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "Go Pro",
+        "zh": "Go 专家",
+        "ja": "Go プロ"
+      },
+      "description": {
+        "en": "Concurrent programming with goroutines and channels.",
+        "zh": "使用 goroutines 和 channels 进行并发编程。",
+        "ja": "goroutines と channels を使った並行プログラミング。"
+      },
+      "category": "programming",
+      "tags": ["golang", "concurrency", "channels"],
+      "compatibility": {"claude-code": true},
+      "version": "1.0.0",
+      "rating": 4.9,
+      "downloads": 156,
+      "files": {"latest": "golang-pro_v1.0.0.md"}
+    }
+  ]
+}

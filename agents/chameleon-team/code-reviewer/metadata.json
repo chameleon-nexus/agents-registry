@@ -2,25 +2,37 @@
   "id": "code-reviewer",
   "name": {
     "en": "Code Reviewer",
-    "zh": "代码审查专家"
+    "zh": "Code Reviewer",
+    "ja": "Code Reviewer"
   },
   "description": {
     "en": "Professional code quality inspection and security audit",
-    "zh": "专业的代码质量检查和安全审核"
+    "zh": "Professional code quality inspection and security audit",
+    "ja": "Professional code quality inspection and security audit"
   },
   "longDescription": {
     "en": "This is a professional code review agent that can analyze your code for quality issues, security vulnerabilities, and best practices. It supports multiple programming languages and provides detailed feedback.",
-    "zh": "这是一个专业的代码审查代理，能够分析代码质量问题、安全漏洞和最佳实践。支持多种编程语言并提供详细反馈。"
+    "zh": "This is a professional code review agent that can analyze your code for quality issues, security vulnerabilities, and best practices. It supports multiple programming languages and provides detailed feedback.",
+    "ja": "This is a professional code review agent that can analyze your code for quality issues, security vulnerabilities, and best practices. It supports multiple programming languages and provides detailed feedback."
   },
   "author": "Chameleon Team",
   "license": "MIT",
   "homepage": "https://github.com/chameleon-nexus/agents-registry",
   "category": "development",
-  "tags": ["code-review", "security", "quality", "typescript", "javascript"],
+  "tags": [
+    "code-review",
+    "security",
+    "quality",
+    "typescript",
+    "javascript"
+  ],
   "compatibility": {
     "claudeCode": {
       "minVersion": "1.0.0",
-      "tested": ["1.0.0", "1.1.0"]
+      "tested": [
+        "1.0.0",
+        "1.1.0"
+      ]
     }
   },
   "versions": {
@@ -28,7 +40,7 @@
       "releaseDate": "2024-01-15T00:00:00Z",
       "changes": "Initial release",
       "files": {
-        "agent": "agent.md"
+        "agent": "code-reviewer_v1.0.0.md"
       }
     }
   },

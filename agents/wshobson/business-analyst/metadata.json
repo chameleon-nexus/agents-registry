@@ -2,15 +2,18 @@
   "id": "business-analyst",
   "name": {
     "en": "business-analyst",
-    "zh": "business-analyst"
+    "zh": "业务分析师",
+    "ja": "ビジネスアナリスト"
   },
   "description": {
     "en": "Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven insights. Build comprehensive KPI frameworks, predictive models, and strategic recommendations. Use PROACTIVELY for business intelligence or strategic analysis.",
-    "zh": "Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven insights. Build comprehensive KPI frameworks, predictive models, and strategic recommendations. Use PROACTIVELY for business intelligence or strategic analysis."
+    "zh": "Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven insights. Build comprehensive KPI frameworks, predictive models, and strategic recommendations. Use PROACTIVELY for business intelligence or strategic analysis.",
+    "ja": "Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven insights. Build comprehensive KPI frameworks, predictive models, and strategic recommendations. Use PROACTIVELY for business intelligence or strategic analysis."
   },
   "longDescription": {
     "en": "You are an expert business analyst specializing in data-driven decision making through advanced analytics, modern BI tools, and strategic business intelligence.\n\n## Purpose\nExpert business analyst foc...",
-    "zh": "You are an expert business analyst specializing in data-driven decision making through advanced analytics, modern BI tools, and strategic business intelligence.\n\n## Purpose\nExpert business analyst foc..."
+    "zh": "You are an expert business analyst specializing in data-driven decision making through advanced analytics, modern BI tools, and strategic business intelligence.\n\n## Purpose\nExpert business analyst foc...",
+    "ja": "You are an expert business analyst specializing in data-driven decision making through advanced analytics, modern BI tools, and strategic business intelligence.\n\n## Purpose\nExpert business analyst foc..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:21.683724Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "business-analyst_v1.0.0.md"
       }
     }
   },

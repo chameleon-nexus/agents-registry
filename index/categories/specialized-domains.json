@@ -1,0 +1,195 @@
+{
+  "category": "specialized-domains",
+  "name": {
+    "en": "Specialized Domains",
+    "zh": "专业领域",
+    "ja": "専門領域"
+  },
+  "description": {
+    "en": "Blockchain, payments, legacy modernization, and specialized tools",
+    "zh": "区块链、支付、遗留系统现代化和专业工具",
+    "ja": "ブロックチェーン、決済、レガシーモダナイゼーション、専門ツール"
+  },
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 4,
+  "agents": [
+    {
+      "id": "blockchain-developer",
+      "author": "wshobson",
+      "name": {
+        "en": "blockchain-developer",
+        "zh": "blockchain-developer",
+        "ja": "blockchain-developer"
+      },
+      "description": {
+        "en": "Build production-ready Web3 applications, smart contracts, and decentralized systems. Implements DeFi protocols, NFT platforms, DAOs, and enterprise blockchain integrations. Use PROACTIVELY for smart contracts, Web3 apps, DeFi protocols, or blockchain infrastructure.",
+        "zh": "Build production-ready Web3 applications, smart contracts, and decentralized systems. Implements DeFi protocols, NFT platforms, DAOs, and enterprise blockchain integrations. Use PROACTIVELY for smart contracts, Web3 apps, DeFi protocols, or blockchain infrastructure.",
+        "ja": "Build production-ready Web3 applications, smart contracts, and decentralized systems. Implements DeFi protocols, NFT platforms, DAOs, and enterprise blockchain integrations. Use PROACTIVELY for smart contracts, Web3 apps, DeFi protocols, or blockchain infrastructure."
+      },
+      "category": "data",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:21.681386Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "blockchain-developer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.2,
+      "downloads": 1852,
+      "createdAt": "2025-09-28T20:01:21.681394Z",
+      "updatedAt": "2025-09-28T20:01:21.681395Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "blockchain-developer_v1.0.0.md"
+      }
+    },
+    {
+      "id": "payment-integration",
+      "author": "wshobson",
+      "name": {
+        "en": "payment-integration",
+        "zh": "payment-integration",
+        "ja": "payment-integration"
+      },
+      "description": {
+        "en": "Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, and PCI compliance. Use PROACTIVELY when implementing payments, billing, or subscription features.",
+        "zh": "Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, and PCI compliance. Use PROACTIVELY when implementing payments, billing, or subscription features.",
+        "ja": "Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, and PCI compliance. Use PROACTIVELY when implementing payments, billing, or subscription features."
+      },
+      "category": "debugging",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.662058Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "payment-integration_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.0,
+      "downloads": 1684,
+      "createdAt": "2025-09-28T20:01:22.662065Z",
+      "updatedAt": "2025-09-28T20:01:22.662066Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "payment-integration_v1.0.0.md"
+      }
+    },
+    {
+      "id": "context-manager",
+      "author": "wshobson",
+      "name": {
+        "en": "context-manager",
+        "zh": "context-manager",
+        "ja": "context-manager"
+      },
+      "description": {
+        "en": "Elite AI context engineering specialist mastering dynamic context management, vector databases, knowledge graphs, and intelligent memory systems. Orchestrates context across multi-agent workflows, enterprise AI systems, and long-running projects with 2024/2025 best practices. Use PROACTIVELY for complex AI orchestration.",
+        "zh": "Elite AI context engineering specialist mastering dynamic context management, vector databases, knowledge graphs, and intelligent memory systems. Orchestrates context across multi-agent workflows, enterprise AI systems, and long-running projects with 2024/2025 best practices. Use PROACTIVELY for complex AI orchestration.",
+        "ja": "Elite AI context engineering specialist mastering dynamic context management, vector databases, knowledge graphs, and intelligent memory systems. Orchestrates context across multi-agent workflows, enterprise AI systems, and long-running projects with 2024/2025 best practices. Use PROACTIVELY for complex AI orchestration."
+      },
+      "category": "debugging",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:21.827530Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "context-manager_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.2,
+      "downloads": 1179,
+      "createdAt": "2025-09-28T20:01:21.827548Z",
+      "updatedAt": "2025-09-28T20:01:21.827549Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "context-manager_v1.0.0.md"
+      }
+    },
+    {
+      "id": "legacy-modernizer",
+      "author": "wshobson",
+      "name": {
+        "en": "legacy-modernizer",
+        "zh": "legacy-modernizer",
+        "ja": "legacy-modernizer"
+      },
+      "description": {
+        "en": "Refactor legacy codebases, migrate outdated frameworks, and implement gradual modernization. Handles technical debt, dependency updates, and backward compatibility. Use PROACTIVELY for legacy system updates, framework migrations, or technical debt reduction.",
+        "zh": "Refactor legacy codebases, migrate outdated frameworks, and implement gradual modernization. Handles technical debt, dependency updates, and backward compatibility. Use PROACTIVELY for legacy system updates, framework migrations, or technical debt reduction.",
+        "ja": "Refactor legacy codebases, migrate outdated frameworks, and implement gradual modernization. Handles technical debt, dependency updates, and backward compatibility. Use PROACTIVELY for legacy system updates, framework migrations, or technical debt reduction."
+      },
+      "category": "data",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.422340Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "legacy-modernizer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.3,
+      "downloads": 497,
+      "createdAt": "2025-09-28T20:01:22.422349Z",
+      "updatedAt": "2025-09-28T20:01:22.422350Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "legacy-modernizer_v1.0.0.md"
+      }
+    }
+  ]
+}

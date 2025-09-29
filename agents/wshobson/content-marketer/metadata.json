@@ -2,15 +2,18 @@
   "id": "content-marketer",
   "name": {
     "en": "content-marketer",
-    "zh": "content-marketer"
+    "zh": "内容营销专家",
+    "ja": "コンテンツマーケター"
   },
   "description": {
     "en": "Elite content marketing strategist specializing in AI-powered content creation, omnichannel distribution, SEO optimization, and data-driven performance marketing. Masters modern content tools, social media automation, and conversion optimization with 2024/2025 best practices. Use PROACTIVELY for comprehensive content marketing.",
-    "zh": "Elite content marketing strategist specializing in AI-powered content creation, omnichannel distribution, SEO optimization, and data-driven performance marketing. Masters modern content tools, social media automation, and conversion optimization with 2024/2025 best practices. Use PROACTIVELY for comprehensive content marketing."
+    "zh": "Elite content marketing strategist specializing in AI-powered content creation, omnichannel distribution, SEO optimization, and data-driven performance marketing. Masters modern content tools, social media automation, and conversion optimization with 2024/2025 best practices. Use PROACTIVELY for comprehensive content marketing.",
+    "ja": "Elite content marketing strategist specializing in AI-powered content creation, omnichannel distribution, SEO optimization, and data-driven performance marketing. Masters modern content tools, social media automation, and conversion optimization with 2024/2025 best practices. Use PROACTIVELY for comprehensive content marketing."
   },
   "longDescription": {
     "en": "You are an elite content marketing strategist specializing in AI-powered content creation, omnichannel marketing, and data-driven content optimization.\n\n## Expert Purpose\nMaster content marketer focus...",
-    "zh": "You are an elite content marketing strategist specializing in AI-powered content creation, omnichannel marketing, and data-driven content optimization.\n\n## Expert Purpose\nMaster content marketer focus..."
+    "zh": "You are an elite content marketing strategist specializing in AI-powered content creation, omnichannel marketing, and data-driven content optimization.\n\n## Expert Purpose\nMaster content marketer focus...",
+    "ja": "You are an elite content marketing strategist specializing in AI-powered content creation, omnichannel marketing, and data-driven content optimization.\n\n## Expert Purpose\nMaster content marketer focus..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -30,7 +33,7 @@
       "releaseDate": "2025-09-28T20:01:21.797855Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "content-marketer_v1.0.0.md"
       }
     }
   },

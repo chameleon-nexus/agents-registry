@@ -1,0 +1,464 @@
+{
+  "category": "seo-content",
+  "name": {
+    "en": "SEO & Content Optimization",
+    "zh": "SEO与内容优化",
+    "ja": "SEO・コンテンツ最適化"
+  },
+  "description": {
+    "en": "Search engine optimization, content strategy, and digital marketing",
+    "zh": "搜索引擎优化、内容策略和数字营销",
+    "ja": "検索エンジン最適化、コンテンツ戦略、デジタルマーケティング"
+  },
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 10,
+  "agents": [
+    {
+      "id": "seo-content-refresher",
+      "author": "wshobson",
+      "name": {
+        "en": "seo-content-refresher",
+        "zh": "seo-content-refresher",
+        "ja": "seo-content-refresher"
+      },
+      "description": {
+        "en": "Identifies outdated elements in provided content and suggests updates to maintain freshness. Finds statistics, dates, and examples that need updating. Use PROACTIVELY for older content.",
+        "zh": "Identifies outdated elements in provided content and suggests updates to maintain freshness. Finds statistics, dates, and examples that need updating. Use PROACTIVELY for older content.",
+        "ja": "Identifies outdated elements in provided content and suggests updates to maintain freshness. Finds statistics, dates, and examples that need updating. Use PROACTIVELY for older content."
+      },
+      "category": "data",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:23.060421Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "seo-content-refresher_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.8,
+      "downloads": 1843,
+      "createdAt": "2025-09-28T20:01:23.060440Z",
+      "updatedAt": "2025-09-28T20:01:23.060442Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "seo-content-refresher_v1.0.0.md"
+      }
+    },
+    {
+      "id": "seo-authority-builder",
+      "author": "wshobson",
+      "name": {
+        "en": "seo-authority-builder",
+        "zh": "seo-authority-builder",
+        "ja": "seo-authority-builder"
+      },
+      "description": {
+        "en": "Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust. Identifies missing credibility elements. Use PROACTIVELY for YMYL topics.",
+        "zh": "Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust. Identifies missing credibility elements. Use PROACTIVELY for YMYL topics.",
+        "ja": "Analyzes content for E-E-A-T signals and suggests improvements to build authority and trust. Identifies missing credibility elements. Use PROACTIVELY for YMYL topics."
+      },
+      "category": "data",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.978898Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "seo-authority-builder_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.8,
+      "downloads": 1599,
+      "createdAt": "2025-09-28T20:01:22.978913Z",
+      "updatedAt": "2025-09-28T20:01:22.978916Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "seo-authority-builder_v1.0.0.md"
+      }
+    },
+    {
+      "id": "seo-keyword-strategist",
+      "author": "wshobson",
+      "name": {
+        "en": "seo-keyword-strategist",
+        "zh": "seo-keyword-strategist",
+        "ja": "seo-keyword-strategist"
+      },
+      "description": {
+        "en": "Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic. Prevents over-optimization. Use PROACTIVELY for content optimization.",
+        "zh": "Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic. Prevents over-optimization. Use PROACTIVELY for content optimization.",
+        "ja": "Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic. Prevents over-optimization. Use PROACTIVELY for content optimization."
+      },
+      "category": "data",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:23.084641Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "seo-keyword-strategist_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.6,
+      "downloads": 1568,
+      "createdAt": "2025-09-28T20:01:23.084654Z",
+      "updatedAt": "2025-09-28T20:01:23.084656Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "seo-keyword-strategist_v1.0.0.md"
+      }
+    },
+    {
+      "id": "seo-content-auditor",
+      "author": "wshobson",
+      "name": {
+        "en": "seo-content-auditor",
+        "zh": "seo-content-auditor",
+        "ja": "seo-content-auditor"
+      },
+      "description": {
+        "en": "Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations based on established guidelines. Use PROACTIVELY for content review.",
+        "zh": "Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations based on established guidelines. Use PROACTIVELY for content review.",
+        "ja": "Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations based on established guidelines. Use PROACTIVELY for content review."
+      },
+      "category": "data",
+      "tags": [
+        "code-review"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:23.034036Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "seo-content-auditor_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 5.0,
+      "downloads": 1435,
+      "createdAt": "2025-09-28T20:01:23.034043Z",
+      "updatedAt": "2025-09-28T20:01:23.034044Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "seo-content-auditor_v1.0.0.md"
+      }
+    },
+    {
+      "id": "seo-content-planner",
+      "author": "wshobson",
+      "name": {
+        "en": "seo-content-planner",
+        "zh": "seo-content-planner",
+        "ja": "seo-content-planner"
+      },
+      "description": {
+        "en": "Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and identifies topic gaps. Use PROACTIVELY for content strategy and planning.",
+        "zh": "Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and identifies topic gaps. Use PROACTIVELY for content strategy and planning.",
+        "ja": "Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and identifies topic gaps. Use PROACTIVELY for content strategy and planning."
+      },
+      "category": "data",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:23.057253Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "seo-content-planner_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.4,
+      "downloads": 1405,
+      "createdAt": "2025-09-28T20:01:23.057265Z",
+      "updatedAt": "2025-09-28T20:01:23.057266Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "seo-content-planner_v1.0.0.md"
+      }
+    },
+    {
+      "id": "seo-snippet-hunter",
+      "author": "wshobson",
+      "name": {
+        "en": "seo-snippet-hunter",
+        "zh": "seo-snippet-hunter",
+        "ja": "seo-snippet-hunter"
+      },
+      "description": {
+        "en": "Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content.",
+        "zh": "Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content.",
+        "ja": "Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content."
+      },
+      "category": "data",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:23.090157Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "seo-snippet-hunter_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.9,
+      "downloads": 1375,
+      "createdAt": "2025-09-28T20:01:23.090172Z",
+      "updatedAt": "2025-09-28T20:01:23.090174Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "seo-snippet-hunter_v1.0.0.md"
+      }
+    },
+    {
+      "id": "seo-meta-optimizer",
+      "author": "wshobson",
+      "name": {
+        "en": "seo-meta-optimizer",
+        "zh": "seo-meta-optimizer",
+        "ja": "seo-meta-optimizer"
+      },
+      "description": {
+        "en": "Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Generates compelling, keyword-rich metadata. Use PROACTIVELY for new content.",
+        "zh": "Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Generates compelling, keyword-rich metadata. Use PROACTIVELY for new content.",
+        "ja": "Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Generates compelling, keyword-rich metadata. Use PROACTIVELY for new content."
+      },
+      "category": "data",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:23.087481Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "seo-meta-optimizer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.6,
+      "downloads": 1320,
+      "createdAt": "2025-09-28T20:01:23.087492Z",
+      "updatedAt": "2025-09-28T20:01:23.087493Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "seo-meta-optimizer_v1.0.0.md"
+      }
+    },
+    {
+      "id": "seo-structure-architect",
+      "author": "wshobson",
+      "name": {
+        "en": "seo-structure-architect",
+        "zh": "seo-structure-architect",
+        "ja": "seo-structure-architect"
+      },
+      "description": {
+        "en": "Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities. Creates search-friendly content organization. Use PROACTIVELY for content structuring.",
+        "zh": "Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities. Creates search-friendly content organization. Use PROACTIVELY for content structuring.",
+        "ja": "Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities. Creates search-friendly content organization. Use PROACTIVELY for content structuring."
+      },
+      "category": "data",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:23.092804Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "seo-structure-architect_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.6,
+      "downloads": 1201,
+      "createdAt": "2025-09-28T20:01:23.092811Z",
+      "updatedAt": "2025-09-28T20:01:23.092812Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "seo-structure-architect_v1.0.0.md"
+      }
+    },
+    {
+      "id": "seo-cannibalization-detector",
+      "author": "wshobson",
+      "name": {
+        "en": "seo-cannibalization-detector",
+        "zh": "seo-cannibalization-detector",
+        "ja": "seo-cannibalization-detector"
+      },
+      "description": {
+        "en": "Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. Suggests differentiation strategies. Use PROACTIVELY when reviewing similar content.",
+        "zh": "Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. Suggests differentiation strategies. Use PROACTIVELY when reviewing similar content.",
+        "ja": "Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. Suggests differentiation strategies. Use PROACTIVELY when reviewing similar content."
+      },
+      "category": "debugging",
+      "tags": [
+        "code-review",
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:23.009009Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "seo-cannibalization-detector_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.3,
+      "downloads": 772,
+      "createdAt": "2025-09-28T20:01:23.009022Z",
+      "updatedAt": "2025-09-28T20:01:23.009024Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "seo-cannibalization-detector_v1.0.0.md"
+      }
+    },
+    {
+      "id": "seo-content-writer",
+      "author": "wshobson",
+      "name": {
+        "en": "seo-content-writer",
+        "zh": "seo-content-writer",
+        "ja": "seo-content-writer"
+      },
+      "description": {
+        "en": "Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks.",
+        "zh": "Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks.",
+        "ja": "Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks."
+      },
+      "category": "data",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:23.063316Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "seo-content-writer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.2,
+      "downloads": 94,
+      "createdAt": "2025-09-28T20:01:23.063328Z",
+      "updatedAt": "2025-09-28T20:01:23.063329Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "seo-content-writer_v1.0.0.md"
+      }
+    }
+  ]
+}

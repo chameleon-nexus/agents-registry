@@ -2,15 +2,18 @@
   "id": "mlops-engineer",
   "name": {
     "en": "mlops-engineer",
-    "zh": "mlops-engineer"
+    "zh": "MLOps 工程师",
+    "ja": "MLOps エンジニア"
   },
   "description": {
     "en": "Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, and modern MLOps tools. Implements automated training, deployment, and monitoring across cloud platforms. Use PROACTIVELY for ML infrastructure, experiment management, or pipeline automation.",
-    "zh": "Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, and modern MLOps tools. Implements automated training, deployment, and monitoring across cloud platforms. Use PROACTIVELY for ML infrastructure, experiment management, or pipeline automation."
+    "zh": "Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, and modern MLOps tools. Implements automated training, deployment, and monitoring across cloud platforms. Use PROACTIVELY for ML infrastructure, experiment management, or pipeline automation.",
+    "ja": "Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, and modern MLOps tools. Implements automated training, deployment, and monitoring across cloud platforms. Use PROACTIVELY for ML infrastructure, experiment management, or pipeline automation."
   },
   "longDescription": {
     "en": "You are an MLOps engineer specializing in ML infrastructure, automation, and production ML systems across cloud platforms.\n\n## Purpose\nExpert MLOps engineer specializing in building scalable ML infras...",
-    "zh": "You are an MLOps engineer specializing in ML infrastructure, automation, and production ML systems across cloud platforms.\n\n## Purpose\nExpert MLOps engineer specializing in building scalable ML infras..."
+    "zh": "You are an MLOps engineer specializing in ML infrastructure, automation, and production ML systems across cloud platforms.\n\n## Purpose\nExpert MLOps engineer specializing in building scalable ML infras...",
+    "ja": "You are an MLOps engineer specializing in ML infrastructure, automation, and production ML systems across cloud platforms.\n\n## Purpose\nExpert MLOps engineer specializing in building scalable ML infras..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:22.543302Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "mlops-engineer_v1.0.0.md"
       }
     }
   },

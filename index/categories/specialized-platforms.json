@@ -1,0 +1,191 @@
+{
+  "category": "specialized-platforms",
+  "name": {
+    "en": "Specialized Platforms",
+    "zh": "专业平台",
+    "ja": "専門プラットフォーム"
+  },
+  "description": {
+    "en": "Domain-specific programming platforms and frameworks",
+    "zh": "特定领域的编程平台和框架",
+    "ja": "ドメイン固有のプログラミングプラットフォームとフレームワーク"
+  },
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 4,
+  "agents": [
+    {
+      "id": "unity-developer",
+      "author": "wshobson",
+      "name": {
+        "en": "unity-developer",
+        "zh": "unity-developer",
+        "ja": "unity-developer"
+      },
+      "description": {
+        "en": "Build Unity games with optimized C# scripts, efficient rendering, and proper asset management. Masters Unity 6 LTS, URP/HDRP pipelines, and cross-platform deployment. Handles gameplay systems, UI implementation, and platform optimization. Use PROACTIVELY for Unity performance issues, game mechanics, or cross-platform builds.",
+        "zh": "Build Unity games with optimized C# scripts, efficient rendering, and proper asset management. Masters Unity 6 LTS, URP/HDRP pipelines, and cross-platform deployment. Handles gameplay systems, UI implementation, and platform optimization. Use PROACTIVELY for Unity performance issues, game mechanics, or cross-platform builds.",
+        "ja": "Build Unity games with optimized C# scripts, efficient rendering, and proper asset management. Masters Unity 6 LTS, URP/HDRP pipelines, and cross-platform deployment. Handles gameplay systems, UI implementation, and platform optimization. Use PROACTIVELY for Unity performance issues, game mechanics, or cross-platform builds."
+      },
+      "category": "debugging",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:23.286932Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "unity-developer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.5,
+      "downloads": 1437,
+      "createdAt": "2025-09-28T20:01:23.286945Z",
+      "updatedAt": "2025-09-28T20:01:23.286946Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "unity-developer_v1.0.0.md"
+      }
+    },
+    {
+      "id": "elixir-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "elixir-pro",
+        "zh": "elixir-pro",
+        "ja": "elixir-pro"
+      },
+      "description": {
+        "en": "Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems. Use PROACTIVELY for Elixir refactoring, OTP design, or complex BEAM optimizations.",
+        "zh": "Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems. Use PROACTIVELY for Elixir refactoring, OTP design, or complex BEAM optimizations.",
+        "ja": "Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems. Use PROACTIVELY for Elixir refactoring, OTP design, or complex BEAM optimizations."
+      },
+      "category": "data",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.122737Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "elixir-pro_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.7,
+      "downloads": 1092,
+      "createdAt": "2025-09-28T20:01:22.122744Z",
+      "updatedAt": "2025-09-28T20:01:22.122745Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "elixir-pro_v1.0.0.md"
+      }
+    },
+    {
+      "id": "sql-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "sql-pro",
+        "zh": "sql-pro",
+        "ja": "sql-pro"
+      },
+      "description": {
+        "en": "Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques. Expert in performance tuning, data modeling, and hybrid analytical systems. Use PROACTIVELY for database optimization or complex analysis.",
+        "zh": "Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques. Expert in performance tuning, data modeling, and hybrid analytical systems. Use PROACTIVELY for database optimization or complex analysis.",
+        "ja": "Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques. Expert in performance tuning, data modeling, and hybrid analytical systems. Use PROACTIVELY for database optimization or complex analysis."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:23.112877Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "sql-pro_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.0,
+      "downloads": 284,
+      "createdAt": "2025-09-28T20:01:23.112884Z",
+      "updatedAt": "2025-09-28T20:01:23.112886Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "sql-pro_v1.0.0.md"
+      }
+    },
+    {
+      "id": "minecraft-bukkit-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "minecraft-bukkit-pro",
+        "zh": "minecraft-bukkit-pro",
+        "ja": "minecraft-bukkit-pro"
+      },
+      "description": {
+        "en": "Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. Specializes in event-driven architecture, command systems, world manipulation, player management, and performance optimization. Use PROACTIVELY for plugin architecture, gameplay mechanics, server-side features, or cross-version compatibility.",
+        "zh": "Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. Specializes in event-driven architecture, command systems, world manipulation, player management, and performance optimization. Use PROACTIVELY for plugin architecture, gameplay mechanics, server-side features, or cross-version compatibility.",
+        "ja": "Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. Specializes in event-driven architecture, command systems, world manipulation, player management, and performance optimization. Use PROACTIVELY for plugin architecture, gameplay mechanics, server-side features, or cross-version compatibility."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.492465Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "minecraft-bukkit-pro_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 5.0,
+      "downloads": 243,
+      "createdAt": "2025-09-28T20:01:22.492474Z",
+      "updatedAt": "2025-09-28T20:01:22.492476Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "minecraft-bukkit-pro_v1.0.0.md"
+      }
+    }
+  ]
+}

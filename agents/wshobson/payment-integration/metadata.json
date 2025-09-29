@@ -2,15 +2,18 @@
   "id": "payment-integration",
   "name": {
     "en": "payment-integration",
-    "zh": "payment-integration"
+    "zh": "支付集成专家",
+    "ja": "決済統合専門家"
   },
   "description": {
     "en": "Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, and PCI compliance. Use PROACTIVELY when implementing payments, billing, or subscription features.",
-    "zh": "Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, and PCI compliance. Use PROACTIVELY when implementing payments, billing, or subscription features."
+    "zh": "Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, and PCI compliance. Use PROACTIVELY when implementing payments, billing, or subscription features.",
+    "ja": "Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, and PCI compliance. Use PROACTIVELY when implementing payments, billing, or subscription features."
   },
   "longDescription": {
     "en": "You are a payment integration specialist focused on secure, reliable payment processing.\n\n## Focus Areas\n- Stripe/PayPal/Square API integration\n- Checkout flows and payment forms\n- Subscription billin...",
-    "zh": "You are a payment integration specialist focused on secure, reliable payment processing.\n\n## Focus Areas\n- Stripe/PayPal/Square API integration\n- Checkout flows and payment forms\n- Subscription billin..."
+    "zh": "You are a payment integration specialist focused on secure, reliable payment processing.\n\n## Focus Areas\n- Stripe/PayPal/Square API integration\n- Checkout flows and payment forms\n- Subscription billin...",
+    "ja": "You are a payment integration specialist focused on secure, reliable payment processing.\n\n## Focus Areas\n- Stripe/PayPal/Square API integration\n- Checkout flows and payment forms\n- Subscription billin..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:22.662058Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "payment-integration_v1.0.0.md"
       }
     }
   },

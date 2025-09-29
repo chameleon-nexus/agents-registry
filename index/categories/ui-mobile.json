@@ -1,0 +1,234 @@
+{
+  "category": "ui-mobile",
+  "name": {
+    "en": "UI/UX & Mobile",
+    "zh": "UI/UX与移动端",
+    "ja": "UI/UX・モバイル"
+  },
+  "description": {
+    "en": "User interface design, mobile development, and visual validation",
+    "zh": "用户界面设计、移动开发和视觉验证",
+    "ja": "ユーザーインターフェース設計、モバイル開発、ビジュアル検証"
+  },
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 5,
+  "agents": [
+    {
+      "id": "ui-ux-designer",
+      "author": "wshobson",
+      "name": {
+        "en": "ui-ux-designer",
+        "zh": "ui-ux-designer",
+        "ja": "ui-ux-designer"
+      },
+      "description": {
+        "en": "Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools. Specializes in design tokens, component libraries, and inclusive design. Use PROACTIVELY for design systems, user flows, or interface optimization.",
+        "zh": "Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools. Specializes in design tokens, component libraries, and inclusive design. Use PROACTIVELY for design systems, user flows, or interface optimization.",
+        "ja": "Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools. Specializes in design tokens, component libraries, and inclusive design. Use PROACTIVELY for design systems, user flows, or interface optimization."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:23.241098Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "ui-ux-designer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.4,
+      "downloads": 1926,
+      "createdAt": "2025-09-28T20:01:23.241111Z",
+      "updatedAt": "2025-09-28T20:01:23.241113Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "ui-ux-designer_v1.0.0.md"
+      }
+    },
+    {
+      "id": "ios-developer",
+      "author": "wshobson",
+      "name": {
+        "en": "ios-developer",
+        "zh": "ios-developer",
+        "ja": "ios-developer"
+      },
+      "description": {
+        "en": "Develop native iOS applications with Swift/SwiftUI. Masters iOS 18, SwiftUI, UIKit integration, Core Data, networking, and App Store optimization. Use PROACTIVELY for iOS-specific features, App Store optimization, or native iOS development.",
+        "zh": "Develop native iOS applications with Swift/SwiftUI. Masters iOS 18, SwiftUI, UIKit integration, Core Data, networking, and App Store optimization. Use PROACTIVELY for iOS-specific features, App Store optimization, or native iOS development.",
+        "ja": "Develop native iOS applications with Swift/SwiftUI. Masters iOS 18, SwiftUI, UIKit integration, Core Data, networking, and App Store optimization. Use PROACTIVELY for iOS-specific features, App Store optimization, or native iOS development."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.343718Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "ios-developer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.8,
+      "downloads": 1804,
+      "createdAt": "2025-09-28T20:01:22.343728Z",
+      "updatedAt": "2025-09-28T20:01:22.343730Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "ios-developer_v1.0.0.md"
+      }
+    },
+    {
+      "id": "flutter-expert",
+      "author": "wshobson",
+      "name": {
+        "en": "flutter-expert",
+        "zh": "flutter-expert",
+        "ja": "flutter-expert"
+      },
+      "description": {
+        "en": "Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles state management, animations, testing, and performance optimization for mobile, web, desktop, and embedded platforms. Use PROACTIVELY for Flutter architecture, UI implementation, or cross-platform features.",
+        "zh": "Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles state management, animations, testing, and performance optimization for mobile, web, desktop, and embedded platforms. Use PROACTIVELY for Flutter architecture, UI implementation, or cross-platform features.",
+        "ja": "Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles state management, animations, testing, and performance optimization for mobile, web, desktop, and embedded platforms. Use PROACTIVELY for Flutter architecture, UI implementation, or cross-platform features."
+      },
+      "category": "debugging",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.178791Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "flutter-expert_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.6,
+      "downloads": 1444,
+      "createdAt": "2025-09-28T20:01:22.178803Z",
+      "updatedAt": "2025-09-28T20:01:22.178805Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "flutter-expert_v1.0.0.md"
+      }
+    },
+    {
+      "id": "mobile-developer",
+      "author": "wshobson",
+      "name": {
+        "en": "mobile-developer",
+        "zh": "mobile-developer",
+        "ja": "mobile-developer"
+      },
+      "description": {
+        "en": "Develop React Native, Flutter, or native mobile apps with modern architecture patterns. Masters cross-platform development, native integrations, offline sync, and app store optimization. Use PROACTIVELY for mobile features, cross-platform code, or app optimization.",
+        "zh": "Develop React Native, Flutter, or native mobile apps with modern architecture patterns. Masters cross-platform development, native integrations, offline sync, and app store optimization. Use PROACTIVELY for mobile features, cross-platform code, or app optimization.",
+        "ja": "Develop React Native, Flutter, or native mobile apps with modern architecture patterns. Masters cross-platform development, native integrations, offline sync, and app store optimization. Use PROACTIVELY for mobile features, cross-platform code, or app optimization."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.546344Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "mobile-developer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.1,
+      "downloads": 1022,
+      "createdAt": "2025-09-28T20:01:22.546352Z",
+      "updatedAt": "2025-09-28T20:01:22.546353Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "mobile-developer_v1.0.0.md"
+      }
+    },
+    {
+      "id": "ui-visual-validator",
+      "author": "wshobson",
+      "name": {
+        "en": "ui-visual-validator",
+        "zh": "ui-visual-validator",
+        "ja": "ui-visual-validator"
+      },
+      "description": {
+        "en": "Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification. Masters screenshot analysis, visual regression testing, and component validation. Use PROACTIVELY to verify UI modifications have achieved their intended goals through comprehensive visual analysis.",
+        "zh": "Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification. Masters screenshot analysis, visual regression testing, and component validation. Use PROACTIVELY to verify UI modifications have achieved their intended goals through comprehensive visual analysis.",
+        "ja": "Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification. Masters screenshot analysis, visual regression testing, and component validation. Use PROACTIVELY to verify UI modifications have achieved their intended goals through comprehensive visual analysis."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:23.263606Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "ui-visual-validator_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.6,
+      "downloads": 634,
+      "createdAt": "2025-09-28T20:01:23.263614Z",
+      "updatedAt": "2025-09-28T20:01:23.263615Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "ui-visual-validator_v1.0.0.md"
+      }
+    }
+  ]
+}

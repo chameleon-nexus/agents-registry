@@ -1,0 +1,191 @@
+{
+  "category": "testing-debugging",
+  "name": {
+    "en": "Testing & Debugging",
+    "zh": "测试与调试",
+    "ja": "テスト・デバッグ"
+  },
+  "description": {
+    "en": "Test automation, debugging, and error analysis",
+    "zh": "测试自动化、调试和错误分析",
+    "ja": "テスト自動化、デバッグ、エラー解析"
+  },
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 4,
+  "agents": [
+    {
+      "id": "error-detective",
+      "author": "wshobson",
+      "name": {
+        "en": "error-detective",
+        "zh": "error-detective",
+        "ja": "error-detective"
+      },
+      "description": {
+        "en": "Search logs and codebases for error patterns, stack traces, and anomalies. Correlates errors across systems and identifies root causes. Use PROACTIVELY when debugging issues, analyzing logs, or investigating production errors.",
+        "zh": "Search logs and codebases for error patterns, stack traces, and anomalies. Correlates errors across systems and identifies root causes. Use PROACTIVELY when debugging issues, analyzing logs, or investigating production errors.",
+        "ja": "Search logs and codebases for error patterns, stack traces, and anomalies. Correlates errors across systems and identifies root causes. Use PROACTIVELY when debugging issues, analyzing logs, or investigating production errors."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.125667Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "error-detective_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.8,
+      "downloads": 1925,
+      "createdAt": "2025-09-28T20:01:22.125678Z",
+      "updatedAt": "2025-09-28T20:01:22.125679Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "error-detective_v1.0.0.md"
+      }
+    },
+    {
+      "id": "debugger",
+      "author": "wshobson",
+      "name": {
+        "en": "debugger",
+        "zh": "debugger",
+        "ja": "debugger"
+      },
+      "description": {
+        "en": "Debugging specialist for errors, test failures, and unexpected behavior. Use proactively when encountering any issues.",
+        "zh": "Debugging specialist for errors, test failures, and unexpected behavior. Use proactively when encountering any issues.",
+        "ja": "Debugging specialist for errors, test failures, and unexpected behavior. Use proactively when encountering any issues."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:21.986713Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "debugger_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.2,
+      "downloads": 1663,
+      "createdAt": "2025-09-28T20:01:21.986725Z",
+      "updatedAt": "2025-09-28T20:01:21.986726Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "debugger_v1.0.0.md"
+      }
+    },
+    {
+      "id": "test-automator",
+      "author": "wshobson",
+      "name": {
+        "en": "test-automator",
+        "zh": "test-automator",
+        "ja": "test-automator"
+      },
+      "description": {
+        "en": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with advanced CI/CD integration. Use PROACTIVELY for testing automation or quality assurance.",
+        "zh": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with advanced CI/CD integration. Use PROACTIVELY for testing automation or quality assurance.",
+        "ja": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with advanced CI/CD integration. Use PROACTIVELY for testing automation or quality assurance."
+      },
+      "category": "data",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:23.176736Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "test-automator_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.1,
+      "downloads": 1238,
+      "createdAt": "2025-09-28T20:01:23.176749Z",
+      "updatedAt": "2025-09-28T20:01:23.176751Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "test-automator_v1.0.0.md"
+      }
+    },
+    {
+      "id": "tdd-orchestrator",
+      "author": "wshobson",
+      "name": {
+        "en": "tdd-orchestrator",
+        "zh": "tdd-orchestrator",
+        "ja": "tdd-orchestrator"
+      },
+      "description": {
+        "en": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices. Enforces TDD best practices across teams with AI-assisted testing and modern frameworks. Use PROACTIVELY for TDD implementation and governance.",
+        "zh": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices. Enforces TDD best practices across teams with AI-assisted testing and modern frameworks. Use PROACTIVELY for TDD implementation and governance.",
+        "ja": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices. Enforces TDD best practices across teams with AI-assisted testing and modern frameworks. Use PROACTIVELY for TDD implementation and governance."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:23.134737Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "tdd-orchestrator_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.9,
+      "downloads": 176,
+      "createdAt": "2025-09-28T20:01:23.134762Z",
+      "updatedAt": "2025-09-28T20:01:23.134764Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "tdd-orchestrator_v1.0.0.md"
+      }
+    }
+  ]
+}

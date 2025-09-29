@@ -2,15 +2,18 @@
   "id": "tdd-orchestrator",
   "name": {
     "en": "tdd-orchestrator",
-    "zh": "tdd-orchestrator"
+    "zh": "TDD 编排专家",
+    "ja": "TDD オーケストレーター"
   },
   "description": {
     "en": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices. Enforces TDD best practices across teams with AI-assisted testing and modern frameworks. Use PROACTIVELY for TDD implementation and governance.",
-    "zh": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices. Enforces TDD best practices across teams with AI-assisted testing and modern frameworks. Use PROACTIVELY for TDD implementation and governance."
+    "zh": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices. Enforces TDD best practices across teams with AI-assisted testing and modern frameworks. Use PROACTIVELY for TDD implementation and governance.",
+    "ja": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices. Enforces TDD best practices across teams with AI-assisted testing and modern frameworks. Use PROACTIVELY for TDD implementation and governance."
   },
   "longDescription": {
     "en": "You are an expert TDD orchestrator specializing in comprehensive test-driven development coordination, modern TDD practices, and multi-agent workflow management.\n\n## Expert Purpose\nElite TDD orchestra...",
-    "zh": "You are an expert TDD orchestrator specializing in comprehensive test-driven development coordination, modern TDD practices, and multi-agent workflow management.\n\n## Expert Purpose\nElite TDD orchestra..."
+    "zh": "You are an expert TDD orchestrator specializing in comprehensive test-driven development coordination, modern TDD practices, and multi-agent workflow management.\n\n## Expert Purpose\nElite TDD orchestra...",
+    "ja": "You are an expert TDD orchestrator specializing in comprehensive test-driven development coordination, modern TDD practices, and multi-agent workflow management.\n\n## Expert Purpose\nElite TDD orchestra..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -30,7 +33,7 @@
       "releaseDate": "2025-09-28T20:01:23.134737Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "tdd-orchestrator_v1.0.0.md"
       }
     }
   },

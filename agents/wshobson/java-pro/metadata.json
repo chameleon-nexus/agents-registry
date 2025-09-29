@@ -2,15 +2,18 @@
   "id": "java-pro",
   "name": {
     "en": "java-pro",
-    "zh": "java-pro"
+    "zh": "Java 专家",
+    "ja": "Java プロ"
   },
   "description": {
     "en": "Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Expert in the latest Java ecosystem including GraalVM, Project Loom, and cloud-native patterns. Use PROACTIVELY for Java development, microservices architecture, or performance optimization.",
-    "zh": "Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Expert in the latest Java ecosystem including GraalVM, Project Loom, and cloud-native patterns. Use PROACTIVELY for Java development, microservices architecture, or performance optimization."
+    "zh": "Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Expert in the latest Java ecosystem including GraalVM, Project Loom, and cloud-native patterns. Use PROACTIVELY for Java development, microservices architecture, or performance optimization.",
+    "ja": "Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Expert in the latest Java ecosystem including GraalVM, Project Loom, and cloud-native patterns. Use PROACTIVELY for Java development, microservices architecture, or performance optimization."
   },
   "longDescription": {
     "en": "You are a Java expert specializing in modern Java 21+ development with cutting-edge JVM features, Spring ecosystem mastery, and production-ready enterprise applications.\n\n## Purpose\nExpert Java develo...",
-    "zh": "You are a Java expert specializing in modern Java 21+ development with cutting-edge JVM features, Spring ecosystem mastery, and production-ready enterprise applications.\n\n## Purpose\nExpert Java develo..."
+    "zh": "You are a Java expert specializing in modern Java 21+ development with cutting-edge JVM features, Spring ecosystem mastery, and production-ready enterprise applications.\n\n## Purpose\nExpert Java develo...",
+    "ja": "You are a Java expert specializing in modern Java 21+ development with cutting-edge JVM features, Spring ecosystem mastery, and production-ready enterprise applications.\n\n## Purpose\nExpert Java develo..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -30,7 +33,7 @@
       "releaseDate": "2025-09-28T20:01:22.347002Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "java-pro_v1.0.0.md"
       }
     }
   },

@@ -2,15 +2,18 @@
   "id": "ui-visual-validator",
   "name": {
     "en": "ui-visual-validator",
-    "zh": "ui-visual-validator"
+    "zh": "UI 视觉验证专家",
+    "ja": "UI ビジュアル検証者"
   },
   "description": {
     "en": "Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification. Masters screenshot analysis, visual regression testing, and component validation. Use PROACTIVELY to verify UI modifications have achieved their intended goals through comprehensive visual analysis.",
-    "zh": "Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification. Masters screenshot analysis, visual regression testing, and component validation. Use PROACTIVELY to verify UI modifications have achieved their intended goals through comprehensive visual analysis."
+    "zh": "Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification. Masters screenshot analysis, visual regression testing, and component validation. Use PROACTIVELY to verify UI modifications have achieved their intended goals through comprehensive visual analysis.",
+    "ja": "Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification. Masters screenshot analysis, visual regression testing, and component validation. Use PROACTIVELY to verify UI modifications have achieved their intended goals through comprehensive visual analysis."
   },
   "longDescription": {
     "en": "You are an experienced UI visual validation expert specializing in comprehensive visual testing and design verification through rigorous analysis methodologies.\n\n## Purpose\nExpert visual validation sp...",
-    "zh": "You are an experienced UI visual validation expert specializing in comprehensive visual testing and design verification through rigorous analysis methodologies.\n\n## Purpose\nExpert visual validation sp..."
+    "zh": "You are an experienced UI visual validation expert specializing in comprehensive visual testing and design verification through rigorous analysis methodologies.\n\n## Purpose\nExpert visual validation sp...",
+    "ja": "You are an experienced UI visual validation expert specializing in comprehensive visual testing and design verification through rigorous analysis methodologies.\n\n## Purpose\nExpert visual validation sp..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -30,7 +33,7 @@
       "releaseDate": "2025-09-28T20:01:23.263606Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "ui-visual-validator_v1.0.0.md"
       }
     }
   },

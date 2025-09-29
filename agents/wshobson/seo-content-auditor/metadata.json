@@ -2,15 +2,18 @@
   "id": "seo-content-auditor",
   "name": {
     "en": "seo-content-auditor",
-    "zh": "seo-content-auditor"
+    "zh": "SEO 内容审计专家",
+    "ja": "SEO コンテンツ監査者"
   },
   "description": {
     "en": "Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations based on established guidelines. Use PROACTIVELY for content review.",
-    "zh": "Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations based on established guidelines. Use PROACTIVELY for content review."
+    "zh": "Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations based on established guidelines. Use PROACTIVELY for content review.",
+    "ja": "Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations based on established guidelines. Use PROACTIVELY for content review."
   },
   "longDescription": {
     "en": "You are an SEO content auditor analyzing provided content for optimization opportunities.\n\n## Focus Areas\n\n- Content depth and comprehensiveness\n- E-E-A-T signals visible in the content\n- Readability ...",
-    "zh": "You are an SEO content auditor analyzing provided content for optimization opportunities.\n\n## Focus Areas\n\n- Content depth and comprehensiveness\n- E-E-A-T signals visible in the content\n- Readability ..."
+    "zh": "You are an SEO content auditor analyzing provided content for optimization opportunities.\n\n## Focus Areas\n\n- Content depth and comprehensiveness\n- E-E-A-T signals visible in the content\n- Readability ...",
+    "ja": "You are an SEO content auditor analyzing provided content for optimization opportunities.\n\n## Focus Areas\n\n- Content depth and comprehensiveness\n- E-E-A-T signals visible in the content\n- Readability ..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:23.034036Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "seo-content-auditor_v1.0.0.md"
       }
     }
   },

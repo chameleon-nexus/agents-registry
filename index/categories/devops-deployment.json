@@ -1,0 +1,197 @@
+{
+  "category": "devops-deployment",
+  "name": {
+    "en": "DevOps & Deployment",
+    "zh": "DevOps与部署",
+    "ja": "DevOps・デプロイメント"
+  },
+  "description": {
+    "en": "CI/CD pipelines, containerization, and infrastructure automation",
+    "zh": "CI/CD管道、容器化和基础设施自动化",
+    "ja": "CI/CDパイプライン、コンテナ化、インフラ自動化"
+  },
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 4,
+  "agents": [
+    {
+      "id": "dx-optimizer",
+      "author": "wshobson",
+      "name": {
+        "en": "dx-optimizer",
+        "zh": "dx-optimizer",
+        "ja": "dx-optimizer"
+      },
+      "description": {
+        "en": "Developer Experience specialist. Improves tooling, setup, and workflows. Use PROACTIVELY when setting up new projects, after team feedback, or when development friction is noticed.",
+        "zh": "Developer Experience specialist. Improves tooling, setup, and workflows. Use PROACTIVELY when setting up new projects, after team feedback, or when development friction is noticed.",
+        "ja": "Developer Experience specialist. Improves tooling, setup, and workflows. Use PROACTIVELY when setting up new projects, after team feedback, or when development friction is noticed."
+      },
+      "category": "debugging",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.118662Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "dx-optimizer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.1,
+      "downloads": 1356,
+      "createdAt": "2025-09-28T20:01:22.118691Z",
+      "updatedAt": "2025-09-28T20:01:22.118692Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "dx-optimizer_v1.0.0.md"
+      }
+    },
+    {
+      "id": "devops-troubleshooter",
+      "author": "wshobson",
+      "name": {
+        "en": "devops-troubleshooter",
+        "zh": "devops-troubleshooter",
+        "ja": "devops-troubleshooter"
+      },
+      "description": {
+        "en": "Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern observability. Masters log analysis, distributed tracing, Kubernetes debugging, performance optimization, and root cause analysis. Handles production outages, system reliability, and preventive monitoring. Use PROACTIVELY for debugging, incident response, or system troubleshooting.",
+        "zh": "Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern observability. Masters log analysis, distributed tracing, Kubernetes debugging, performance optimization, and root cause analysis. Handles production outages, system reliability, and preventive monitoring. Use PROACTIVELY for debugging, incident response, or system troubleshooting.",
+        "ja": "Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern observability. Masters log analysis, distributed tracing, Kubernetes debugging, performance optimization, and root cause analysis. Handles production outages, system reliability, and preventive monitoring. Use PROACTIVELY for debugging, incident response, or system troubleshooting."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.041161Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "devops-troubleshooter_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.7,
+      "downloads": 1078,
+      "createdAt": "2025-09-28T20:01:22.041195Z",
+      "updatedAt": "2025-09-28T20:01:22.041197Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "devops-troubleshooter_v1.0.0.md"
+      }
+    },
+    {
+      "id": "deployment-engineer",
+      "author": "wshobson",
+      "name": {
+        "en": "deployment-engineer",
+        "zh": "deployment-engineer",
+        "ja": "deployment-engineer"
+      },
+      "description": {
+        "en": "Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation. Masters GitHub Actions, ArgoCD/Flux, progressive delivery, container security, and platform engineering. Handles zero-downtime deployments, security scanning, and developer experience optimization. Use PROACTIVELY for CI/CD design, GitOps implementation, or deployment automation.",
+        "zh": "Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation. Masters GitHub Actions, ArgoCD/Flux, progressive delivery, container security, and platform engineering. Handles zero-downtime deployments, security scanning, and developer experience optimization. Use PROACTIVELY for CI/CD design, GitOps implementation, or deployment automation.",
+        "ja": "Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation. Masters GitHub Actions, ArgoCD/Flux, progressive delivery, container security, and platform engineering. Handles zero-downtime deployments, security scanning, and developer experience optimization. Use PROACTIVELY for CI/CD design, GitOps implementation, or deployment automation."
+      },
+      "category": "debugging",
+      "tags": [
+        "security",
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.012871Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "deployment-engineer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.1,
+      "downloads": 726,
+      "createdAt": "2025-09-28T20:01:22.012882Z",
+      "updatedAt": "2025-09-28T20:01:22.012883Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "deployment-engineer_v1.0.0.md"
+      }
+    },
+    {
+      "id": "terraform-specialist",
+      "author": "wshobson",
+      "name": {
+        "en": "terraform-specialist",
+        "zh": "terraform-specialist",
+        "ja": "terraform-specialist"
+      },
+      "description": {
+        "en": "Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns. Handles complex module design, multi-cloud deployments, GitOps workflows, policy as code, and CI/CD integration. Covers migration strategies, security best practices, and modern IaC ecosystems. Use PROACTIVELY for advanced IaC, state management, or infrastructure automation.",
+        "zh": "Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns. Handles complex module design, multi-cloud deployments, GitOps workflows, policy as code, and CI/CD integration. Covers migration strategies, security best practices, and modern IaC ecosystems. Use PROACTIVELY for advanced IaC, state management, or infrastructure automation.",
+        "ja": "Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns. Handles complex module design, multi-cloud deployments, GitOps workflows, policy as code, and CI/CD integration. Covers migration strategies, security best practices, and modern IaC ecosystems. Use PROACTIVELY for advanced IaC, state management, or infrastructure automation."
+      },
+      "category": "debugging",
+      "tags": [
+        "security",
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:23.156718Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "terraform-specialist_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.6,
+      "downloads": 432,
+      "createdAt": "2025-09-28T20:01:23.156732Z",
+      "updatedAt": "2025-09-28T20:01:23.156733Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "terraform-specialist_v1.0.0.md"
+      }
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "category": "code-quality",
+  "name": {
+    "en": "Code Quality & Review",
+    "zh": "代码质量与审查",
+    "ja": "コード品質・レビュー"
+  },
+  "description": {
+    "en": "Code review, security auditing, and best practices enforcement",
+    "zh": "代码审查、安全审计和最佳实践执行",
+    "ja": "コードレビュー、セキュリティ監査、ベストプラクティス実施"
+  },
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 5,
+  "agents": [
+    {
+      "id": "backend-security-coder",
+      "author": "wshobson",
+      "name": {
+        "en": "backend-security-coder",
+        "zh": "backend-security-coder",
+        "ja": "backend-security-coder"
+      },
+      "description": {
+        "en": "Expert in secure backend coding practices specializing in input validation, authentication, and API security. Use PROACTIVELY for backend security implementations or security code reviews.",
+        "zh": "Expert in secure backend coding practices specializing in input validation, authentication, and API security. Use PROACTIVELY for backend security implementations or security code reviews.",
+        "ja": "Expert in secure backend coding practices specializing in input validation, authentication, and API security. Use PROACTIVELY for backend security implementations or security code reviews."
+      },
+      "category": "debugging",
+      "tags": [
+        "security",
+        "code-review"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:21.655549Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "backend-security-coder_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.0,
+      "downloads": 1754,
+      "createdAt": "2025-09-28T20:01:21.655562Z",
+      "updatedAt": "2025-09-28T20:01:21.655563Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "backend-security-coder_v1.0.0.md"
+      }
+    },
+    {
+      "id": "security-auditor",
+      "author": "wshobson",
+      "name": {
+        "en": "security-auditor",
+        "zh": "security-auditor",
+        "ja": "security-auditor"
+      },
+      "description": {
+        "en": "Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frameworks. Masters vulnerability assessment, threat modeling, secure authentication (OAuth2/OIDC), OWASP standards, cloud security, and security automation. Handles DevSecOps integration, compliance (GDPR/HIPAA/SOC2), and incident response. Use PROACTIVELY for security audits, DevSecOps, or compliance implementation.",
+        "zh": "Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frameworks. Masters vulnerability assessment, threat modeling, secure authentication (OAuth2/OIDC), OWASP standards, cloud security, and security automation. Handles DevSecOps integration, compliance (GDPR/HIPAA/SOC2), and incident response. Use PROACTIVELY for security audits, DevSecOps, or compliance implementation.",
+        "ja": "Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frameworks. Masters vulnerability assessment, threat modeling, secure authentication (OAuth2/OIDC), OWASP standards, cloud security, and security automation. Handles DevSecOps integration, compliance (GDPR/HIPAA/SOC2), and incident response. Use PROACTIVELY for security audits, DevSecOps, or compliance implementation."
+      },
+      "category": "debugging",
+      "tags": [
+        "security",
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.953932Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "security-auditor_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 5.0,
+      "downloads": 1415,
+      "createdAt": "2025-09-28T20:01:22.953950Z",
+      "updatedAt": "2025-09-28T20:01:22.953952Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "security-auditor_v1.0.0.md"
+      }
+    },
+    {
+      "id": "code-reviewer",
+      "author": "wshobson",
+      "name": {
+        "en": "code-reviewer",
+        "zh": "code-reviewer",
+        "ja": "code-reviewer"
+      },
+      "description": {
+        "en": "Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, performance optimization, and production reliability. Masters static analysis tools, security scanning, and configuration review with 2024/2025 best practices. Use PROACTIVELY for code quality assurance.",
+        "zh": "Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, performance optimization, and production reliability. Masters static analysis tools, security scanning, and configuration review with 2024/2025 best practices. Use PROACTIVELY for code quality assurance.",
+        "ja": "Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, performance optimization, and production reliability. Masters static analysis tools, security scanning, and configuration review with 2024/2025 best practices. Use PROACTIVELY for code quality assurance."
+      },
+      "category": "debugging",
+      "tags": [
+        "security",
+        "code-review"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:21.767488Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "code-reviewer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.0,
+      "downloads": 1259,
+      "createdAt": "2025-09-28T20:01:21.767496Z",
+      "updatedAt": "2025-09-28T20:01:21.767497Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "code-reviewer_v1.0.0.md"
+      }
+    },
+    {
+      "id": "frontend-security-coder",
+      "author": "wshobson",
+      "name": {
+        "en": "frontend-security-coder",
+        "zh": "frontend-security-coder",
+        "ja": "frontend-security-coder"
+      },
+      "description": {
+        "en": "Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns. Use PROACTIVELY for frontend security implementations or client-side security code reviews.",
+        "zh": "Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns. Use PROACTIVELY for frontend security implementations or client-side security code reviews.",
+        "ja": "Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns. Use PROACTIVELY for frontend security implementations or client-side security code reviews."
+      },
+      "category": "debugging",
+      "tags": [
+        "security",
+        "code-review"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.237272Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "frontend-security-coder_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.1,
+      "downloads": 1161,
+      "createdAt": "2025-09-28T20:01:22.237290Z",
+      "updatedAt": "2025-09-28T20:01:22.237293Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "frontend-security-coder_v1.0.0.md"
+      }
+    },
+    {
+      "id": "mobile-security-coder",
+      "author": "wshobson",
+      "name": {
+        "en": "mobile-security-coder",
+        "zh": "mobile-security-coder",
+        "ja": "mobile-security-coder"
+      },
+      "description": {
+        "en": "Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns. Use PROACTIVELY for mobile security implementations or mobile security code reviews.",
+        "zh": "Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns. Use PROACTIVELY for mobile security implementations or mobile security code reviews.",
+        "ja": "Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns. Use PROACTIVELY for mobile security implementations or mobile security code reviews."
+      },
+      "category": "debugging",
+      "tags": [
+        "security",
+        "code-review"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.580393Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "mobile-security-coder_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.0,
+      "downloads": 1128,
+      "createdAt": "2025-09-28T20:01:22.580414Z",
+      "updatedAt": "2025-09-28T20:01:22.580416Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "mobile-security-coder_v1.0.0.md"
+      }
+    }
+  ]
+}

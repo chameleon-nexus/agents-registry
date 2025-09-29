@@ -1,0 +1,107 @@
+{
+  "category": "data-analytics",
+  "name": {
+    "en": "Data Engineering & Analytics",
+    "zh": "数据工程与分析",
+    "ja": "データエンジニアリング・分析"
+  },
+  "description": {
+    "en": "Data processing, analytics, and business intelligence",
+    "zh": "数据处理、分析和商业智能",
+    "ja": "データ処理、分析、ビジネスインテリジェンス"
+  },
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 2,
+  "agents": [
+    {
+      "id": "data-engineer",
+      "author": "wshobson",
+      "name": {
+        "en": "data-engineer",
+        "zh": "data-engineer",
+        "ja": "data-engineer"
+      },
+      "description": {
+        "en": "Build scalable data pipelines, modern data warehouses, and real-time streaming architectures. Implements Apache Spark, dbt, Airflow, and cloud-native data platforms. Use PROACTIVELY for data pipeline design, analytics infrastructure, or modern data stack implementation.",
+        "zh": "Build scalable data pipelines, modern data warehouses, and real-time streaming architectures. Implements Apache Spark, dbt, Airflow, and cloud-native data platforms. Use PROACTIVELY for data pipeline design, analytics infrastructure, or modern data stack implementation.",
+        "ja": "Build scalable data pipelines, modern data warehouses, and real-time streaming architectures. Implements Apache Spark, dbt, Airflow, and cloud-native data platforms. Use PROACTIVELY for data pipeline design, analytics infrastructure, or modern data stack implementation."
+      },
+      "category": "debugging",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:21.909086Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "data-engineer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.7,
+      "downloads": 1392,
+      "createdAt": "2025-09-28T20:01:21.909099Z",
+      "updatedAt": "2025-09-28T20:01:21.909100Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "data-engineer_v1.0.0.md"
+      }
+    },
+    {
+      "id": "data-scientist",
+      "author": "wshobson",
+      "name": {
+        "en": "data-scientist",
+        "zh": "data-scientist",
+        "ja": "data-scientist"
+      },
+      "description": {
+        "en": "Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles complex data analysis, predictive modeling, and business intelligence. Use PROACTIVELY for data analysis tasks, ML modeling, statistical analysis, and data-driven insights.",
+        "zh": "Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles complex data analysis, predictive modeling, and business intelligence. Use PROACTIVELY for data analysis tasks, ML modeling, statistical analysis, and data-driven insights.",
+        "ja": "Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles complex data analysis, predictive modeling, and business intelligence. Use PROACTIVELY for data analysis tasks, ML modeling, statistical analysis, and data-driven insights."
+      },
+      "category": "data",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:21.937427Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "data-scientist_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 5.0,
+      "downloads": 293,
+      "createdAt": "2025-09-28T20:01:21.937436Z",
+      "updatedAt": "2025-09-28T20:01:21.937438Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "data-scientist_v1.0.0.md"
+      }
+    }
+  ]
+}

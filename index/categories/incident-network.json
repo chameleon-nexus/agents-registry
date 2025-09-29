@@ -1,0 +1,107 @@
+{
+  "category": "incident-network",
+  "name": {
+    "en": "Incident Response & Network",
+    "zh": "事件响应与网络",
+    "ja": "インシデント対応・ネットワーク"
+  },
+  "description": {
+    "en": "Production incident management and network operations",
+    "zh": "生产事件管理和网络运维",
+    "ja": "本番インシデント管理とネットワーク運用"
+  },
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 2,
+  "agents": [
+    {
+      "id": "incident-responder",
+      "author": "wshobson",
+      "name": {
+        "en": "incident-responder",
+        "zh": "incident-responder",
+        "ja": "incident-responder"
+      },
+      "description": {
+        "en": "Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management. Masters incident command, blameless post-mortems, error budget management, and system reliability patterns. Handles critical outages, communication strategies, and continuous improvement. Use IMMEDIATELY for production incidents or SRE practices.",
+        "zh": "Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management. Masters incident command, blameless post-mortems, error budget management, and system reliability patterns. Handles critical outages, communication strategies, and continuous improvement. Use IMMEDIATELY for production incidents or SRE practices.",
+        "ja": "Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management. Masters incident command, blameless post-mortems, error budget management, and system reliability patterns. Handles critical outages, communication strategies, and continuous improvement. Use IMMEDIATELY for production incidents or SRE practices."
+      },
+      "category": "debugging",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.319202Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "incident-responder_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.7,
+      "downloads": 781,
+      "createdAt": "2025-09-28T20:01:22.319209Z",
+      "updatedAt": "2025-09-28T20:01:22.319211Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "incident-responder_v1.0.0.md"
+      }
+    },
+    {
+      "id": "network-engineer",
+      "author": "wshobson",
+      "name": {
+        "en": "network-engineer",
+        "zh": "network-engineer",
+        "ja": "network-engineer"
+      },
+      "description": {
+        "en": "Expert network engineer specializing in modern cloud networking, security architectures, and performance optimization. Masters multi-cloud connectivity, service mesh, zero-trust networking, SSL/TLS, global load balancing, and advanced troubleshooting. Handles CDN optimization, network automation, and compliance. Use PROACTIVELY for network design, connectivity issues, or performance optimization.",
+        "zh": "Expert network engineer specializing in modern cloud networking, security architectures, and performance optimization. Masters multi-cloud connectivity, service mesh, zero-trust networking, SSL/TLS, global load balancing, and advanced troubleshooting. Handles CDN optimization, network automation, and compliance. Use PROACTIVELY for network design, connectivity issues, or performance optimization.",
+        "ja": "Expert network engineer specializing in modern cloud networking, security architectures, and performance optimization. Masters multi-cloud connectivity, service mesh, zero-trust networking, SSL/TLS, global load balancing, and advanced troubleshooting. Handles CDN optimization, network automation, and compliance. Use PROACTIVELY for network design, connectivity issues, or performance optimization."
+      },
+      "category": "debugging",
+      "tags": [
+        "security"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.614858Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "network-engineer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.5,
+      "downloads": 535,
+      "createdAt": "2025-09-28T20:01:22.614892Z",
+      "updatedAt": "2025-09-28T20:01:22.614895Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "network-engineer_v1.0.0.md"
+      }
+    }
+  ]
+}

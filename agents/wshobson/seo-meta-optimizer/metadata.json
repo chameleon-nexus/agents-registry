@@ -2,15 +2,18 @@
   "id": "seo-meta-optimizer",
   "name": {
     "en": "seo-meta-optimizer",
-    "zh": "seo-meta-optimizer"
+    "zh": "SEO 元数据优化专家",
+    "ja": "SEO メタ最適化専門家"
   },
   "description": {
     "en": "Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Generates compelling, keyword-rich metadata. Use PROACTIVELY for new content.",
-    "zh": "Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Generates compelling, keyword-rich metadata. Use PROACTIVELY for new content."
+    "zh": "Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Generates compelling, keyword-rich metadata. Use PROACTIVELY for new content.",
+    "ja": "Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Generates compelling, keyword-rich metadata. Use PROACTIVELY for new content."
   },
   "longDescription": {
     "en": "You are a meta tag optimization specialist creating compelling metadata within best practice guidelines.\n\n## Focus Areas\n\n- URL structure recommendations\n- Title tag optimization with emotional trigge...",
-    "zh": "You are a meta tag optimization specialist creating compelling metadata within best practice guidelines.\n\n## Focus Areas\n\n- URL structure recommendations\n- Title tag optimization with emotional trigge..."
+    "zh": "You are a meta tag optimization specialist creating compelling metadata within best practice guidelines.\n\n## Focus Areas\n\n- URL structure recommendations\n- Title tag optimization with emotional trigge...",
+    "ja": "You are a meta tag optimization specialist creating compelling metadata within best practice guidelines.\n\n## Focus Areas\n\n- URL structure recommendations\n- Title tag optimization with emotional trigge..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:23.087481Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "seo-meta-optimizer_v1.0.0.md"
       }
     }
   },

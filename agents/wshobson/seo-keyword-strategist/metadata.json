@@ -2,15 +2,18 @@
   "id": "seo-keyword-strategist",
   "name": {
     "en": "seo-keyword-strategist",
-    "zh": "seo-keyword-strategist"
+    "zh": "SEO 关键词策略专家",
+    "ja": "SEO キーワードストラテジスト"
   },
   "description": {
     "en": "Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic. Prevents over-optimization. Use PROACTIVELY for content optimization.",
-    "zh": "Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic. Prevents over-optimization. Use PROACTIVELY for content optimization."
+    "zh": "Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic. Prevents over-optimization. Use PROACTIVELY for content optimization.",
+    "ja": "Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic. Prevents over-optimization. Use PROACTIVELY for content optimization."
   },
   "longDescription": {
     "en": "You are a keyword strategist analyzing content for semantic optimization opportunities.\n\n## Focus Areas\n\n- Primary/secondary keyword identification\n- Keyword density calculation and optimization\n- Ent...",
-    "zh": "You are a keyword strategist analyzing content for semantic optimization opportunities.\n\n## Focus Areas\n\n- Primary/secondary keyword identification\n- Keyword density calculation and optimization\n- Ent..."
+    "zh": "You are a keyword strategist analyzing content for semantic optimization opportunities.\n\n## Focus Areas\n\n- Primary/secondary keyword identification\n- Keyword density calculation and optimization\n- Ent...",
+    "ja": "You are a keyword strategist analyzing content for semantic optimization opportunities.\n\n## Focus Areas\n\n- Primary/secondary keyword identification\n- Keyword density calculation and optimization\n- Ent..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:23.084641Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "seo-keyword-strategist_v1.0.0.md"
       }
     }
   },

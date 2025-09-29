@@ -1,0 +1,150 @@
+{
+  "category": "enterprise-programming",
+  "name": {
+    "en": "Enterprise & JVM Programming",
+    "zh": "企业与JVM编程",
+    "ja": "エンタープライズ・JVMプログラミング"
+  },
+  "description": {
+    "en": "Enterprise-grade development with Java, Scala, and .NET platforms",
+    "zh": "使用Java、Scala和.NET平台进行企业级开发",
+    "ja": "Java、Scala、.NETプラットフォームによるエンタープライズ開発"
+  },
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 3,
+  "agents": [
+    {
+      "id": "java-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "java-pro",
+        "zh": "java-pro",
+        "ja": "java-pro"
+      },
+      "description": {
+        "en": "Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Expert in the latest Java ecosystem including GraalVM, Project Loom, and cloud-native patterns. Use PROACTIVELY for Java development, microservices architecture, or performance optimization.",
+        "zh": "Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Expert in the latest Java ecosystem including GraalVM, Project Loom, and cloud-native patterns. Use PROACTIVELY for Java development, microservices architecture, or performance optimization.",
+        "ja": "Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Expert in the latest Java ecosystem including GraalVM, Project Loom, and cloud-native patterns. Use PROACTIVELY for Java development, microservices architecture, or performance optimization."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.347002Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "java-pro_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.9,
+      "downloads": 1827,
+      "createdAt": "2025-09-28T20:01:22.347011Z",
+      "updatedAt": "2025-09-28T20:01:22.347013Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "java-pro_v1.0.0.md"
+      }
+    },
+    {
+      "id": "csharp-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "csharp-pro",
+        "zh": "csharp-pro",
+        "ja": "csharp-pro"
+      },
+      "description": {
+        "en": "Write modern C# code with advanced features like records, pattern matching, and async/await. Optimizes .NET applications, implements enterprise patterns, and ensures comprehensive testing. Use PROACTIVELY for C# refactoring, performance optimization, or complex .NET solutions.",
+        "zh": "Write modern C# code with advanced features like records, pattern matching, and async/await. Optimizes .NET applications, implements enterprise patterns, and ensures comprehensive testing. Use PROACTIVELY for C# refactoring, performance optimization, or complex .NET solutions.",
+        "ja": "Write modern C# code with advanced features like records, pattern matching, and async/await. Optimizes .NET applications, implements enterprise patterns, and ensures comprehensive testing. Use PROACTIVELY for C# refactoring, performance optimization, or complex .NET solutions."
+      },
+      "category": "debugging",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:21.856666Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "csharp-pro_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.7,
+      "downloads": 1154,
+      "createdAt": "2025-09-28T20:01:21.856673Z",
+      "updatedAt": "2025-09-28T20:01:21.856674Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "csharp-pro_v1.0.0.md"
+      }
+    },
+    {
+      "id": "scala-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "scala-pro",
+        "zh": "scala-pro",
+        "ja": "scala-pro"
+      },
+      "description": {
+        "en": "Master enterprise-grade Scala development with functional programming, distributed systems, and big data processing. Expert in Apache Pekko, Akka, Spark, ZIO/Cats Effect, and reactive architectures. Use PROACTIVELY for Scala system design, performance optimization, or enterprise integration.",
+        "zh": "Master enterprise-grade Scala development with functional programming, distributed systems, and big data processing. Expert in Apache Pekko, Akka, Spark, ZIO/Cats Effect, and reactive architectures. Use PROACTIVELY for Scala system design, performance optimization, or enterprise integration.",
+        "ja": "Master enterprise-grade Scala development with functional programming, distributed systems, and big data processing. Expert in Apache Pekko, Akka, Spark, ZIO/Cats Effect, and reactive architectures. Use PROACTIVELY for Scala system design, performance optimization, or enterprise integration."
+      },
+      "category": "debugging",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.892324Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "scala-pro_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.5,
+      "downloads": 330,
+      "createdAt": "2025-09-28T20:01:22.892339Z",
+      "updatedAt": "2025-09-28T20:01:22.892340Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "scala-pro_v1.0.0.md"
+      }
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "category": "performance-observability",
+  "name": {
+    "en": "Performance & Observability",
+    "zh": "性能与可观测性",
+    "ja": "パフォーマンス・可観測性"
+  },
+  "description": {
+    "en": "Application performance optimization and monitoring",
+    "zh": "应用性能优化和监控",
+    "ja": "アプリケーションパフォーマンス最適化とモニタリング"
+  },
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 3,
+  "agents": [
+    {
+      "id": "performance-engineer",
+      "author": "wshobson",
+      "name": {
+        "en": "performance-engineer",
+        "zh": "performance-engineer",
+        "ja": "performance-engineer"
+      },
+      "description": {
+        "en": "Expert performance engineer specializing in modern observability, application optimization, and scalable system performance. Masters OpenTelemetry, distributed tracing, load testing, multi-tier caching, Core Web Vitals, and performance monitoring. Handles end-to-end optimization, real user monitoring, and scalability patterns. Use PROACTIVELY for performance optimization, observability, or scalability challenges.",
+        "zh": "Expert performance engineer specializing in modern observability, application optimization, and scalable system performance. Masters OpenTelemetry, distributed tracing, load testing, multi-tier caching, Core Web Vitals, and performance monitoring. Handles end-to-end optimization, real user monitoring, and scalability patterns. Use PROACTIVELY for performance optimization, observability, or scalability challenges.",
+        "ja": "Expert performance engineer specializing in modern observability, application optimization, and scalable system performance. Masters OpenTelemetry, distributed tracing, load testing, multi-tier caching, Core Web Vitals, and performance monitoring. Handles end-to-end optimization, real user monitoring, and scalability patterns. Use PROACTIVELY for performance optimization, observability, or scalability challenges."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.687789Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "performance-engineer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.8,
+      "downloads": 1322,
+      "createdAt": "2025-09-28T20:01:22.687797Z",
+      "updatedAt": "2025-09-28T20:01:22.687799Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "performance-engineer_v1.0.0.md"
+      }
+    },
+    {
+      "id": "observability-engineer",
+      "author": "wshobson",
+      "name": {
+        "en": "observability-engineer",
+        "zh": "observability-engineer",
+        "ja": "observability-engineer"
+      },
+      "description": {
+        "en": "Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observability strategies, SLI/SLO management, and incident response workflows. Use PROACTIVELY for monitoring infrastructure, performance optimization, or production reliability.",
+        "zh": "Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observability strategies, SLI/SLO management, and incident response workflows. Use PROACTIVELY for monitoring infrastructure, performance optimization, or production reliability.",
+        "ja": "Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observability strategies, SLI/SLO management, and incident response workflows. Use PROACTIVELY for monitoring infrastructure, performance optimization, or production reliability."
+      },
+      "category": "debugging",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.640158Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "observability-engineer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.0,
+      "downloads": 1302,
+      "createdAt": "2025-09-28T20:01:22.640164Z",
+      "updatedAt": "2025-09-28T20:01:22.640165Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "observability-engineer_v1.0.0.md"
+      }
+    },
+    {
+      "id": "search-specialist",
+      "author": "wshobson",
+      "name": {
+        "en": "search-specialist",
+        "zh": "search-specialist",
+        "ja": "search-specialist"
+      },
+      "description": {
+        "en": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles competitive analysis and fact-checking. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
+        "zh": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles competitive analysis and fact-checking. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
+        "ja": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles competitive analysis and fact-checking. Use PROACTIVELY for deep research, information gathering, or trend analysis."
+      },
+      "category": "data",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.916263Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "search-specialist_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.9,
+      "downloads": 157,
+      "createdAt": "2025-09-28T20:01:22.916273Z",
+      "updatedAt": "2025-09-28T20:01:22.916274Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "search-specialist_v1.0.0.md"
+      }
+    }
+  ]
+}

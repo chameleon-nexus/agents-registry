@@ -2,15 +2,18 @@
   "id": "php-pro",
   "name": {
     "en": "php-pro",
-    "zh": "php-pro"
+    "zh": "PHP 专家",
+    "ja": "PHP プロ"
   },
   "description": {
     "en": "Write idiomatic PHP code with generators, iterators, SPL data structures, and modern OOP features. Use PROACTIVELY for high-performance PHP applications.",
-    "zh": "Write idiomatic PHP code with generators, iterators, SPL data structures, and modern OOP features. Use PROACTIVELY for high-performance PHP applications."
+    "zh": "Write idiomatic PHP code with generators, iterators, SPL data structures, and modern OOP features. Use PROACTIVELY for high-performance PHP applications.",
+    "ja": "Write idiomatic PHP code with generators, iterators, SPL data structures, and modern OOP features. Use PROACTIVELY for high-performance PHP applications."
   },
   "longDescription": {
     "en": "You are a PHP expert specializing in modern PHP development with focus on performance and idiomatic patterns.\n\n## Focus Areas\n\n- Generators and iterators for memory-efficient data processing\n- SPL dat...",
-    "zh": "You are a PHP expert specializing in modern PHP development with focus on performance and idiomatic patterns.\n\n## Focus Areas\n\n- Generators and iterators for memory-efficient data processing\n- SPL dat..."
+    "zh": "You are a PHP expert specializing in modern PHP development with focus on performance and idiomatic patterns.\n\n## Focus Areas\n\n- Generators and iterators for memory-efficient data processing\n- SPL dat...",
+    "ja": "You are a PHP expert specializing in modern PHP development with focus on performance and idiomatic patterns.\n\n## Focus Areas\n\n- Generators and iterators for memory-efficient data processing\n- SPL dat..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -30,7 +33,7 @@
       "releaseDate": "2025-09-28T20:01:22.701801Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "php-pro_v1.0.0.md"
       }
     }
   },

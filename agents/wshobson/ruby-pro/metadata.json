@@ -2,15 +2,18 @@
   "id": "ruby-pro",
   "name": {
     "en": "ruby-pro",
-    "zh": "ruby-pro"
+    "zh": "Ruby 专家",
+    "ja": "Ruby プロ"
   },
   "description": {
     "en": "Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing frameworks. Use PROACTIVELY for Ruby refactoring, optimization, or complex Ruby features.",
-    "zh": "Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing frameworks. Use PROACTIVELY for Ruby refactoring, optimization, or complex Ruby features."
+    "zh": "Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing frameworks. Use PROACTIVELY for Ruby refactoring, optimization, or complex Ruby features.",
+    "ja": "Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing frameworks. Use PROACTIVELY for Ruby refactoring, optimization, or complex Ruby features."
   },
   "longDescription": {
     "en": "You are a Ruby expert specializing in clean, maintainable, and performant Ruby code.\n\n## Focus Areas\n\n- Ruby metaprogramming (modules, mixins, DSLs)\n- Rails patterns (ActiveRecord, controllers, views)...",
-    "zh": "You are a Ruby expert specializing in clean, maintainable, and performant Ruby code.\n\n## Focus Areas\n\n- Ruby metaprogramming (modules, mixins, DSLs)\n- Rails patterns (ActiveRecord, controllers, views)..."
+    "zh": "You are a Ruby expert specializing in clean, maintainable, and performant Ruby code.\n\n## Focus Areas\n\n- Ruby metaprogramming (modules, mixins, DSLs)\n- Rails patterns (ActiveRecord, controllers, views)...",
+    "ja": "You are a Ruby expert specializing in clean, maintainable, and performant Ruby code.\n\n## Focus Areas\n\n- Ruby metaprogramming (modules, mixins, DSLs)\n- Rails patterns (ActiveRecord, controllers, views)..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -30,7 +33,7 @@
       "releaseDate": "2025-09-28T20:01:22.826729Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "ruby-pro_v1.0.0.md"
       }
     }
   },

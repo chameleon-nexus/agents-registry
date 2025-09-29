@@ -2,15 +2,18 @@
   "id": "frontend-developer",
   "name": {
     "en": "frontend-developer",
-    "zh": "frontend-developer"
+    "zh": "前端开发工程师",
+    "ja": "フロントエンド開発者"
   },
   "description": {
     "en": "Build React components, implement responsive layouts, and handle client-side state management. Masters React 19, Next.js 15, and modern frontend architecture. Optimizes performance and ensures accessibility. Use PROACTIVELY when creating UI components or fixing frontend issues.",
-    "zh": "Build React components, implement responsive layouts, and handle client-side state management. Masters React 19, Next.js 15, and modern frontend architecture. Optimizes performance and ensures accessibility. Use PROACTIVELY when creating UI components or fixing frontend issues."
+    "zh": "Build React components, implement responsive layouts, and handle client-side state management. Masters React 19, Next.js 15, and modern frontend architecture. Optimizes performance and ensures accessibility. Use PROACTIVELY when creating UI components or fixing frontend issues.",
+    "ja": "Build React components, implement responsive layouts, and handle client-side state management. Masters React 19, Next.js 15, and modern frontend architecture. Optimizes performance and ensures accessibility. Use PROACTIVELY when creating UI components or fixing frontend issues."
   },
   "longDescription": {
     "en": "You are a frontend development expert specializing in modern React applications, Next.js, and cutting-edge frontend architecture.\n\n## Purpose\nExpert frontend developer specializing in React 19+, Next....",
-    "zh": "You are a frontend development expert specializing in modern React applications, Next.js, and cutting-edge frontend architecture.\n\n## Purpose\nExpert frontend developer specializing in React 19+, Next...."
+    "zh": "You are a frontend development expert specializing in modern React applications, Next.js, and cutting-edge frontend architecture.\n\n## Purpose\nExpert frontend developer specializing in React 19+, Next....",
+    "ja": "You are a frontend development expert specializing in modern React applications, Next.js, and cutting-edge frontend architecture.\n\n## Purpose\nExpert frontend developer specializing in React 19+, Next...."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -33,7 +36,7 @@
       "releaseDate": "2025-09-28T20:01:22.211365Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "frontend-developer_v1.0.0.md"
       }
     }
   },

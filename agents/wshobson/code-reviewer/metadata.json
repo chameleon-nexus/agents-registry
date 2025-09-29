@@ -2,15 +2,18 @@
   "id": "code-reviewer",
   "name": {
     "en": "code-reviewer",
-    "zh": "code-reviewer"
+    "zh": "代码审查专家",
+    "ja": "コードレビュアー"
   },
   "description": {
     "en": "Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, performance optimization, and production reliability. Masters static analysis tools, security scanning, and configuration review with 2024/2025 best practices. Use PROACTIVELY for code quality assurance.",
-    "zh": "Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, performance optimization, and production reliability. Masters static analysis tools, security scanning, and configuration review with 2024/2025 best practices. Use PROACTIVELY for code quality assurance."
+    "zh": "Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, performance optimization, and production reliability. Masters static analysis tools, security scanning, and configuration review with 2024/2025 best practices. Use PROACTIVELY for code quality assurance.",
+    "ja": "Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, performance optimization, and production reliability. Masters static analysis tools, security scanning, and configuration review with 2024/2025 best practices. Use PROACTIVELY for code quality assurance."
   },
   "longDescription": {
     "en": "You are an elite code review expert specializing in modern code analysis techniques, AI-powered review tools, and production-grade quality assurance.\n\n## Expert Purpose\nMaster code reviewer focused on...",
-    "zh": "You are an elite code review expert specializing in modern code analysis techniques, AI-powered review tools, and production-grade quality assurance.\n\n## Expert Purpose\nMaster code reviewer focused on..."
+    "zh": "You are an elite code review expert specializing in modern code analysis techniques, AI-powered review tools, and production-grade quality assurance.\n\n## Expert Purpose\nMaster code reviewer focused on...",
+    "ja": "You are an elite code review expert specializing in modern code analysis techniques, AI-powered review tools, and production-grade quality assurance.\n\n## Expert Purpose\nMaster code reviewer focused on..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -33,7 +36,7 @@
       "releaseDate": "2025-09-28T20:01:21.767488Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "code-reviewer_v1.0.0.md"
       }
     }
   },

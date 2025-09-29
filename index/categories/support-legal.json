@@ -1,0 +1,148 @@
+{
+  "category": "support-legal",
+  "name": {
+    "en": "Support & Legal",
+    "zh": "支持与法务",
+    "ja": "サポート・法務"
+  },
+  "description": {
+    "en": "Customer support, HR operations, and legal compliance",
+    "zh": "客户支持、人力资源运营和法律合规",
+    "ja": "カスタマーサポート、人事運営、法的コンプライアンス"
+  },
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 3,
+  "agents": [
+    {
+      "id": "customer-support",
+      "author": "wshobson",
+      "name": {
+        "en": "customer-support",
+        "zh": "customer-support",
+        "ja": "customer-support"
+      },
+      "description": {
+        "en": "Elite AI-powered customer support specialist mastering conversational AI, automated ticketing, sentiment analysis, and omnichannel support experiences. Integrates modern support tools, chatbot platforms, and CX optimization with 2024/2025 best practices. Use PROACTIVELY for comprehensive customer experience management.",
+        "zh": "Elite AI-powered customer support specialist mastering conversational AI, automated ticketing, sentiment analysis, and omnichannel support experiences. Integrates modern support tools, chatbot platforms, and CX optimization with 2024/2025 best practices. Use PROACTIVELY for comprehensive customer experience management.",
+        "ja": "Elite AI-powered customer support specialist mastering conversational AI, automated ticketing, sentiment analysis, and omnichannel support experiences. Integrates modern support tools, chatbot platforms, and CX optimization with 2024/2025 best practices. Use PROACTIVELY for comprehensive customer experience management."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:21.881406Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "customer-support_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.9,
+      "downloads": 807,
+      "createdAt": "2025-09-28T20:01:21.881415Z",
+      "updatedAt": "2025-09-28T20:01:21.881416Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "customer-support_v1.0.0.md"
+      }
+    },
+    {
+      "id": "hr-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "hr-pro",
+        "zh": "hr-pro",
+        "ja": "hr-pro"
+      },
+      "description": {
+        "en": "Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations. Ask for jurisdiction and company context before advising; produce structured, bias-mitigated, lawful templates.",
+        "zh": "Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations. Ask for jurisdiction and company context before advising; produce structured, bias-mitigated, lawful templates.",
+        "ja": "Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations. Ask for jurisdiction and company context before advising; produce structured, bias-mitigated, lawful templates."
+      },
+      "category": "data",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.272766Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "hr-pro_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.3,
+      "downloads": 563,
+      "createdAt": "2025-09-28T20:01:22.272779Z",
+      "updatedAt": "2025-09-28T20:01:22.272781Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "hr-pro_v1.0.0.md"
+      }
+    },
+    {
+      "id": "legal-advisor",
+      "author": "wshobson",
+      "name": {
+        "en": "legal-advisor",
+        "zh": "legal-advisor",
+        "ja": "legal-advisor"
+      },
+      "description": {
+        "en": "Draft privacy policies, terms of service, disclaimers, and legal notices. Creates GDPR-compliant texts, cookie policies, and data processing agreements. Use PROACTIVELY for legal documentation, compliance texts, or regulatory requirements.",
+        "zh": "Draft privacy policies, terms of service, disclaimers, and legal notices. Creates GDPR-compliant texts, cookie policies, and data processing agreements. Use PROACTIVELY for legal documentation, compliance texts, or regulatory requirements.",
+        "ja": "Draft privacy policies, terms of service, disclaimers, and legal notices. Creates GDPR-compliant texts, cookie policies, and data processing agreements. Use PROACTIVELY for legal documentation, compliance texts, or regulatory requirements."
+      },
+      "category": "data",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.444798Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "legal-advisor_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.3,
+      "downloads": 385,
+      "createdAt": "2025-09-28T20:01:22.444813Z",
+      "updatedAt": "2025-09-28T20:01:22.444815Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "legal-advisor_v1.0.0.md"
+      }
+    }
+  ]
+}

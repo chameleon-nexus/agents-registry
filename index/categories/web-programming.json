@@ -1,0 +1,238 @@
+{
+  "category": "web-programming",
+  "name": {
+    "en": "Web & Application Programming",
+    "zh": "Web与应用程序编程",
+    "ja": "Web・アプリケーションプログラミング"
+  },
+  "description": {
+    "en": "Modern web development with JavaScript, Python, and other dynamic languages",
+    "zh": "使用JavaScript、Python等动态语言进行现代Web开发",
+    "ja": "JavaScript、Pythonなどの動的言語によるモダンWeb開発"
+  },
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 5,
+  "agents": [
+    {
+      "id": "typescript-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "typescript-pro",
+        "zh": "typescript-pro",
+        "ja": "typescript-pro"
+      },
+      "description": {
+        "en": "Master TypeScript with advanced types, generics, and strict type safety. Handles complex type systems, decorators, and enterprise-grade patterns. Use PROACTIVELY for TypeScript architecture, type inference optimization, or advanced typing patterns.",
+        "zh": "Master TypeScript with advanced types, generics, and strict type safety. Handles complex type systems, decorators, and enterprise-grade patterns. Use PROACTIVELY for TypeScript architecture, type inference optimization, or advanced typing patterns.",
+        "ja": "Master TypeScript with advanced types, generics, and strict type safety. Handles complex type systems, decorators, and enterprise-grade patterns. Use PROACTIVELY for TypeScript architecture, type inference optimization, or advanced typing patterns."
+      },
+      "category": "debugging",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:23.218357Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "typescript-pro_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.2,
+      "downloads": 1744,
+      "createdAt": "2025-09-28T20:01:23.218370Z",
+      "updatedAt": "2025-09-28T20:01:23.218371Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "typescript-pro_v1.0.0.md"
+      }
+    },
+    {
+      "id": "python-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "python-pro",
+        "zh": "Python 专家",
+        "ja": "Python プロ"
+      },
+      "description": {
+        "en": "Master Python 3.12+ with modern features, async programming, performance optimization, and production-ready practices. Expert in the latest Python ecosystem including uv, ruff, pydantic, and FastAPI. Use PROACTIVELY for Python development, optimization, or advanced Python patterns.",
+        "zh": "精通 Python 3.12+ 现代特性，异步编程，性能优化和生产级实践。专精最新 Python 生态系统，包括 uv、ruff、pydantic 和 FastAPI。主动用于 Python 开发、优化或高级 Python 模式。",
+        "ja": "Python 3.12+ の最新機能、非同期プログラミング、パフォーマンス最適化、本番対応のプラクティスをマスター。uv、ruff、pydantic、FastAPI を含む最新の Python エコシステムの専門家。Python 開発、最適化、高度な Python パターンに積極的に使用。"
+      },
+      "category": "debugging",
+      "tags": [
+        "python"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.757392Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "python-pro_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.2,
+      "downloads": 1597,
+      "createdAt": "2025-09-28T20:01:22.757403Z",
+      "updatedAt": "2025-09-28T20:01:22.757404Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "python-pro_v1.0.0.md"
+      }
+    },
+    {
+      "id": "ruby-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "ruby-pro",
+        "zh": "ruby-pro",
+        "ja": "ruby-pro"
+      },
+      "description": {
+        "en": "Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing frameworks. Use PROACTIVELY for Ruby refactoring, optimization, or complex Ruby features.",
+        "zh": "Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing frameworks. Use PROACTIVELY for Ruby refactoring, optimization, or complex Ruby features.",
+        "ja": "Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing frameworks. Use PROACTIVELY for Ruby refactoring, optimization, or complex Ruby features."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.826729Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "ruby-pro_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.5,
+      "downloads": 1463,
+      "createdAt": "2025-09-28T20:01:22.826754Z",
+      "updatedAt": "2025-09-28T20:01:22.826756Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "ruby-pro_v1.0.0.md"
+      }
+    },
+    {
+      "id": "php-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "php-pro",
+        "zh": "php-pro",
+        "ja": "php-pro"
+      },
+      "description": {
+        "en": "Write idiomatic PHP code with generators, iterators, SPL data structures, and modern OOP features. Use PROACTIVELY for high-performance PHP applications.",
+        "zh": "Write idiomatic PHP code with generators, iterators, SPL data structures, and modern OOP features. Use PROACTIVELY for high-performance PHP applications.",
+        "ja": "Write idiomatic PHP code with generators, iterators, SPL data structures, and modern OOP features. Use PROACTIVELY for high-performance PHP applications."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.701801Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "php-pro_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.7,
+      "downloads": 1271,
+      "createdAt": "2025-09-28T20:01:22.701819Z",
+      "updatedAt": "2025-09-28T20:01:22.701820Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "php-pro_v1.0.0.md"
+      }
+    },
+    {
+      "id": "javascript-pro",
+      "author": "wshobson",
+      "name": {
+        "en": "javascript-pro",
+        "zh": "javascript-pro",
+        "ja": "javascript-pro"
+      },
+      "description": {
+        "en": "Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops, and browser/Node compatibility. Use PROACTIVELY for JavaScript optimization, async debugging, or complex JS patterns.",
+        "zh": "精通现代 JavaScript，包括 ES6+、异步模式和 Node.js API。处理 Promise、事件循环和浏览器/Node 兼容性。在 JavaScript 优化、异步调试或复杂 JS 模式时主动使用。",
+        "ja": "ES6+、非同期パターン、Node.js API を含むモダン JavaScript をマスター。Promise、イベントループ、ブラウザ/Node 互換性を処理。JavaScript 最適化、非同期デバッグ、複雑な JS パターンで積極的に使用。"
+      },
+      "category": "debugging",
+      "tags": [
+        "javascript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.373842Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "javascript-pro_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.8,
+      "downloads": 655,
+      "createdAt": "2025-09-28T20:01:22.373859Z",
+      "updatedAt": "2025-09-28T20:01:22.373860Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "javascript-pro_v1.0.0.md"
+      }
+    }
+  ]
+}

@@ -2,15 +2,18 @@
   "id": "javascript-pro",
   "name": {
     "en": "javascript-pro",
-    "zh": "javascript-pro"
+    "zh": "JavaScript 专家",
+    "ja": "JavaScript プロ"
   },
   "description": {
     "en": "Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops, and browser/Node compatibility. Use PROACTIVELY for JavaScript optimization, async debugging, or complex JS patterns.",
-    "zh": "Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops, and browser/Node compatibility. Use PROACTIVELY for JavaScript optimization, async debugging, or complex JS patterns."
+    "zh": "Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops, and browser/Node compatibility. Use PROACTIVELY for JavaScript optimization, async debugging, or complex JS patterns.",
+    "ja": "Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops, and browser/Node compatibility. Use PROACTIVELY for JavaScript optimization, async debugging, or complex JS patterns."
   },
   "longDescription": {
     "en": "You are a JavaScript expert specializing in modern JS and async programming.\n\n## Focus Areas\n\n- ES6+ features (destructuring, modules, classes)\n- Async patterns (promises, async/await, generators)\n- E...",
-    "zh": "You are a JavaScript expert specializing in modern JS and async programming.\n\n## Focus Areas\n\n- ES6+ features (destructuring, modules, classes)\n- Async patterns (promises, async/await, generators)\n- E..."
+    "zh": "You are a JavaScript expert specializing in modern JS and async programming.\n\n## Focus Areas\n\n- ES6+ features (destructuring, modules, classes)\n- Async patterns (promises, async/await, generators)\n- E...",
+    "ja": "You are a JavaScript expert specializing in modern JS and async programming.\n\n## Focus Areas\n\n- ES6+ features (destructuring, modules, classes)\n- Async patterns (promises, async/await, generators)\n- E..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:22.373842Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "javascript-pro_v1.0.0.md"
       }
     }
   },

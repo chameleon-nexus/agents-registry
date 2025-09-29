@@ -1,0 +1,236 @@
+{
+  "category": "documentation",
+  "name": {
+    "en": "Documentation & Technical Writing",
+    "zh": "文档与技术写作",
+    "ja": "ドキュメント・技術文書"
+  },
+  "description": {
+    "en": "Technical documentation, API specs, and content creation",
+    "zh": "技术文档、API规范和内容创建",
+    "ja": "技術文書、API仕様、コンテンツ作成"
+  },
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 5,
+  "agents": [
+    {
+      "id": "api-documenter",
+      "author": "wshobson",
+      "name": {
+        "en": "api-documenter",
+        "zh": "api-documenter",
+        "ja": "api-documenter"
+      },
+      "description": {
+        "en": "Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practices. Create interactive docs, generate SDKs, and build comprehensive developer portals. Use PROACTIVELY for API documentation or developer portal creation.",
+        "zh": "Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practices. Create interactive docs, generate SDKs, and build comprehensive developer portals. Use PROACTIVELY for API documentation or developer portal creation.",
+        "ja": "Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practices. Create interactive docs, generate SDKs, and build comprehensive developer portals. Use PROACTIVELY for API documentation or developer portal creation."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:21.617164Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "api-documenter_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.7,
+      "downloads": 988,
+      "createdAt": "2025-09-28T20:01:21.617174Z",
+      "updatedAt": "2025-09-28T20:01:21.617176Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "api-documenter_v1.0.0.md"
+      }
+    },
+    {
+      "id": "tutorial-engineer",
+      "author": "wshobson",
+      "name": {
+        "en": "tutorial-engineer",
+        "zh": "tutorial-engineer",
+        "ja": "tutorial-engineer"
+      },
+      "description": {
+        "en": "Creates step-by-step tutorials and educational content from code. Transforms complex concepts into progressive learning experiences with hands-on examples. Use PROACTIVELY for onboarding guides, feature tutorials, or concept explanations.",
+        "zh": "Creates step-by-step tutorials and educational content from code. Transforms complex concepts into progressive learning experiences with hands-on examples. Use PROACTIVELY for onboarding guides, feature tutorials, or concept explanations.",
+        "ja": "Creates step-by-step tutorials and educational content from code. Transforms complex concepts into progressive learning experiences with hands-on examples. Use PROACTIVELY for onboarding guides, feature tutorials, or concept explanations."
+      },
+      "category": "debugging",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:23.195506Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "tutorial-engineer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.1,
+      "downloads": 615,
+      "createdAt": "2025-09-28T20:01:23.195524Z",
+      "updatedAt": "2025-09-28T20:01:23.195525Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "tutorial-engineer_v1.0.0.md"
+      }
+    },
+    {
+      "id": "docs-architect",
+      "author": "wshobson",
+      "name": {
+        "en": "docs-architect",
+        "zh": "docs-architect",
+        "ja": "docs-architect"
+      },
+      "description": {
+        "en": "Creates comprehensive technical documentation from existing codebases. Analyzes architecture, design patterns, and implementation details to produce long-form technical manuals and ebooks. Use PROACTIVELY for system documentation, architecture guides, or technical deep-dives.",
+        "zh": "Creates comprehensive technical documentation from existing codebases. Analyzes architecture, design patterns, and implementation details to produce long-form technical manuals and ebooks. Use PROACTIVELY for system documentation, architecture guides, or technical deep-dives.",
+        "ja": "Creates comprehensive technical documentation from existing codebases. Analyzes architecture, design patterns, and implementation details to produce long-form technical manuals and ebooks. Use PROACTIVELY for system documentation, architecture guides, or technical deep-dives."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.092765Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "docs-architect_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.3,
+      "downloads": 614,
+      "createdAt": "2025-09-28T20:01:22.092778Z",
+      "updatedAt": "2025-09-28T20:01:22.092779Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "docs-architect_v1.0.0.md"
+      }
+    },
+    {
+      "id": "mermaid-expert",
+      "author": "wshobson",
+      "name": {
+        "en": "mermaid-expert",
+        "zh": "mermaid-expert",
+        "ja": "mermaid-expert"
+      },
+      "description": {
+        "en": "Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling. Use PROACTIVELY for visual documentation, system diagrams, or process flows.",
+        "zh": "Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling. Use PROACTIVELY for visual documentation, system diagrams, or process flows.",
+        "ja": "Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling. Use PROACTIVELY for visual documentation, system diagrams, or process flows."
+      },
+      "category": "data",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.469072Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "mermaid-expert_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.1,
+      "downloads": 320,
+      "createdAt": "2025-09-28T20:01:22.469079Z",
+      "updatedAt": "2025-09-28T20:01:22.469080Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "mermaid-expert_v1.0.0.md"
+      }
+    },
+    {
+      "id": "reference-builder",
+      "author": "wshobson",
+      "name": {
+        "en": "reference-builder",
+        "zh": "reference-builder",
+        "ja": "reference-builder"
+      },
+      "description": {
+        "en": "Creates exhaustive technical references and API documentation. Generates comprehensive parameter listings, configuration guides, and searchable reference materials. Use PROACTIVELY for API docs, configuration references, or complete technical specifications.",
+        "zh": "Creates exhaustive technical references and API documentation. Generates comprehensive parameter listings, configuration guides, and searchable reference materials. Use PROACTIVELY for API docs, configuration references, or complete technical specifications.",
+        "ja": "Creates exhaustive technical references and API documentation. Generates comprehensive parameter listings, configuration guides, and searchable reference materials. Use PROACTIVELY for API docs, configuration references, or complete technical specifications."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.803717Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "reference-builder_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.5,
+      "downloads": 196,
+      "createdAt": "2025-09-28T20:01:22.803734Z",
+      "updatedAt": "2025-09-28T20:01:22.803736Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "reference-builder_v1.0.0.md"
+      }
+    }
+  ]
+}

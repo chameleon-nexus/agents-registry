@@ -2,15 +2,18 @@
   "id": "observability-engineer",
   "name": {
     "en": "observability-engineer",
-    "zh": "observability-engineer"
+    "zh": "可观测性工程师",
+    "ja": "オブザーバビリティエンジニア"
   },
   "description": {
     "en": "Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observability strategies, SLI/SLO management, and incident response workflows. Use PROACTIVELY for monitoring infrastructure, performance optimization, or production reliability.",
-    "zh": "Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observability strategies, SLI/SLO management, and incident response workflows. Use PROACTIVELY for monitoring infrastructure, performance optimization, or production reliability."
+    "zh": "Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observability strategies, SLI/SLO management, and incident response workflows. Use PROACTIVELY for monitoring infrastructure, performance optimization, or production reliability.",
+    "ja": "Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observability strategies, SLI/SLO management, and incident response workflows. Use PROACTIVELY for monitoring infrastructure, performance optimization, or production reliability."
   },
   "longDescription": {
     "en": "You are an observability engineer specializing in production-grade monitoring, logging, tracing, and reliability systems for enterprise-scale applications.\n\n## Purpose\nExpert observability engineer sp...",
-    "zh": "You are an observability engineer specializing in production-grade monitoring, logging, tracing, and reliability systems for enterprise-scale applications.\n\n## Purpose\nExpert observability engineer sp..."
+    "zh": "You are an observability engineer specializing in production-grade monitoring, logging, tracing, and reliability systems for enterprise-scale applications.\n\n## Purpose\nExpert observability engineer sp...",
+    "ja": "You are an observability engineer specializing in production-grade monitoring, logging, tracing, and reliability systems for enterprise-scale applications.\n\n## Purpose\nExpert observability engineer sp..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:22.640158Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "observability-engineer_v1.0.0.md"
       }
     }
   },

@@ -2,15 +2,18 @@
   "id": "sales-automator",
   "name": {
     "en": "sales-automator",
-    "zh": "sales-automator"
+    "zh": "销售自动化专家",
+    "ja": "セールス自動化専門家"
   },
   "description": {
     "en": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing.",
-    "zh": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing."
+    "zh": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing.",
+    "ja": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing."
   },
   "longDescription": {
     "en": "You are a sales automation specialist focused on conversions and relationships.\n\n## Focus Areas\n\n- Cold email sequences with personalization\n- Follow-up campaigns and cadences\n- Proposal and quote tem...",
-    "zh": "You are a sales automation specialist focused on conversions and relationships.\n\n## Focus Areas\n\n- Cold email sequences with personalization\n- Follow-up campaigns and cadences\n- Proposal and quote tem..."
+    "zh": "You are a sales automation specialist focused on conversions and relationships.\n\n## Focus Areas\n\n- Cold email sequences with personalization\n- Follow-up campaigns and cadences\n- Proposal and quote tem...",
+    "ja": "You are a sales automation specialist focused on conversions and relationships.\n\n## Focus Areas\n\n- Cold email sequences with personalization\n- Follow-up campaigns and cadences\n- Proposal and quote tem..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:22.861570Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "sales-automator_v1.0.0.md"
       }
     }
   },

@@ -2,15 +2,18 @@
   "id": "search-specialist",
   "name": {
     "en": "search-specialist",
-    "zh": "search-specialist"
+    "zh": "搜索专家",
+    "ja": "検索スペシャリスト"
   },
   "description": {
     "en": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles competitive analysis and fact-checking. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
-    "zh": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles competitive analysis and fact-checking. Use PROACTIVELY for deep research, information gathering, or trend analysis."
+    "zh": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles competitive analysis and fact-checking. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
+    "ja": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles competitive analysis and fact-checking. Use PROACTIVELY for deep research, information gathering, or trend analysis."
   },
   "longDescription": {
     "en": "You are a search specialist expert at finding and synthesizing information from the web.\n\n## Focus Areas\n\n- Advanced search query formulation\n- Domain-specific searching and filtering\n- Result quality...",
-    "zh": "You are a search specialist expert at finding and synthesizing information from the web.\n\n## Focus Areas\n\n- Advanced search query formulation\n- Domain-specific searching and filtering\n- Result quality..."
+    "zh": "You are a search specialist expert at finding and synthesizing information from the web.\n\n## Focus Areas\n\n- Advanced search query formulation\n- Domain-specific searching and filtering\n- Result quality...",
+    "ja": "You are a search specialist expert at finding and synthesizing information from the web.\n\n## Focus Areas\n\n- Advanced search query formulation\n- Domain-specific searching and filtering\n- Result quality..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -30,7 +33,7 @@
       "releaseDate": "2025-09-28T20:01:22.916263Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "search-specialist_v1.0.0.md"
       }
     }
   },

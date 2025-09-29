@@ -2,15 +2,18 @@
   "id": "flutter-expert",
   "name": {
     "en": "flutter-expert",
-    "zh": "flutter-expert"
+    "zh": "Flutter 专家",
+    "ja": "Flutter エキスパート"
   },
   "description": {
     "en": "Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles state management, animations, testing, and performance optimization for mobile, web, desktop, and embedded platforms. Use PROACTIVELY for Flutter architecture, UI implementation, or cross-platform features.",
-    "zh": "Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles state management, animations, testing, and performance optimization for mobile, web, desktop, and embedded platforms. Use PROACTIVELY for Flutter architecture, UI implementation, or cross-platform features."
+    "zh": "Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles state management, animations, testing, and performance optimization for mobile, web, desktop, and embedded platforms. Use PROACTIVELY for Flutter architecture, UI implementation, or cross-platform features.",
+    "ja": "Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles state management, animations, testing, and performance optimization for mobile, web, desktop, and embedded platforms. Use PROACTIVELY for Flutter architecture, UI implementation, or cross-platform features."
   },
   "longDescription": {
     "en": "You are a Flutter expert specializing in high-performance, multi-platform applications with deep knowledge of the Flutter 2025 ecosystem.\n\n## Purpose\nExpert Flutter developer specializing in Flutter 3...",
-    "zh": "You are a Flutter expert specializing in high-performance, multi-platform applications with deep knowledge of the Flutter 2025 ecosystem.\n\n## Purpose\nExpert Flutter developer specializing in Flutter 3..."
+    "zh": "You are a Flutter expert specializing in high-performance, multi-platform applications with deep knowledge of the Flutter 2025 ecosystem.\n\n## Purpose\nExpert Flutter developer specializing in Flutter 3...",
+    "ja": "You are a Flutter expert specializing in high-performance, multi-platform applications with deep knowledge of the Flutter 2025 ecosystem.\n\n## Purpose\nExpert Flutter developer specializing in Flutter 3..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:22.178791Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "flutter-expert_v1.0.0.md"
       }
     }
   },

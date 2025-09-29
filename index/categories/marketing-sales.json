@@ -1,0 +1,105 @@
+{
+  "category": "marketing-sales",
+  "name": {
+    "en": "Marketing & Sales",
+    "zh": "营销与销售",
+    "ja": "マーケティング・営業"
+  },
+  "description": {
+    "en": "Content marketing, sales automation, and customer engagement",
+    "zh": "内容营销、销售自动化和客户参与",
+    "ja": "コンテンツマーケティング、営業自動化、顧客エンゲージメント"
+  },
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 2,
+  "agents": [
+    {
+      "id": "sales-automator",
+      "author": "wshobson",
+      "name": {
+        "en": "sales-automator",
+        "zh": "sales-automator",
+        "ja": "sales-automator"
+      },
+      "description": {
+        "en": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing.",
+        "zh": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing.",
+        "ja": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing."
+      },
+      "category": "development",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.861570Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "sales-automator_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.2,
+      "downloads": 460,
+      "createdAt": "2025-09-28T20:01:22.861580Z",
+      "updatedAt": "2025-09-28T20:01:22.861582Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "sales-automator_v1.0.0.md"
+      }
+    },
+    {
+      "id": "content-marketer",
+      "author": "wshobson",
+      "name": {
+        "en": "content-marketer",
+        "zh": "content-marketer",
+        "ja": "content-marketer"
+      },
+      "description": {
+        "en": "Elite content marketing strategist specializing in AI-powered content creation, omnichannel distribution, SEO optimization, and data-driven performance marketing. Masters modern content tools, social media automation, and conversion optimization with 2024/2025 best practices. Use PROACTIVELY for comprehensive content marketing.",
+        "zh": "Elite content marketing strategist specializing in AI-powered content creation, omnichannel distribution, SEO optimization, and data-driven performance marketing. Masters modern content tools, social media automation, and conversion optimization with 2024/2025 best practices. Use PROACTIVELY for comprehensive content marketing.",
+        "ja": "Elite content marketing strategist specializing in AI-powered content creation, omnichannel distribution, SEO optimization, and data-driven performance marketing. Masters modern content tools, social media automation, and conversion optimization with 2024/2025 best practices. Use PROACTIVELY for comprehensive content marketing."
+      },
+      "category": "data",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:21.797855Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "content-marketer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.1,
+      "downloads": 61,
+      "createdAt": "2025-09-28T20:01:21.797867Z",
+      "updatedAt": "2025-09-28T20:01:21.797868Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "content-marketer_v1.0.0.md"
+      }
+    }
+  ]
+}

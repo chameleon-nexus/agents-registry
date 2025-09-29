@@ -2,15 +2,18 @@
   "id": "seo-structure-architect",
   "name": {
     "en": "seo-structure-architect",
-    "zh": "seo-structure-architect"
+    "zh": "SEO 结构架构师",
+    "ja": "SEO 構造アーキテクト"
   },
   "description": {
     "en": "Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities. Creates search-friendly content organization. Use PROACTIVELY for content structuring.",
-    "zh": "Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities. Creates search-friendly content organization. Use PROACTIVELY for content structuring."
+    "zh": "Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities. Creates search-friendly content organization. Use PROACTIVELY for content structuring.",
+    "ja": "Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities. Creates search-friendly content organization. Use PROACTIVELY for content structuring."
   },
   "longDescription": {
     "en": "You are a content structure specialist analyzing and improving information architecture.\n\n## Focus Areas\n\n- Header tag hierarchy (H1-H6) analysis\n- Content organization and flow\n- Schema markup sugges...",
-    "zh": "You are a content structure specialist analyzing and improving information architecture.\n\n## Focus Areas\n\n- Header tag hierarchy (H1-H6) analysis\n- Content organization and flow\n- Schema markup sugges..."
+    "zh": "You are a content structure specialist analyzing and improving information architecture.\n\n## Focus Areas\n\n- Header tag hierarchy (H1-H6) analysis\n- Content organization and flow\n- Schema markup sugges...",
+    "ja": "You are a content structure specialist analyzing and improving information architecture.\n\n## Focus Areas\n\n- Header tag hierarchy (H1-H6) analysis\n- Content organization and flow\n- Schema markup sugges..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:23.092804Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "seo-structure-architect_v1.0.0.md"
       }
     }
   },

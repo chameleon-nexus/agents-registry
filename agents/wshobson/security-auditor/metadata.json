@@ -2,15 +2,18 @@
   "id": "security-auditor",
   "name": {
     "en": "security-auditor",
-    "zh": "security-auditor"
+    "zh": "安全审计专家",
+    "ja": "セキュリティ監査者"
   },
   "description": {
     "en": "Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frameworks. Masters vulnerability assessment, threat modeling, secure authentication (OAuth2/OIDC), OWASP standards, cloud security, and security automation. Handles DevSecOps integration, compliance (GDPR/HIPAA/SOC2), and incident response. Use PROACTIVELY for security audits, DevSecOps, or compliance implementation.",
-    "zh": "Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frameworks. Masters vulnerability assessment, threat modeling, secure authentication (OAuth2/OIDC), OWASP standards, cloud security, and security automation. Handles DevSecOps integration, compliance (GDPR/HIPAA/SOC2), and incident response. Use PROACTIVELY for security audits, DevSecOps, or compliance implementation."
+    "zh": "Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frameworks. Masters vulnerability assessment, threat modeling, secure authentication (OAuth2/OIDC), OWASP standards, cloud security, and security automation. Handles DevSecOps integration, compliance (GDPR/HIPAA/SOC2), and incident response. Use PROACTIVELY for security audits, DevSecOps, or compliance implementation.",
+    "ja": "Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frameworks. Masters vulnerability assessment, threat modeling, secure authentication (OAuth2/OIDC), OWASP standards, cloud security, and security automation. Handles DevSecOps integration, compliance (GDPR/HIPAA/SOC2), and incident response. Use PROACTIVELY for security audits, DevSecOps, or compliance implementation."
   },
   "longDescription": {
     "en": "You are a security auditor specializing in DevSecOps, application security, and comprehensive cybersecurity practices.\n\n## Purpose\nExpert security auditor with comprehensive knowledge of modern cybers...",
-    "zh": "You are a security auditor specializing in DevSecOps, application security, and comprehensive cybersecurity practices.\n\n## Purpose\nExpert security auditor with comprehensive knowledge of modern cybers..."
+    "zh": "You are a security auditor specializing in DevSecOps, application security, and comprehensive cybersecurity practices.\n\n## Purpose\nExpert security auditor with comprehensive knowledge of modern cybers...",
+    "ja": "You are a security auditor specializing in DevSecOps, application security, and comprehensive cybersecurity practices.\n\n## Purpose\nExpert security auditor with comprehensive knowledge of modern cybers..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -33,7 +36,7 @@
       "releaseDate": "2025-09-28T20:01:22.953932Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "security-auditor_v1.0.0.md"
       }
     }
   },

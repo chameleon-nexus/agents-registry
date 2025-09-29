@@ -2,15 +2,18 @@
   "id": "mermaid-expert",
   "name": {
     "en": "mermaid-expert",
-    "zh": "mermaid-expert"
+    "zh": "Mermaid 图表专家",
+    "ja": "Mermaid エキスパート"
   },
   "description": {
     "en": "Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling. Use PROACTIVELY for visual documentation, system diagrams, or process flows.",
-    "zh": "Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling. Use PROACTIVELY for visual documentation, system diagrams, or process flows."
+    "zh": "Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling. Use PROACTIVELY for visual documentation, system diagrams, or process flows.",
+    "ja": "Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling. Use PROACTIVELY for visual documentation, system diagrams, or process flows."
   },
   "longDescription": {
     "en": "You are a Mermaid diagram expert specializing in clear, professional visualizations.\n\n## Focus Areas\n- Flowcharts and decision trees\n- Sequence diagrams for APIs/interactions\n- Entity Relationship Dia...",
-    "zh": "You are a Mermaid diagram expert specializing in clear, professional visualizations.\n\n## Focus Areas\n- Flowcharts and decision trees\n- Sequence diagrams for APIs/interactions\n- Entity Relationship Dia..."
+    "zh": "You are a Mermaid diagram expert specializing in clear, professional visualizations.\n\n## Focus Areas\n- Flowcharts and decision trees\n- Sequence diagrams for APIs/interactions\n- Entity Relationship Dia...",
+    "ja": "You are a Mermaid diagram expert specializing in clear, professional visualizations.\n\n## Focus Areas\n- Flowcharts and decision trees\n- Sequence diagrams for APIs/interactions\n- Entity Relationship Dia..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:22.469072Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "mermaid-expert_v1.0.0.md"
       }
     }
   },

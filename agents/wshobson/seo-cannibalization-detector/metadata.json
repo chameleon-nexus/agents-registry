@@ -2,15 +2,18 @@
   "id": "seo-cannibalization-detector",
   "name": {
     "en": "seo-cannibalization-detector",
-    "zh": "seo-cannibalization-detector"
+    "zh": "SEO 竞争检测专家",
+    "ja": "SEO カニバリゼーション検出器"
   },
   "description": {
     "en": "Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. Suggests differentiation strategies. Use PROACTIVELY when reviewing similar content.",
-    "zh": "Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. Suggests differentiation strategies. Use PROACTIVELY when reviewing similar content."
+    "zh": "Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. Suggests differentiation strategies. Use PROACTIVELY when reviewing similar content.",
+    "ja": "Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. Suggests differentiation strategies. Use PROACTIVELY when reviewing similar content."
   },
   "longDescription": {
     "en": "You are a keyword cannibalization specialist analyzing content overlap between provided pages.\n\n## Focus Areas\n\n- Keyword overlap detection\n- Topic similarity analysis\n- Search intent comparison\n- Tit...",
-    "zh": "You are a keyword cannibalization specialist analyzing content overlap between provided pages.\n\n## Focus Areas\n\n- Keyword overlap detection\n- Topic similarity analysis\n- Search intent comparison\n- Tit..."
+    "zh": "You are a keyword cannibalization specialist analyzing content overlap between provided pages.\n\n## Focus Areas\n\n- Keyword overlap detection\n- Topic similarity analysis\n- Search intent comparison\n- Tit...",
+    "ja": "You are a keyword cannibalization specialist analyzing content overlap between provided pages.\n\n## Focus Areas\n\n- Keyword overlap detection\n- Topic similarity analysis\n- Search intent comparison\n- Tit..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -33,7 +36,7 @@
       "releaseDate": "2025-09-28T20:01:23.009009Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "seo-cannibalization-detector_v1.0.0.md"
       }
     }
   },

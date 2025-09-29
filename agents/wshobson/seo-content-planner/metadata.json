@@ -2,15 +2,18 @@
   "id": "seo-content-planner",
   "name": {
     "en": "seo-content-planner",
-    "zh": "seo-content-planner"
+    "zh": "SEO 内容规划专家",
+    "ja": "SEO コンテンツプランナー"
   },
   "description": {
     "en": "Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and identifies topic gaps. Use PROACTIVELY for content strategy and planning.",
-    "zh": "Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and identifies topic gaps. Use PROACTIVELY for content strategy and planning."
+    "zh": "Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and identifies topic gaps. Use PROACTIVELY for content strategy and planning.",
+    "ja": "Creates comprehensive content outlines and topic clusters for SEO. Plans content calendars and identifies topic gaps. Use PROACTIVELY for content strategy and planning."
   },
   "longDescription": {
     "en": "You are an SEO content strategist creating comprehensive content plans and outlines.\n\n## Focus Areas\n\n- Topic cluster planning\n- Content gap identification\n- Comprehensive outline creation\n- Content c...",
-    "zh": "You are an SEO content strategist creating comprehensive content plans and outlines.\n\n## Focus Areas\n\n- Topic cluster planning\n- Content gap identification\n- Comprehensive outline creation\n- Content c..."
+    "zh": "You are an SEO content strategist creating comprehensive content plans and outlines.\n\n## Focus Areas\n\n- Topic cluster planning\n- Content gap identification\n- Comprehensive outline creation\n- Content c...",
+    "ja": "You are an SEO content strategist creating comprehensive content plans and outlines.\n\n## Focus Areas\n\n- Topic cluster planning\n- Content gap identification\n- Comprehensive outline creation\n- Content c..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -30,7 +33,7 @@
       "releaseDate": "2025-09-28T20:01:23.057253Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "seo-content-planner_v1.0.0.md"
       }
     }
   },

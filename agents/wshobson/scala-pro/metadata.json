@@ -2,15 +2,18 @@
   "id": "scala-pro",
   "name": {
     "en": "scala-pro",
-    "zh": "scala-pro"
+    "zh": "Scala 专家",
+    "ja": "Scala プロ"
   },
   "description": {
     "en": "Master enterprise-grade Scala development with functional programming, distributed systems, and big data processing. Expert in Apache Pekko, Akka, Spark, ZIO/Cats Effect, and reactive architectures. Use PROACTIVELY for Scala system design, performance optimization, or enterprise integration.",
-    "zh": "Master enterprise-grade Scala development with functional programming, distributed systems, and big data processing. Expert in Apache Pekko, Akka, Spark, ZIO/Cats Effect, and reactive architectures. Use PROACTIVELY for Scala system design, performance optimization, or enterprise integration."
+    "zh": "Master enterprise-grade Scala development with functional programming, distributed systems, and big data processing. Expert in Apache Pekko, Akka, Spark, ZIO/Cats Effect, and reactive architectures. Use PROACTIVELY for Scala system design, performance optimization, or enterprise integration.",
+    "ja": "Master enterprise-grade Scala development with functional programming, distributed systems, and big data processing. Expert in Apache Pekko, Akka, Spark, ZIO/Cats Effect, and reactive architectures. Use PROACTIVELY for Scala system design, performance optimization, or enterprise integration."
   },
   "longDescription": {
     "en": "You are an elite Scala engineer specializing in enterprise-grade functional programming and distributed systems.\n\n## Core Expertise\n\n### Functional Programming Mastery\n- **Scala 3 Expertise**: Deep un...",
-    "zh": "You are an elite Scala engineer specializing in enterprise-grade functional programming and distributed systems.\n\n## Core Expertise\n\n### Functional Programming Mastery\n- **Scala 3 Expertise**: Deep un..."
+    "zh": "You are an elite Scala engineer specializing in enterprise-grade functional programming and distributed systems.\n\n## Core Expertise\n\n### Functional Programming Mastery\n- **Scala 3 Expertise**: Deep un...",
+    "ja": "You are an elite Scala engineer specializing in enterprise-grade functional programming and distributed systems.\n\n## Core Expertise\n\n### Functional Programming Mastery\n- **Scala 3 Expertise**: Deep un..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:22.892324Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "scala-pro_v1.0.0.md"
       }
     }
   },

@@ -2,15 +2,18 @@
   "id": "graphql-architect",
   "name": {
     "en": "graphql-architect",
-    "zh": "graphql-architect"
+    "zh": "GraphQL 架构师",
+    "ja": "GraphQL アーキテクト"
   },
   "description": {
     "en": "Master modern GraphQL with federation, performance optimization, and enterprise security. Build scalable schemas, implement advanced caching, and design real-time systems. Use PROACTIVELY for GraphQL architecture or performance optimization.",
-    "zh": "Master modern GraphQL with federation, performance optimization, and enterprise security. Build scalable schemas, implement advanced caching, and design real-time systems. Use PROACTIVELY for GraphQL architecture or performance optimization."
+    "zh": "Master modern GraphQL with federation, performance optimization, and enterprise security. Build scalable schemas, implement advanced caching, and design real-time systems. Use PROACTIVELY for GraphQL architecture or performance optimization.",
+    "ja": "Master modern GraphQL with federation, performance optimization, and enterprise security. Build scalable schemas, implement advanced caching, and design real-time systems. Use PROACTIVELY for GraphQL architecture or performance optimization."
   },
   "longDescription": {
     "en": "You are an expert GraphQL architect specializing in enterprise-scale schema design, federation, performance optimization, and modern GraphQL development patterns.\n\n## Purpose\nExpert GraphQL architect ...",
-    "zh": "You are an expert GraphQL architect specializing in enterprise-scale schema design, federation, performance optimization, and modern GraphQL development patterns.\n\n## Purpose\nExpert GraphQL architect ..."
+    "zh": "You are an expert GraphQL architect specializing in enterprise-scale schema design, federation, performance optimization, and modern GraphQL development patterns.\n\n## Purpose\nExpert GraphQL architect ...",
+    "ja": "You are an expert GraphQL architect specializing in enterprise-scale schema design, federation, performance optimization, and modern GraphQL development patterns.\n\n## Purpose\nExpert GraphQL architect ..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:22.269269Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "graphql-architect_v1.0.0.md"
       }
     }
   },

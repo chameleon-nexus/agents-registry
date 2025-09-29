@@ -2,15 +2,18 @@
   "id": "ios-developer",
   "name": {
     "en": "ios-developer",
-    "zh": "ios-developer"
+    "zh": "iOS 开发工程师",
+    "ja": "iOS 開発者"
   },
   "description": {
     "en": "Develop native iOS applications with Swift/SwiftUI. Masters iOS 18, SwiftUI, UIKit integration, Core Data, networking, and App Store optimization. Use PROACTIVELY for iOS-specific features, App Store optimization, or native iOS development.",
-    "zh": "Develop native iOS applications with Swift/SwiftUI. Masters iOS 18, SwiftUI, UIKit integration, Core Data, networking, and App Store optimization. Use PROACTIVELY for iOS-specific features, App Store optimization, or native iOS development."
+    "zh": "Develop native iOS applications with Swift/SwiftUI. Masters iOS 18, SwiftUI, UIKit integration, Core Data, networking, and App Store optimization. Use PROACTIVELY for iOS-specific features, App Store optimization, or native iOS development.",
+    "ja": "Develop native iOS applications with Swift/SwiftUI. Masters iOS 18, SwiftUI, UIKit integration, Core Data, networking, and App Store optimization. Use PROACTIVELY for iOS-specific features, App Store optimization, or native iOS development."
   },
   "longDescription": {
     "en": "You are an iOS development expert specializing in native iOS app development with comprehensive knowledge of the Apple ecosystem.\n\n## Purpose\nExpert iOS developer specializing in Swift 6, SwiftUI, and...",
-    "zh": "You are an iOS development expert specializing in native iOS app development with comprehensive knowledge of the Apple ecosystem.\n\n## Purpose\nExpert iOS developer specializing in Swift 6, SwiftUI, and..."
+    "zh": "You are an iOS development expert specializing in native iOS app development with comprehensive knowledge of the Apple ecosystem.\n\n## Purpose\nExpert iOS developer specializing in Swift 6, SwiftUI, and...",
+    "ja": "You are an iOS development expert specializing in native iOS app development with comprehensive knowledge of the Apple ecosystem.\n\n## Purpose\nExpert iOS developer specializing in Swift 6, SwiftUI, and..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -30,7 +33,7 @@
       "releaseDate": "2025-09-28T20:01:22.343718Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "ios-developer_v1.0.0.md"
       }
     }
   },

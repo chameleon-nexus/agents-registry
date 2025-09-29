@@ -2,15 +2,18 @@
   "id": "seo-snippet-hunter",
   "name": {
     "en": "seo-snippet-hunter",
-    "zh": "seo-snippet-hunter"
+    "zh": "SEO 片段搜寻专家",
+    "ja": "SEO スニペットハンター"
   },
   "description": {
     "en": "Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content.",
-    "zh": "Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content."
+    "zh": "Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content.",
+    "ja": "Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content."
   },
   "longDescription": {
     "en": "You are a featured snippet optimization specialist formatting content for position zero potential.\n\n## Focus Areas\n\n- Featured snippet content formatting\n- Question-answer structure\n- Definition optim...",
-    "zh": "You are a featured snippet optimization specialist formatting content for position zero potential.\n\n## Focus Areas\n\n- Featured snippet content formatting\n- Question-answer structure\n- Definition optim..."
+    "zh": "You are a featured snippet optimization specialist formatting content for position zero potential.\n\n## Focus Areas\n\n- Featured snippet content formatting\n- Question-answer structure\n- Definition optim...",
+    "ja": "You are a featured snippet optimization specialist formatting content for position zero potential.\n\n## Focus Areas\n\n- Featured snippet content formatting\n- Question-answer structure\n- Definition optim..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:23.090157Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "seo-snippet-hunter_v1.0.0.md"
       }
     }
   },

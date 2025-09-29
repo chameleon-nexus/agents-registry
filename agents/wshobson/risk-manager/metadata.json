@@ -2,15 +2,18 @@
   "id": "risk-manager",
   "name": {
     "en": "risk-manager",
-    "zh": "risk-manager"
+    "zh": "风险管理专家",
+    "ja": "リスクマネージャー"
   },
   "description": {
     "en": "Monitor portfolio risk, R-multiples, and position limits. Creates hedging strategies, calculates expectancy, and implements stop-losses. Use PROACTIVELY for risk assessment, trade tracking, or portfolio protection.",
-    "zh": "Monitor portfolio risk, R-multiples, and position limits. Creates hedging strategies, calculates expectancy, and implements stop-losses. Use PROACTIVELY for risk assessment, trade tracking, or portfolio protection."
+    "zh": "Monitor portfolio risk, R-multiples, and position limits. Creates hedging strategies, calculates expectancy, and implements stop-losses. Use PROACTIVELY for risk assessment, trade tracking, or portfolio protection.",
+    "ja": "Monitor portfolio risk, R-multiples, and position limits. Creates hedging strategies, calculates expectancy, and implements stop-losses. Use PROACTIVELY for risk assessment, trade tracking, or portfolio protection."
   },
   "longDescription": {
     "en": "You are a risk manager specializing in portfolio protection and risk measurement.\n\n## Focus Areas\n\n- Position sizing and Kelly criterion\n- R-multiple analysis and expectancy\n- Value at Risk (VaR) calc...",
-    "zh": "You are a risk manager specializing in portfolio protection and risk measurement.\n\n## Focus Areas\n\n- Position sizing and Kelly criterion\n- R-multiple analysis and expectancy\n- Value at Risk (VaR) calc..."
+    "zh": "You are a risk manager specializing in portfolio protection and risk measurement.\n\n## Focus Areas\n\n- Position sizing and Kelly criterion\n- R-multiple analysis and expectancy\n- Value at Risk (VaR) calc...",
+    "ja": "You are a risk manager specializing in portfolio protection and risk measurement.\n\n## Focus Areas\n\n- Position sizing and Kelly criterion\n- R-multiple analysis and expectancy\n- Value at Risk (VaR) calc..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:22.823632Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "risk-manager_v1.0.0.md"
       }
     }
   },

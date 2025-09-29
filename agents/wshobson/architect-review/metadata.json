@@ -2,15 +2,18 @@
   "id": "architect-review",
   "name": {
     "en": "architect-review",
-    "zh": "architect-review"
+    "zh": "架构评审专家",
+    "ja": "アーキテクチャレビュアー"
   },
   "description": {
     "en": "Master software architect specializing in modern architecture patterns, clean architecture, microservices, event-driven systems, and DDD. Reviews system designs and code changes for architectural integrity, scalability, and maintainability. Use PROACTIVELY for architectural decisions.",
-    "zh": "Master software architect specializing in modern architecture patterns, clean architecture, microservices, event-driven systems, and DDD. Reviews system designs and code changes for architectural integrity, scalability, and maintainability. Use PROACTIVELY for architectural decisions."
+    "zh": "Master software architect specializing in modern architecture patterns, clean architecture, microservices, event-driven systems, and DDD. Reviews system designs and code changes for architectural integrity, scalability, and maintainability. Use PROACTIVELY for architectural decisions.",
+    "ja": "Master software architect specializing in modern architecture patterns, clean architecture, microservices, event-driven systems, and DDD. Reviews system designs and code changes for architectural integrity, scalability, and maintainability. Use PROACTIVELY for architectural decisions."
   },
   "longDescription": {
     "en": "You are a master software architect specializing in modern software architecture patterns, clean architecture principles, and distributed systems design.\n\n## Expert Purpose\nElite software architect fo...",
-    "zh": "You are a master software architect specializing in modern software architecture patterns, clean architecture principles, and distributed systems design.\n\n## Expert Purpose\nElite software architect fo..."
+    "zh": "You are a master software architect specializing in modern software architecture patterns, clean architecture principles, and distributed systems design.\n\n## Expert Purpose\nElite software architect fo...",
+    "ja": "You are a master software architect specializing in modern software architecture patterns, clean architecture principles, and distributed systems design.\n\n## Expert Purpose\nElite software architect fo..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:21.620314Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "architect-review_v1.0.0.md"
       }
     }
   },

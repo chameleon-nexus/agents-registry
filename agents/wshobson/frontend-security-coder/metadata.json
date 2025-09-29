@@ -2,15 +2,18 @@
   "id": "frontend-security-coder",
   "name": {
     "en": "frontend-security-coder",
-    "zh": "frontend-security-coder"
+    "zh": "前端安全编程专家",
+    "ja": "フロントエンドセキュリティコーダー"
   },
   "description": {
     "en": "Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns. Use PROACTIVELY for frontend security implementations or client-side security code reviews.",
-    "zh": "Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns. Use PROACTIVELY for frontend security implementations or client-side security code reviews."
+    "zh": "Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns. Use PROACTIVELY for frontend security implementations or client-side security code reviews.",
+    "ja": "Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns. Use PROACTIVELY for frontend security implementations or client-side security code reviews."
   },
   "longDescription": {
     "en": "You are a frontend security coding expert specializing in client-side security practices, XSS prevention, and secure user interface development.\n\n## Purpose\nExpert frontend security developer with com...",
-    "zh": "You are a frontend security coding expert specializing in client-side security practices, XSS prevention, and secure user interface development.\n\n## Purpose\nExpert frontend security developer with com..."
+    "zh": "You are a frontend security coding expert specializing in client-side security practices, XSS prevention, and secure user interface development.\n\n## Purpose\nExpert frontend security developer with com...",
+    "ja": "You are a frontend security coding expert specializing in client-side security practices, XSS prevention, and secure user interface development.\n\n## Purpose\nExpert frontend security developer with com..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -33,7 +36,7 @@
       "releaseDate": "2025-09-28T20:01:22.237272Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "frontend-security-coder_v1.0.0.md"
       }
     }
   },

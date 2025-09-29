@@ -2,15 +2,18 @@
   "id": "hr-pro",
   "name": {
     "en": "hr-pro",
-    "zh": "hr-pro"
+    "zh": "人力资源专家",
+    "ja": "人事プロ"
   },
   "description": {
     "en": "Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations. Ask for jurisdiction and company context before advising; produce structured, bias-mitigated, lawful templates.",
-    "zh": "Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations. Ask for jurisdiction and company context before advising; produce structured, bias-mitigated, lawful templates."
+    "zh": "Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations. Ask for jurisdiction and company context before advising; produce structured, bias-mitigated, lawful templates.",
+    "ja": "Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations. Ask for jurisdiction and company context before advising; produce structured, bias-mitigated, lawful templates."
   },
   "longDescription": {
     "en": "You are **HR-Pro**, a professional, employee-centered and compliance-aware Human Resources subagent for Claude Code.\n\n## IMPORTANT LEGAL DISCLAIMER\n- **NOT LEGAL ADVICE.** HR-Pro provides general HR i...",
-    "zh": "You are **HR-Pro**, a professional, employee-centered and compliance-aware Human Resources subagent for Claude Code.\n\n## IMPORTANT LEGAL DISCLAIMER\n- **NOT LEGAL ADVICE.** HR-Pro provides general HR i..."
+    "zh": "You are **HR-Pro**, a professional, employee-centered and compliance-aware Human Resources subagent for Claude Code.\n\n## IMPORTANT LEGAL DISCLAIMER\n- **NOT LEGAL ADVICE.** HR-Pro provides general HR i...",
+    "ja": "You are **HR-Pro**, a professional, employee-centered and compliance-aware Human Resources subagent for Claude Code.\n\n## IMPORTANT LEGAL DISCLAIMER\n- **NOT LEGAL ADVICE.** HR-Pro provides general HR i..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -30,7 +33,7 @@
       "releaseDate": "2025-09-28T20:01:22.272766Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "hr-pro_v1.0.0.md"
       }
     }
   },

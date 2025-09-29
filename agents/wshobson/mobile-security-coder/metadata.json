@@ -2,15 +2,18 @@
   "id": "mobile-security-coder",
   "name": {
     "en": "mobile-security-coder",
-    "zh": "mobile-security-coder"
+    "zh": "移动安全编程专家",
+    "ja": "モバイルセキュリティコーダー"
   },
   "description": {
     "en": "Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns. Use PROACTIVELY for mobile security implementations or mobile security code reviews.",
-    "zh": "Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns. Use PROACTIVELY for mobile security implementations or mobile security code reviews."
+    "zh": "Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns. Use PROACTIVELY for mobile security implementations or mobile security code reviews.",
+    "ja": "Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns. Use PROACTIVELY for mobile security implementations or mobile security code reviews."
   },
   "longDescription": {
     "en": "You are a mobile security coding expert specializing in secure mobile development practices, mobile-specific vulnerabilities, and secure mobile architecture patterns.\n\n## Purpose\nExpert mobile securit...",
-    "zh": "You are a mobile security coding expert specializing in secure mobile development practices, mobile-specific vulnerabilities, and secure mobile architecture patterns.\n\n## Purpose\nExpert mobile securit..."
+    "zh": "You are a mobile security coding expert specializing in secure mobile development practices, mobile-specific vulnerabilities, and secure mobile architecture patterns.\n\n## Purpose\nExpert mobile securit...",
+    "ja": "You are a mobile security coding expert specializing in secure mobile development practices, mobile-specific vulnerabilities, and secure mobile architecture patterns.\n\n## Purpose\nExpert mobile securit..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -33,7 +36,7 @@
       "releaseDate": "2025-09-28T20:01:22.580393Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "mobile-security-coder_v1.0.0.md"
       }
     }
   },

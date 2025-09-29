@@ -2,15 +2,18 @@
   "id": "elixir-pro",
   "name": {
     "en": "elixir-pro",
-    "zh": "elixir-pro"
+    "zh": "Elixir 专家",
+    "ja": "Elixir プロ"
   },
   "description": {
     "en": "Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems. Use PROACTIVELY for Elixir refactoring, OTP design, or complex BEAM optimizations.",
-    "zh": "Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems. Use PROACTIVELY for Elixir refactoring, OTP design, or complex BEAM optimizations."
+    "zh": "Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems. Use PROACTIVELY for Elixir refactoring, OTP design, or complex BEAM optimizations.",
+    "ja": "Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems. Use PROACTIVELY for Elixir refactoring, OTP design, or complex BEAM optimizations."
   },
   "longDescription": {
     "en": "You are an Elixir expert specializing in concurrent, fault-tolerant, and distributed systems.\n\n## Focus Areas\n\n- OTP patterns (GenServer, Supervisor, Application)\n- Phoenix framework and LiveView real...",
-    "zh": "You are an Elixir expert specializing in concurrent, fault-tolerant, and distributed systems.\n\n## Focus Areas\n\n- OTP patterns (GenServer, Supervisor, Application)\n- Phoenix framework and LiveView real..."
+    "zh": "You are an Elixir expert specializing in concurrent, fault-tolerant, and distributed systems.\n\n## Focus Areas\n\n- OTP patterns (GenServer, Supervisor, Application)\n- Phoenix framework and LiveView real...",
+    "ja": "You are an Elixir expert specializing in concurrent, fault-tolerant, and distributed systems.\n\n## Focus Areas\n\n- OTP patterns (GenServer, Supervisor, Application)\n- Phoenix framework and LiveView real..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -30,7 +33,7 @@
       "releaseDate": "2025-09-28T20:01:22.122737Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "elixir-pro_v1.0.0.md"
       }
     }
   },

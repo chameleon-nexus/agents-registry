@@ -1,0 +1,197 @@
+{
+  "category": "machine-learning",
+  "name": {
+    "en": "Machine Learning & AI",
+    "zh": "机器学习与人工智能",
+    "ja": "機械学習・AI"
+  },
+  "description": {
+    "en": "ML pipelines, AI applications, and prompt engineering",
+    "zh": "ML管道、AI应用和提示工程",
+    "ja": "MLパイプライン、AIアプリケーション、プロンプトエンジニアリング"
+  },
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 4,
+  "agents": [
+    {
+      "id": "prompt-engineer",
+      "author": "wshobson",
+      "name": {
+        "en": "prompt-engineer",
+        "zh": "prompt-engineer",
+        "ja": "prompt-engineer"
+      },
+      "description": {
+        "en": "Expert prompt engineer specializing in advanced prompting techniques, LLM optimization, and AI system design. Masters chain-of-thought, constitutional AI, and production prompt strategies. Use when building AI features, improving agent performance, or crafting system prompts.",
+        "zh": "Expert prompt engineer specializing in advanced prompting techniques, LLM optimization, and AI system design. Masters chain-of-thought, constitutional AI, and production prompt strategies. Use when building AI features, improving agent performance, or crafting system prompts.",
+        "ja": "Expert prompt engineer specializing in advanced prompting techniques, LLM optimization, and AI system design. Masters chain-of-thought, constitutional AI, and production prompt strategies. Use when building AI features, improving agent performance, or crafting system prompts."
+      },
+      "category": "debugging",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.729614Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "prompt-engineer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.7,
+      "downloads": 1955,
+      "createdAt": "2025-09-28T20:01:22.729624Z",
+      "updatedAt": "2025-09-28T20:01:22.729625Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "prompt-engineer_v1.0.0.md"
+      }
+    },
+    {
+      "id": "ml-engineer",
+      "author": "wshobson",
+      "name": {
+        "en": "ml-engineer",
+        "zh": "ml-engineer",
+        "ja": "ml-engineer"
+      },
+      "description": {
+        "en": "Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks. Implements model serving, feature engineering, A/B testing, and monitoring. Use PROACTIVELY for ML model deployment, inference optimization, or production ML infrastructure.",
+        "zh": "Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks. Implements model serving, feature engineering, A/B testing, and monitoring. Use PROACTIVELY for ML model deployment, inference optimization, or production ML infrastructure.",
+        "ja": "Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks. Implements model serving, feature engineering, A/B testing, and monitoring. Use PROACTIVELY for ML model deployment, inference optimization, or production ML infrastructure."
+      },
+      "category": "debugging",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.514147Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "ml-engineer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.5,
+      "downloads": 1546,
+      "createdAt": "2025-09-28T20:01:22.514157Z",
+      "updatedAt": "2025-09-28T20:01:22.514158Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "ml-engineer_v1.0.0.md"
+      }
+    },
+    {
+      "id": "mlops-engineer",
+      "author": "wshobson",
+      "name": {
+        "en": "mlops-engineer",
+        "zh": "mlops-engineer",
+        "ja": "mlops-engineer"
+      },
+      "description": {
+        "en": "Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, and modern MLOps tools. Implements automated training, deployment, and monitoring across cloud platforms. Use PROACTIVELY for ML infrastructure, experiment management, or pipeline automation.",
+        "zh": "Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, and modern MLOps tools. Implements automated training, deployment, and monitoring across cloud platforms. Use PROACTIVELY for ML infrastructure, experiment management, or pipeline automation.",
+        "ja": "Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, and modern MLOps tools. Implements automated training, deployment, and monitoring across cloud platforms. Use PROACTIVELY for ML infrastructure, experiment management, or pipeline automation."
+      },
+      "category": "debugging",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.543302Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "mlops-engineer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.9,
+      "downloads": 976,
+      "createdAt": "2025-09-28T20:01:22.543309Z",
+      "updatedAt": "2025-09-28T20:01:22.543311Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "mlops-engineer_v1.0.0.md"
+      }
+    },
+    {
+      "id": "ai-engineer",
+      "author": "wshobson",
+      "name": {
+        "en": "ai-engineer",
+        "zh": "AI 工程师",
+        "ja": "AI エンジニア"
+      },
+      "description": {
+        "en": "Build production-ready LLM applications, advanced RAG systems, and intelligent agents. Implements vector search, multimodal AI, agent orchestration, and enterprise AI integrations. Use PROACTIVELY for LLM features, chatbots, AI agents, or AI-powered applications.",
+        "zh": "构建生产级 LLM 应用程序、高级 RAG 系统和智能代理。实现向量搜索、多模态 AI、代理编排和企业 AI 集成。主动用于 LLM 功能、聊天机器人、AI 代理或 AI 驱动的应用程序。",
+        "ja": "本番対応の LLM アプリケーション、高度な RAG システム、インテリジェントエージェントを構築。ベクトル検索、マルチモーダル AI、エージェント オーケストレーション、エンタープライズ AI 統合を実装。LLM 機能、チャットボット、AI エージェント、AI を活用したアプリケーションに積極的に使用。"
+      },
+      "category": "debugging",
+      "tags": [
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:21.586835Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "ai-engineer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.2,
+      "downloads": 299,
+      "createdAt": "2025-09-28T20:01:21.586856Z",
+      "updatedAt": "2025-09-28T20:01:21.586857Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "ai-engineer_v1.0.0.md"
+      }
+    }
+  ]
+}

@@ -2,15 +2,18 @@
   "id": "error-detective",
   "name": {
     "en": "error-detective",
-    "zh": "error-detective"
+    "zh": "错误检测专家",
+    "ja": "エラー探偵"
   },
   "description": {
     "en": "Search logs and codebases for error patterns, stack traces, and anomalies. Correlates errors across systems and identifies root causes. Use PROACTIVELY when debugging issues, analyzing logs, or investigating production errors.",
-    "zh": "Search logs and codebases for error patterns, stack traces, and anomalies. Correlates errors across systems and identifies root causes. Use PROACTIVELY when debugging issues, analyzing logs, or investigating production errors."
+    "zh": "Search logs and codebases for error patterns, stack traces, and anomalies. Correlates errors across systems and identifies root causes. Use PROACTIVELY when debugging issues, analyzing logs, or investigating production errors.",
+    "ja": "Search logs and codebases for error patterns, stack traces, and anomalies. Correlates errors across systems and identifies root causes. Use PROACTIVELY when debugging issues, analyzing logs, or investigating production errors."
   },
   "longDescription": {
     "en": "You are an error detective specializing in log analysis and pattern recognition.\n\n## Focus Areas\n- Log parsing and error extraction (regex patterns)\n- Stack trace analysis across languages\n- Error cor...",
-    "zh": "You are an error detective specializing in log analysis and pattern recognition.\n\n## Focus Areas\n- Log parsing and error extraction (regex patterns)\n- Stack trace analysis across languages\n- Error cor..."
+    "zh": "You are an error detective specializing in log analysis and pattern recognition.\n\n## Focus Areas\n- Log parsing and error extraction (regex patterns)\n- Stack trace analysis across languages\n- Error cor...",
+    "ja": "You are an error detective specializing in log analysis and pattern recognition.\n\n## Focus Areas\n- Log parsing and error extraction (regex patterns)\n- Stack trace analysis across languages\n- Error cor..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -30,7 +33,7 @@
       "releaseDate": "2025-09-28T20:01:22.125667Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "error-detective_v1.0.0.md"
       }
     }
   },

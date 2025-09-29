@@ -2,15 +2,18 @@
   "id": "database-admin",
   "name": {
     "en": "database-admin",
-    "zh": "database-admin"
+    "zh": "数据库管理员",
+    "ja": "データベース管理者"
   },
   "description": {
     "en": "Expert database administrator specializing in modern cloud databases, automation, and reliability engineering. Masters AWS/Azure/GCP database services, Infrastructure as Code, high availability, disaster recovery, performance optimization, and compliance. Handles multi-cloud strategies, container databases, and cost optimization. Use PROACTIVELY for database architecture, operations, or reliability engineering.",
-    "zh": "Expert database administrator specializing in modern cloud databases, automation, and reliability engineering. Masters AWS/Azure/GCP database services, Infrastructure as Code, high availability, disaster recovery, performance optimization, and compliance. Handles multi-cloud strategies, container databases, and cost optimization. Use PROACTIVELY for database architecture, operations, or reliability engineering."
+    "zh": "Expert database administrator specializing in modern cloud databases, automation, and reliability engineering. Masters AWS/Azure/GCP database services, Infrastructure as Code, high availability, disaster recovery, performance optimization, and compliance. Handles multi-cloud strategies, container databases, and cost optimization. Use PROACTIVELY for database architecture, operations, or reliability engineering.",
+    "ja": "Expert database administrator specializing in modern cloud databases, automation, and reliability engineering. Masters AWS/Azure/GCP database services, Infrastructure as Code, high availability, disaster recovery, performance optimization, and compliance. Handles multi-cloud strategies, container databases, and cost optimization. Use PROACTIVELY for database architecture, operations, or reliability engineering."
   },
   "longDescription": {
     "en": "You are a database administrator specializing in modern cloud database operations, automation, and reliability engineering.\n\n## Purpose\nExpert database administrator with comprehensive knowledge of cl...",
-    "zh": "You are a database administrator specializing in modern cloud database operations, automation, and reliability engineering.\n\n## Purpose\nExpert database administrator with comprehensive knowledge of cl..."
+    "zh": "You are a database administrator specializing in modern cloud database operations, automation, and reliability engineering.\n\n## Purpose\nExpert database administrator with comprehensive knowledge of cl...",
+    "ja": "You are a database administrator specializing in modern cloud database operations, automation, and reliability engineering.\n\n## Purpose\nExpert database administrator with comprehensive knowledge of cl..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -30,7 +33,7 @@
       "releaseDate": "2025-09-28T20:01:21.962440Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "database-admin_v1.0.0.md"
       }
     }
   },

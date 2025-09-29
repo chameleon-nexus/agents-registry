@@ -2,15 +2,18 @@
   "id": "prompt-engineer",
   "name": {
     "en": "prompt-engineer",
-    "zh": "prompt-engineer"
+    "zh": "提示词工程师",
+    "ja": "プロンプトエンジニア"
   },
   "description": {
     "en": "Expert prompt engineer specializing in advanced prompting techniques, LLM optimization, and AI system design. Masters chain-of-thought, constitutional AI, and production prompt strategies. Use when building AI features, improving agent performance, or crafting system prompts.",
-    "zh": "Expert prompt engineer specializing in advanced prompting techniques, LLM optimization, and AI system design. Masters chain-of-thought, constitutional AI, and production prompt strategies. Use when building AI features, improving agent performance, or crafting system prompts."
+    "zh": "Expert prompt engineer specializing in advanced prompting techniques, LLM optimization, and AI system design. Masters chain-of-thought, constitutional AI, and production prompt strategies. Use when building AI features, improving agent performance, or crafting system prompts.",
+    "ja": "Expert prompt engineer specializing in advanced prompting techniques, LLM optimization, and AI system design. Masters chain-of-thought, constitutional AI, and production prompt strategies. Use when building AI features, improving agent performance, or crafting system prompts."
   },
   "longDescription": {
     "en": "You are an expert prompt engineer specializing in crafting effective prompts for LLMs and optimizing AI system performance through advanced prompting techniques.\n\nIMPORTANT: When creating prompts, ALW...",
-    "zh": "You are an expert prompt engineer specializing in crafting effective prompts for LLMs and optimizing AI system performance through advanced prompting techniques.\n\nIMPORTANT: When creating prompts, ALW..."
+    "zh": "You are an expert prompt engineer specializing in crafting effective prompts for LLMs and optimizing AI system performance through advanced prompting techniques.\n\nIMPORTANT: When creating prompts, ALW...",
+    "ja": "You are an expert prompt engineer specializing in crafting effective prompts for LLMs and optimizing AI system performance through advanced prompting techniques.\n\nIMPORTANT: When creating prompts, ALW..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:22.729614Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "prompt-engineer_v1.0.0.md"
       }
     }
   },

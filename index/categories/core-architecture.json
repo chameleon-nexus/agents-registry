@@ -1,0 +1,331 @@
+{
+  "category": "core-architecture",
+  "name": {
+    "en": "Core Architecture",
+    "zh": "核心架构",
+    "ja": "コアアーキテクチャ"
+  },
+  "description": {
+    "en": "Backend APIs, system architecture, and cloud infrastructure design",
+    "zh": "后端API、系统架构和云基础设施设计",
+    "ja": "バックエンドAPI、システムアーキテクチャ、クラウドインフラ設計"
+  },
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 7,
+  "agents": [
+    {
+      "id": "cloud-architect",
+      "author": "wshobson",
+      "name": {
+        "en": "cloud-architect",
+        "zh": "cloud-architect",
+        "ja": "cloud-architect"
+      },
+      "description": {
+        "en": "Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC (Terraform/OpenTofu/CDK), FinOps cost optimization, and modern architectural patterns. Masters serverless, microservices, security, compliance, and disaster recovery. Use PROACTIVELY for cloud architecture, cost optimization, migration planning, or multi-cloud strategies.",
+        "zh": "Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC (Terraform/OpenTofu/CDK), FinOps cost optimization, and modern architectural patterns. Masters serverless, microservices, security, compliance, and disaster recovery. Use PROACTIVELY for cloud architecture, cost optimization, migration planning, or multi-cloud strategies.",
+        "ja": "Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC (Terraform/OpenTofu/CDK), FinOps cost optimization, and modern architectural patterns. Masters serverless, microservices, security, compliance, and disaster recovery. Use PROACTIVELY for cloud architecture, cost optimization, migration planning, or multi-cloud strategies."
+      },
+      "category": "data",
+      "tags": [
+        "security"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:21.738373Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "cloud-architect_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.6,
+      "downloads": 1240,
+      "createdAt": "2025-09-28T20:01:21.738391Z",
+      "updatedAt": "2025-09-28T20:01:21.738392Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "cloud-architect_v1.0.0.md"
+      }
+    },
+    {
+      "id": "kubernetes-architect",
+      "author": "wshobson",
+      "name": {
+        "en": "kubernetes-architect",
+        "zh": "kubernetes-architect",
+        "ja": "kubernetes-architect"
+      },
+      "description": {
+        "en": "Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (ArgoCD/Flux), and enterprise container orchestration. Masters EKS/AKS/GKE, service mesh (Istio/Linkerd), progressive delivery, multi-tenancy, and platform engineering. Handles security, observability, cost optimization, and developer experience. Use PROACTIVELY for K8s architecture, GitOps implementation, or cloud-native platform design.",
+        "zh": "Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (ArgoCD/Flux), and enterprise container orchestration. Masters EKS/AKS/GKE, service mesh (Istio/Linkerd), progressive delivery, multi-tenancy, and platform engineering. Handles security, observability, cost optimization, and developer experience. Use PROACTIVELY for K8s architecture, GitOps implementation, or cloud-native platform design.",
+        "ja": "Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (ArgoCD/Flux), and enterprise container orchestration. Masters EKS/AKS/GKE, service mesh (Istio/Linkerd), progressive delivery, multi-tenancy, and platform engineering. Handles security, observability, cost optimization, and developer experience. Use PROACTIVELY for K8s architecture, GitOps implementation, or cloud-native platform design."
+      },
+      "category": "data",
+      "tags": [
+        "security"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.399932Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "kubernetes-architect_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.7,
+      "downloads": 760,
+      "createdAt": "2025-09-28T20:01:22.399949Z",
+      "updatedAt": "2025-09-28T20:01:22.399950Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "kubernetes-architect_v1.0.0.md"
+      }
+    },
+    {
+      "id": "frontend-developer",
+      "author": "wshobson",
+      "name": {
+        "en": "frontend-developer",
+        "zh": "frontend-developer",
+        "ja": "frontend-developer"
+      },
+      "description": {
+        "en": "Build React components, implement responsive layouts, and handle client-side state management. Masters React 19, Next.js 15, and modern frontend architecture. Optimizes performance and ensures accessibility. Use PROACTIVELY when creating UI components or fixing frontend issues.",
+        "zh": "构建 React 组件，实现响应式布局，处理客户端状态管理。精通 React 19、Next.js 15 和现代前端架构。优化性能并确保可访问性。在创建 UI 组件或修复前端问题时主动使用。",
+        "ja": "React コンポーネントを構築し、レスポンシブレイアウトを実装し、クライアントサイド状態管理を処理。React 19、Next.js 15、モダンフロントエンドアーキテクチャをマスター。パフォーマンスを最適化し、アクセシビリティを確保。UI コンポーネントの作成やフロントエンドの問題修正時に積極的に使用。"
+      },
+      "category": "debugging",
+      "tags": [
+        "javascript",
+        "typescript"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.211365Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "frontend-developer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.3,
+      "downloads": 635,
+      "createdAt": "2025-09-28T20:01:22.211383Z",
+      "updatedAt": "2025-09-28T20:01:22.211384Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "frontend-developer_v1.0.0.md"
+      }
+    },
+    {
+      "id": "hybrid-cloud-architect",
+      "author": "wshobson",
+      "name": {
+        "en": "hybrid-cloud-architect",
+        "zh": "hybrid-cloud-architect",
+        "ja": "hybrid-cloud-architect"
+      },
+      "description": {
+        "en": "Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware). Masters hybrid connectivity, workload placement optimization, edge computing, and cross-cloud automation. Handles compliance, cost optimization, disaster recovery, and migration strategies. Use PROACTIVELY for hybrid architecture, multi-cloud strategy, or complex infrastructure integration.",
+        "zh": "Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware). Masters hybrid connectivity, workload placement optimization, edge computing, and cross-cloud automation. Handles compliance, cost optimization, disaster recovery, and migration strategies. Use PROACTIVELY for hybrid architecture, multi-cloud strategy, or complex infrastructure integration.",
+        "ja": "Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware). Masters hybrid connectivity, workload placement optimization, edge computing, and cross-cloud automation. Handles compliance, cost optimization, disaster recovery, and migration strategies. Use PROACTIVELY for hybrid architecture, multi-cloud strategy, or complex infrastructure integration."
+      },
+      "category": "data",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.297201Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "hybrid-cloud-architect_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.4,
+      "downloads": 621,
+      "createdAt": "2025-09-28T20:01:22.297218Z",
+      "updatedAt": "2025-09-28T20:01:22.297219Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "hybrid-cloud-architect_v1.0.0.md"
+      }
+    },
+    {
+      "id": "architect-review",
+      "author": "wshobson",
+      "name": {
+        "en": "architect-review",
+        "zh": "architect-review",
+        "ja": "architect-review"
+      },
+      "description": {
+        "en": "Master software architect specializing in modern architecture patterns, clean architecture, microservices, event-driven systems, and DDD. Reviews system designs and code changes for architectural integrity, scalability, and maintainability. Use PROACTIVELY for architectural decisions.",
+        "zh": "Master software architect specializing in modern architecture patterns, clean architecture, microservices, event-driven systems, and DDD. Reviews system designs and code changes for architectural integrity, scalability, and maintainability. Use PROACTIVELY for architectural decisions.",
+        "ja": "Master software architect specializing in modern architecture patterns, clean architecture, microservices, event-driven systems, and DDD. Reviews system designs and code changes for architectural integrity, scalability, and maintainability. Use PROACTIVELY for architectural decisions."
+      },
+      "category": "data",
+      "tags": [
+        "code-review"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:21.620314Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "architect-review_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.1,
+      "downloads": 529,
+      "createdAt": "2025-09-28T20:01:21.620320Z",
+      "updatedAt": "2025-09-28T20:01:21.620321Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "architect-review_v1.0.0.md"
+      }
+    },
+    {
+      "id": "graphql-architect",
+      "author": "wshobson",
+      "name": {
+        "en": "graphql-architect",
+        "zh": "graphql-architect",
+        "ja": "graphql-architect"
+      },
+      "description": {
+        "en": "Master modern GraphQL with federation, performance optimization, and enterprise security. Build scalable schemas, implement advanced caching, and design real-time systems. Use PROACTIVELY for GraphQL architecture or performance optimization.",
+        "zh": "Master modern GraphQL with federation, performance optimization, and enterprise security. Build scalable schemas, implement advanced caching, and design real-time systems. Use PROACTIVELY for GraphQL architecture or performance optimization.",
+        "ja": "Master modern GraphQL with federation, performance optimization, and enterprise security. Build scalable schemas, implement advanced caching, and design real-time systems. Use PROACTIVELY for GraphQL architecture or performance optimization."
+      },
+      "category": "debugging",
+      "tags": [
+        "security"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:22.269269Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "graphql-architect_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.3,
+      "downloads": 460,
+      "createdAt": "2025-09-28T20:01:22.269283Z",
+      "updatedAt": "2025-09-28T20:01:22.269285Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "graphql-architect_v1.0.0.md"
+      }
+    },
+    {
+      "id": "backend-architect",
+      "author": "wshobson",
+      "name": {
+        "en": "backend-architect",
+        "zh": "backend-architect",
+        "ja": "backend-architect"
+      },
+      "description": {
+        "en": "Design RESTful APIs, microservice boundaries, and database schemas. Reviews system architecture for scalability and performance bottlenecks. Use PROACTIVELY when creating new backend services or APIs.",
+        "zh": "设计 RESTful API、微服务边界和数据库模式。审查系统架构的可扩展性和性能瓶颈。在创建新的后端服务或 API 时主动使用。",
+        "ja": "RESTful API、マイクロサービス境界、データベーススキーマを設計。スケーラビリティとパフォーマンスボトルネックのシステムアーキテクチャをレビュー。新しいバックエンドサービスや API を作成する際に積極的に使用。"
+      },
+      "category": "debugging",
+      "tags": [
+        "code-review"
+      ],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:21.641737Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "backend-architect_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 3.8,
+      "downloads": 362,
+      "createdAt": "2025-09-28T20:01:21.641761Z",
+      "updatedAt": "2025-09-28T20:01:21.641762Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "backend-architect_v1.0.0.md"
+      }
+    }
+  ]
+}

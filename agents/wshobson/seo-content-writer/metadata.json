@@ -2,15 +2,18 @@
   "id": "seo-content-writer",
   "name": {
     "en": "seo-content-writer",
-    "zh": "seo-content-writer"
+    "zh": "SEO 内容撰写专家",
+    "ja": "SEO コンテンツライター"
   },
   "description": {
     "en": "Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks.",
-    "zh": "Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks."
+    "zh": "Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks.",
+    "ja": "Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks."
   },
   "longDescription": {
     "en": "You are an SEO content writer creating comprehensive, engaging content optimized for search and users.\n\n## Focus Areas\n\n- Comprehensive topic coverage\n- Natural keyword integration\n- Engaging introduc...",
-    "zh": "You are an SEO content writer creating comprehensive, engaging content optimized for search and users.\n\n## Focus Areas\n\n- Comprehensive topic coverage\n- Natural keyword integration\n- Engaging introduc..."
+    "zh": "You are an SEO content writer creating comprehensive, engaging content optimized for search and users.\n\n## Focus Areas\n\n- Comprehensive topic coverage\n- Natural keyword integration\n- Engaging introduc...",
+    "ja": "You are an SEO content writer creating comprehensive, engaging content optimized for search and users.\n\n## Focus Areas\n\n- Comprehensive topic coverage\n- Natural keyword integration\n- Engaging introduc..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -30,7 +33,7 @@
       "releaseDate": "2025-09-28T20:01:23.063316Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "seo-content-writer_v1.0.0.md"
       }
     }
   },

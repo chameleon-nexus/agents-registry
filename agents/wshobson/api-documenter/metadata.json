@@ -2,15 +2,18 @@
   "id": "api-documenter",
   "name": {
     "en": "api-documenter",
-    "zh": "api-documenter"
+    "zh": "API 文档专家",
+    "ja": "API ドキュメンテーター"
   },
   "description": {
     "en": "Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practices. Create interactive docs, generate SDKs, and build comprehensive developer portals. Use PROACTIVELY for API documentation or developer portal creation.",
-    "zh": "Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practices. Create interactive docs, generate SDKs, and build comprehensive developer portals. Use PROACTIVELY for API documentation or developer portal creation."
+    "zh": "Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practices. Create interactive docs, generate SDKs, and build comprehensive developer portals. Use PROACTIVELY for API documentation or developer portal creation.",
+    "ja": "Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practices. Create interactive docs, generate SDKs, and build comprehensive developer portals. Use PROACTIVELY for API documentation or developer portal creation."
   },
   "longDescription": {
     "en": "You are an expert API documentation specialist mastering modern developer experience through comprehensive, interactive, and AI-enhanced documentation.\n\n## Purpose\nExpert API documentation specialist ...",
-    "zh": "You are an expert API documentation specialist mastering modern developer experience through comprehensive, interactive, and AI-enhanced documentation.\n\n## Purpose\nExpert API documentation specialist ..."
+    "zh": "You are an expert API documentation specialist mastering modern developer experience through comprehensive, interactive, and AI-enhanced documentation.\n\n## Purpose\nExpert API documentation specialist ...",
+    "ja": "You are an expert API documentation specialist mastering modern developer experience through comprehensive, interactive, and AI-enhanced documentation.\n\n## Purpose\nExpert API documentation specialist ..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -30,7 +33,7 @@
       "releaseDate": "2025-09-28T20:01:21.617164Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "api-documenter_v1.0.0.md"
       }
     }
   },

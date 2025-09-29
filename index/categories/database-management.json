@@ -1,0 +1,103 @@
+{
+  "category": "database-management",
+  "name": {
+    "en": "Database Management",
+    "zh": "数据库管理",
+    "ja": "データベース管理"
+  },
+  "description": {
+    "en": "Database optimization, administration, and performance tuning",
+    "zh": "数据库优化、管理和性能调优",
+    "ja": "データベース最適化、管理、パフォーマンスチューニング"
+  },
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 2,
+  "agents": [
+    {
+      "id": "database-optimizer",
+      "author": "wshobson",
+      "name": {
+        "en": "database-optimizer",
+        "zh": "database-optimizer",
+        "ja": "database-optimizer"
+      },
+      "description": {
+        "en": "Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures. Masters advanced indexing, N+1 resolution, multi-tier caching, partitioning strategies, and cloud database optimization. Handles complex query analysis, migration strategies, and performance monitoring. Use PROACTIVELY for database optimization, performance issues, or scalability challenges.",
+        "zh": "Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures. Masters advanced indexing, N+1 resolution, multi-tier caching, partitioning strategies, and cloud database optimization. Handles complex query analysis, migration strategies, and performance monitoring. Use PROACTIVELY for database optimization, performance issues, or scalability challenges.",
+        "ja": "Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures. Masters advanced indexing, N+1 resolution, multi-tier caching, partitioning strategies, and cloud database optimization. Handles complex query analysis, migration strategies, and performance monitoring. Use PROACTIVELY for database optimization, performance issues, or scalability challenges."
+      },
+      "category": "data",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:21.983101Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "database-optimizer_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.2,
+      "downloads": 942,
+      "createdAt": "2025-09-28T20:01:21.983110Z",
+      "updatedAt": "2025-09-28T20:01:21.983111Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "database-optimizer_v1.0.0.md"
+      }
+    },
+    {
+      "id": "database-admin",
+      "author": "wshobson",
+      "name": {
+        "en": "database-admin",
+        "zh": "database-admin",
+        "ja": "database-admin"
+      },
+      "description": {
+        "en": "Expert database administrator specializing in modern cloud databases, automation, and reliability engineering. Masters AWS/Azure/GCP database services, Infrastructure as Code, high availability, disaster recovery, performance optimization, and compliance. Handles multi-cloud strategies, container databases, and cost optimization. Use PROACTIVELY for database architecture, operations, or reliability engineering.",
+        "zh": "Expert database administrator specializing in modern cloud databases, automation, and reliability engineering. Masters AWS/Azure/GCP database services, Infrastructure as Code, high availability, disaster recovery, performance optimization, and compliance. Handles multi-cloud strategies, container databases, and cost optimization. Use PROACTIVELY for database architecture, operations, or reliability engineering.",
+        "ja": "Expert database administrator specializing in modern cloud databases, automation, and reliability engineering. Masters AWS/Azure/GCP database services, Infrastructure as Code, high availability, disaster recovery, performance optimization, and compliance. Handles multi-cloud strategies, container databases, and cost optimization. Use PROACTIVELY for database architecture, operations, or reliability engineering."
+      },
+      "category": "debugging",
+      "tags": [],
+      "compatibility": {
+        "claudeCode": {
+          "minVersion": "1.0.0",
+          "tested": [
+            "1.0.0"
+          ]
+        }
+      },
+      "version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "releaseDate": "2025-09-28T20:01:21.962440Z",
+          "changes": "Imported from agents-main project",
+          "files": {
+            "agent": "database-admin_v1.0.0.md"
+          }
+        }
+      },
+      "rating": 4.4,
+      "downloads": 344,
+      "createdAt": "2025-09-28T20:01:21.962470Z",
+      "updatedAt": "2025-09-28T20:01:21.962471Z",
+      "license": "MIT",
+      "homepage": "https://github.com/wshobson/agents",
+      "files": {
+        "latest": "database-admin_v1.0.0.md"
+      }
+    }
+  ]
+}

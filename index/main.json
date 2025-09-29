@@ -1,0 +1,314 @@
+{
+  "version": "2.0.0",
+  "lastUpdated": "2025-09-29T03:10:00Z",
+  "totalAgents": 84,
+  "languages": ["en", "zh", "ja"],
+  "categories": {
+    "core-architecture": {
+      "count": 7,
+      "url": "index/categories/core-architecture.json",
+      "name": {
+        "en": "Core Architecture",
+        "zh": "核心架构",
+        "ja": "コアアーキテクチャ"
+      },
+      "description": {
+        "en": "Backend APIs, system architecture, and cloud infrastructure design",
+        "zh": "后端API、系统架构和云基础设施设计",
+        "ja": "バックエンドAPI、システムアーキテクチャ、クラウドインフラ設計"
+      }
+    },
+    "ui-mobile": {
+      "count": 5,
+      "url": "index/categories/ui-mobile.json",
+      "name": {
+        "en": "UI/UX & Mobile",
+        "zh": "UI/UX与移动端",
+        "ja": "UI/UX・モバイル"
+      },
+      "description": {
+        "en": "User interface design, mobile development, and visual validation",
+        "zh": "用户界面设计、移动开发和视觉验证",
+        "ja": "ユーザーインターフェース設計、モバイル開発、ビジュアル検証"
+      }
+    },
+    "systems-programming": {
+      "count": 4,
+      "url": "index/categories/systems-programming.json",
+      "name": {
+        "en": "Systems & Low-Level Programming",
+        "zh": "系统与底层编程",
+        "ja": "システム・低レベルプログラミング"
+      },
+      "description": {
+        "en": "System programming, memory management, and performance-critical applications",
+        "zh": "系统编程、内存管理和性能关键应用",
+        "ja": "システムプログラミング、メモリ管理、パフォーマンス重視アプリケーション"
+      }
+    },
+    "web-programming": {
+      "count": 5,
+      "url": "index/categories/web-programming.json",
+      "name": {
+        "en": "Web & Application Programming",
+        "zh": "Web与应用程序编程",
+        "ja": "Web・アプリケーションプログラミング"
+      },
+      "description": {
+        "en": "Modern web development with JavaScript, Python, and other dynamic languages",
+        "zh": "使用JavaScript、Python等动态语言进行现代Web开发",
+        "ja": "JavaScript、Pythonなどの動的言語によるモダンWeb開発"
+      }
+    },
+    "enterprise-programming": {
+      "count": 3,
+      "url": "index/categories/enterprise-programming.json",
+      "name": {
+        "en": "Enterprise & JVM Programming",
+        "zh": "企业与JVM编程",
+        "ja": "エンタープライズ・JVMプログラミング"
+      },
+      "description": {
+        "en": "Enterprise-grade development with Java, Scala, and .NET platforms",
+        "zh": "使用Java、Scala和.NET平台进行企业级开发",
+        "ja": "Java、Scala、.NETプラットフォームによるエンタープライズ開発"
+      }
+    },
+    "specialized-platforms": {
+      "count": 4,
+      "url": "index/categories/specialized-platforms.json",
+      "name": {
+        "en": "Specialized Platforms",
+        "zh": "专业平台",
+        "ja": "専門プラットフォーム"
+      },
+      "description": {
+        "en": "Domain-specific programming platforms and frameworks",
+        "zh": "特定领域的编程平台和框架",
+        "ja": "ドメイン固有のプログラミングプラットフォームとフレームワーク"
+      }
+    },
+    "devops-deployment": {
+      "count": 4,
+      "url": "index/categories/devops-deployment.json",
+      "name": {
+        "en": "DevOps & Deployment",
+        "zh": "DevOps与部署",
+        "ja": "DevOps・デプロイメント"
+      },
+      "description": {
+        "en": "CI/CD pipelines, containerization, and infrastructure automation",
+        "zh": "CI/CD管道、容器化和基础设施自动化",
+        "ja": "CI/CDパイプライン、コンテナ化、インフラ自動化"
+      }
+    },
+    "database-management": {
+      "count": 2,
+      "url": "index/categories/database-management.json",
+      "name": {
+        "en": "Database Management",
+        "zh": "数据库管理",
+        "ja": "データベース管理"
+      },
+      "description": {
+        "en": "Database optimization, administration, and performance tuning",
+        "zh": "数据库优化、管理和性能调优",
+        "ja": "データベース最適化、管理、パフォーマンスチューニング"
+      }
+    },
+    "incident-network": {
+      "count": 2,
+      "url": "index/categories/incident-network.json",
+      "name": {
+        "en": "Incident Response & Network",
+        "zh": "事件响应与网络",
+        "ja": "インシデント対応・ネットワーク"
+      },
+      "description": {
+        "en": "Production incident management and network operations",
+        "zh": "生产事件管理和网络运维",
+        "ja": "本番インシデント管理とネットワーク運用"
+      }
+    },
+    "code-quality": {
+      "count": 5,
+      "url": "index/categories/code-quality.json",
+      "name": {
+        "en": "Code Quality & Review",
+        "zh": "代码质量与审查",
+        "ja": "コード品質・レビュー"
+      },
+      "description": {
+        "en": "Code review, security auditing, and best practices enforcement",
+        "zh": "代码审查、安全审计和最佳实践执行",
+        "ja": "コードレビュー、セキュリティ監査、ベストプラクティス実施"
+      }
+    },
+    "testing-debugging": {
+      "count": 4,
+      "url": "index/categories/testing-debugging.json",
+      "name": {
+        "en": "Testing & Debugging",
+        "zh": "测试与调试",
+        "ja": "テスト・デバッグ"
+      },
+      "description": {
+        "en": "Test automation, debugging, and error analysis",
+        "zh": "测试自动化、调试和错误分析",
+        "ja": "テスト自動化、デバッグ、エラー解析"
+      }
+    },
+    "performance-observability": {
+      "count": 3,
+      "url": "index/categories/performance-observability.json",
+      "name": {
+        "en": "Performance & Observability",
+        "zh": "性能与可观测性",
+        "ja": "パフォーマンス・可観測性"
+      },
+      "description": {
+        "en": "Application performance optimization and monitoring",
+        "zh": "应用性能优化和监控",
+        "ja": "アプリケーションパフォーマンス最適化とモニタリング"
+      }
+    },
+    "data-analytics": {
+      "count": 2,
+      "url": "index/categories/data-analytics.json",
+      "name": {
+        "en": "Data Engineering & Analytics",
+        "zh": "数据工程与分析",
+        "ja": "データエンジニアリング・分析"
+      },
+      "description": {
+        "en": "Data processing, analytics, and business intelligence",
+        "zh": "数据处理、分析和商业智能",
+        "ja": "データ処理、分析、ビジネスインテリジェンス"
+      }
+    },
+    "machine-learning": {
+      "count": 4,
+      "url": "index/categories/machine-learning.json",
+      "name": {
+        "en": "Machine Learning & AI",
+        "zh": "机器学习与人工智能",
+        "ja": "機械学習・AI"
+      },
+      "description": {
+        "en": "ML pipelines, AI applications, and prompt engineering",
+        "zh": "ML管道、AI应用和提示工程",
+        "ja": "MLパイプライン、AIアプリケーション、プロンプトエンジニアリング"
+      }
+    },
+    "documentation": {
+      "count": 5,
+      "url": "index/categories/documentation.json",
+      "name": {
+        "en": "Documentation & Technical Writing",
+        "zh": "文档与技术写作",
+        "ja": "ドキュメント・技術文書"
+      },
+      "description": {
+        "en": "Technical documentation, API specs, and content creation",
+        "zh": "技术文档、API规范和内容创建",
+        "ja": "技術文書、API仕様、コンテンツ作成"
+      }
+    },
+    "business-finance": {
+      "count": 3,
+      "url": "index/categories/business-finance.json",
+      "name": {
+        "en": "Business Analysis & Finance",
+        "zh": "业务分析与金融",
+        "ja": "ビジネス分析・金融"
+      },
+      "description": {
+        "en": "Business metrics, financial modeling, and risk analysis",
+        "zh": "业务指标、金融建模和风险分析",
+        "ja": "ビジネスメトリクス、金融モデリング、リスク分析"
+      }
+    },
+    "marketing-sales": {
+      "count": 2,
+      "url": "index/categories/marketing-sales.json",
+      "name": {
+        "en": "Marketing & Sales",
+        "zh": "营销与销售",
+        "ja": "マーケティング・営業"
+      },
+      "description": {
+        "en": "Content marketing, sales automation, and customer engagement",
+        "zh": "内容营销、销售自动化和客户参与",
+        "ja": "コンテンツマーケティング、営業自動化、顧客エンゲージメント"
+      }
+    },
+    "support-legal": {
+      "count": 3,
+      "url": "index/categories/support-legal.json",
+      "name": {
+        "en": "Support & Legal",
+        "zh": "支持与法务",
+        "ja": "サポート・法務"
+      },
+      "description": {
+        "en": "Customer support, HR operations, and legal compliance",
+        "zh": "客户支持、人力资源运营和法律合规",
+        "ja": "カスタマーサポート、人事運営、法的コンプライアンス"
+      }
+    },
+    "specialized-domains": {
+      "count": 4,
+      "url": "index/categories/specialized-domains.json",
+      "name": {
+        "en": "Specialized Domains",
+        "zh": "专业领域",
+        "ja": "専門領域"
+      },
+      "description": {
+        "en": "Blockchain, payments, legacy modernization, and specialized tools",
+        "zh": "区块链、支付、遗留系统现代化和专业工具",
+        "ja": "ブロックチェーン、決済、レガシーモダナイゼーション、専门工具"
+      }
+    },
+    "seo-content": {
+      "count": 10,
+      "url": "index/categories/seo-content.json",
+      "name": {
+        "en": "SEO & Content Optimization",
+        "zh": "SEO与内容优化",
+        "ja": "SEO・コンテンツ最適化"
+      },
+      "description": {
+        "en": "Search engine optimization, content strategy, and digital marketing",
+        "zh": "搜索引擎优化、内容策略和数字营销",
+        "ja": "検索エンジン最適化、コンテンツ戦略、デジタルマーケティング"
+      }
+    }
+  },
+  "featured": {
+    "count": 20,
+    "url": "index/featured.json",
+    "description": {
+      "en": "Top 20 most popular agents across all categories",
+      "zh": "各类别中最受欢迎的20个代理",
+      "ja": "全カテゴリで最も人気の高い20のエージェント"
+    }
+  },
+  "stats": {
+    "totalDownloads": 15420,
+    "averageRating": 4.2,
+    "totalRatings": 892,
+    "topCategories": ["seo-content", "core-architecture", "web-programming"],
+    "modelDistribution": {
+      "haiku": 11,
+      "sonnet": 51,
+      "opus": 22
+    }
+  },
+  "endpoints": {
+    "search": "Search all agents across categories",
+    "categories": "Browse agents by category",
+    "featured": "Most popular agents",
+    "latest": "Recently updated agents"
+  }
+}

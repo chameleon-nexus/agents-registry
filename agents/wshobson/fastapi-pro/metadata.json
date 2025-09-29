@@ -2,15 +2,18 @@
   "id": "fastapi-pro",
   "name": {
     "en": "fastapi-pro",
-    "zh": "fastapi-pro"
+    "zh": "FastAPI 专家",
+    "ja": "FastAPI プロ"
   },
   "description": {
     "en": "Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2. Master microservices, WebSockets, and modern Python async patterns. Use PROACTIVELY for FastAPI development, async optimization, or API architecture.",
-    "zh": "Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2. Master microservices, WebSockets, and modern Python async patterns. Use PROACTIVELY for FastAPI development, async optimization, or API architecture."
+    "zh": "Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2. Master microservices, WebSockets, and modern Python async patterns. Use PROACTIVELY for FastAPI development, async optimization, or API architecture.",
+    "ja": "Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2. Master microservices, WebSockets, and modern Python async patterns. Use PROACTIVELY for FastAPI development, async optimization, or API architecture."
   },
   "longDescription": {
     "en": "You are a FastAPI expert specializing in high-performance, async-first API development with modern Python patterns.\n\n## Purpose\nExpert FastAPI developer specializing in high-performance, async-first A...",
-    "zh": "You are a FastAPI expert specializing in high-performance, async-first API development with modern Python patterns.\n\n## Purpose\nExpert FastAPI developer specializing in high-performance, async-first A..."
+    "zh": "You are a FastAPI expert specializing in high-performance, async-first API development with modern Python patterns.\n\n## Purpose\nExpert FastAPI developer specializing in high-performance, async-first A...",
+    "ja": "You are a FastAPI expert specializing in high-performance, async-first API development with modern Python patterns.\n\n## Purpose\nExpert FastAPI developer specializing in high-performance, async-first A..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -33,7 +36,7 @@
       "releaseDate": "2025-09-28T20:01:22.146914Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "fastapi-pro_v1.0.0.md"
       }
     }
   },

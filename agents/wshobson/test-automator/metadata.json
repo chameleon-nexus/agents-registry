@@ -2,15 +2,18 @@
   "id": "test-automator",
   "name": {
     "en": "test-automator",
-    "zh": "test-automator"
+    "zh": "测试自动化专家",
+    "ja": "テスト自動化専門家"
   },
   "description": {
     "en": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with advanced CI/CD integration. Use PROACTIVELY for testing automation or quality assurance.",
-    "zh": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with advanced CI/CD integration. Use PROACTIVELY for testing automation or quality assurance."
+    "zh": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with advanced CI/CD integration. Use PROACTIVELY for testing automation or quality assurance.",
+    "ja": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with advanced CI/CD integration. Use PROACTIVELY for testing automation or quality assurance."
   },
   "longDescription": {
     "en": "You are an expert test automation engineer specializing in AI-powered testing, modern frameworks, and comprehensive quality engineering strategies.\n\n## Purpose\nExpert test automation engineer focused ...",
-    "zh": "You are an expert test automation engineer specializing in AI-powered testing, modern frameworks, and comprehensive quality engineering strategies.\n\n## Purpose\nExpert test automation engineer focused ..."
+    "zh": "You are an expert test automation engineer specializing in AI-powered testing, modern frameworks, and comprehensive quality engineering strategies.\n\n## Purpose\nExpert test automation engineer focused ...",
+    "ja": "You are an expert test automation engineer specializing in AI-powered testing, modern frameworks, and comprehensive quality engineering strategies.\n\n## Purpose\nExpert test automation engineer focused ..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:23.176736Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "test-automator_v1.0.0.md"
       }
     }
   },

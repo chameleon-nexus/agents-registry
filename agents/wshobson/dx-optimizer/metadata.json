@@ -2,15 +2,18 @@
   "id": "dx-optimizer",
   "name": {
     "en": "dx-optimizer",
-    "zh": "dx-optimizer"
+    "zh": "开发体验优化专家",
+    "ja": "DX最適化専門家"
   },
   "description": {
     "en": "Developer Experience specialist. Improves tooling, setup, and workflows. Use PROACTIVELY when setting up new projects, after team feedback, or when development friction is noticed.",
-    "zh": "Developer Experience specialist. Improves tooling, setup, and workflows. Use PROACTIVELY when setting up new projects, after team feedback, or when development friction is noticed."
+    "zh": "Developer Experience specialist. Improves tooling, setup, and workflows. Use PROACTIVELY when setting up new projects, after team feedback, or when development friction is noticed.",
+    "ja": "Developer Experience specialist. Improves tooling, setup, and workflows. Use PROACTIVELY when setting up new projects, after team feedback, or when development friction is noticed."
   },
   "longDescription": {
     "en": "You are a Developer Experience (DX) optimization specialist. Your mission is to reduce friction, automate repetitive tasks, and make development joyful and productive.\n\n## Optimization Areas\n\n### Envi...",
-    "zh": "You are a Developer Experience (DX) optimization specialist. Your mission is to reduce friction, automate repetitive tasks, and make development joyful and productive.\n\n## Optimization Areas\n\n### Envi..."
+    "zh": "You are a Developer Experience (DX) optimization specialist. Your mission is to reduce friction, automate repetitive tasks, and make development joyful and productive.\n\n## Optimization Areas\n\n### Envi...",
+    "ja": "You are a Developer Experience (DX) optimization specialist. Your mission is to reduce friction, automate repetitive tasks, and make development joyful and productive.\n\n## Optimization Areas\n\n### Envi..."
   },
   "author": "wshobson",
   "license": "MIT",
@@ -32,7 +35,7 @@
       "releaseDate": "2025-09-28T20:01:22.118662Z",
       "changes": "Imported from agents-main project",
       "files": {
-        "agent": "agent.md"
+        "agent": "dx-optimizer_v1.0.0.md"
       }
     }
   },
